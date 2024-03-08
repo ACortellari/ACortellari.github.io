@@ -5,4 +5,5 @@ The goal of this ongoing project is to make a number of primary sources more rea
 I worked on my thesis, <a href="https://studenttheses.universiteitleiden.nl/handle/1887/82728">Bringing Palestine Home: A Transnational History of Turkey’s Radical Left and Palestine (1967-1972)</a>, under the supervision of Dr. Alp A. Yenen, and submitted it in 2019 as part of my MA at Leiden University.
 
 ## Primary Sources
-[Aslan, Yusuf. “El Feth’e Niye Gittim?” Ant Haftalık Dergi, February 24, 1970.](Primary Sources/Aslan - 1970 - El Feth'e Niye Gittim.md)
+* [Aslan, Yusuf. “El Feth’e Niye Gittim?” Ant Haftalık Dergi, February 24, 1970.](Primary Sources/Aslan - 1970 - El Feth'e Niye Gittim.md)
+* A. Kerim. “Orta Doğuda Fedayi Harekatı ve FiIistin Demokratik Halk Kurtuluş Cephesi.” Aydınlık Sosyalist Dergi, May 1970.
