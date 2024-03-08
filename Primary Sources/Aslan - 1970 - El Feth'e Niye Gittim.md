@@ -1,11 +1,18 @@
+<html>
+<body>
 <h1>EL FETH'E NİYE GiTTiM?</h1>
 
 <p>Bugün Ortadoğu'da Amerikanın imperyalizminin ileri karakolu olan İsraile karşı Arap halkları anti-emperyalist bir savaş yürütmektedirler. Bu savaş Asya’da, Afrika'da, Latin Amerika'da ve butun dunyada emperyalizmin baskısı altında ezilen halkların yürüttüğü devrimci kavganin bir parcasi.</p>
+
 <p>Emperyalizme karşı yürütülen savas, bütün dünya hallkarının ortak savaşıdır. Vletnam'da, Ortadoğu'da, Latin Amerika'da emperyalizme karşı sıkılan her kurşun, aynizamanda Türkiye halkinin kurtulusu icin sikilmaktadir.</p>
 Günümüz koşullarında, ozellikle emperyalizmin bir sıcak savaş bölgesi haline getirdigi. Ortadoğu'da da bütün halkların, Turkiye, Iran, Arap, Kıbrıs, Kürt halklarının bir antiemperyalist cephe kurmaları, ORTADOĞU DEVRİMCİ ÇEMBERİ'ni oluşturmaları, emperyâlizme karşı kahredici dâarbenin indirilmesinin başlıca şartlarından biridir.</p>
+
 <p>Bu yüzden Ortadoğu'da senelerden beri verilmekte olan devrimci kavganın pratiğinden geçmek ve ezilen Arap halklarınin kurtuluş mücadelesine bir nefer olarak katkıda bulunmak için El Feth'e gittim.</p>
+
 <p>El Feth, Ortadağu'da halk savaşıni yürüten örgütlerin en güçlülerinden biridir. Bu örgüt, emperyalizme karşı verilen savaşta Arap halklarını silahlı mucadele incinde orgutleyip egiten, marksist-leninist devrimcilerin yonetim organlarinda bulundugu birslesikp cephe orgutudur. Orgut isci-koylumun buyuk olcude ittifakini gerceklestirmis, kucuk burjuvazinin butun kesimlerinin sicak savas icinde destegini saglamistir. Ayrica, ortdagodu-daki diger devrimci orgutlerle birlikte gerici Arap rejimlerini de Filistin halkinin silahli gucu karsisinda, görünüşte de olsa, hareketi desteklemek zorunda bırakmıştır.</p>
+
 <p>EI Feth'te, diğer ülkelerden gelen ve Ortadoğu'daki halk savaşını emperyalizme karşı verilen savaşın bir parçası olarak gören, orada emperyalizme karşı sıkılan her kurşunun kendi halkının kurtuluşu için sıkıldığını bilen, devrimciler eğitim görür. 13 yasindaki çocugundan 80 yaşındaki ihtiyarına kadar halk savaşçılarıyla birlikte omuz omuza savasa girer. Ve devrimciler, bu halk savasinda 13 yasindaki devrimcinin, ezilen halkalarin kurtulusu icin mucadele ettiginin bilincinde oldugunu gorur. Halk savasinin kudretini ve emperyalistlerin halk savasindan korkmakta ne kadar haklı olduğunu görür, Halkın silahlı mücadele içinde nasıl örgütlendigini, bilinclendigini ve emperyalizme karsi nasil başarıyla savaştığını görür.</p>
+
 <p>Bir dahâ inanır ki, emperyalizmin barbarlıkları, üstün silahli gucu karsisinda dünya halklarının kağarlı mücadeleleri sürecek ve mutlaka kalıcı zaferlerle neticelenecektir.</p>
 
 <h2>Emperyalizme Karşı Dövüşmek Suç Değildir!</h2>
@@ -59,3 +66,5 @@ GĞU'DAN KOVULANA, DÜNYADAN
 YOROLANA KADAR SÜRECEKTİR.
 
 Yusuf ASLAN
+</body>
+</html>
