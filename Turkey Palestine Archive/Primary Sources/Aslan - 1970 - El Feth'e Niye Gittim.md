@@ -25,7 +25,7 @@ yolmak idi...
 
 Hakim sınıflar artık şunu anlamalıdır ki, ne tür işkenceler yapılırsa, ne tür tertipler hazırlanırsa hazırlansın, devrimciler yılmayacak ve haklı kavgalarını sonuna dek sürdürecektir. Türkiye'deki devrimcileri ve devrimci kavgayı Türkiye halklarının gözlerinden düşürmek için yapılan son tertiplerden biri de Diyarbakır Olayı'dır. Memleketlerine dönen devrimciler, birbir Diyarbakır Tıp Fakültesi'ne sabotaj yapacakları gerekçesiyle tutuklanıyorlar. Maksat açıktır: Devrimcileri maceracı, anarşist olarak tanıtmak, ve Doğuda zorlukla kurulan Tıp Fakültesi'ne sabotaj yapılacağı söylentisiyle Doğu halkını Arap halklarının haklı mücadelesine karşı kuşkuya düşürmek, Kürt ve Türk halklarının kardeşliğine nifak sokmaktır.
 
-Bu oyunun düzenleyicileri — hakim çevreler tarafından açıklıkla bilinmelidirç
+Bu oyunun düzenleyicileri — hakim çevreler tarafından açıklıkla bilinmelidir.
 
 SAVAŞIMIZ, ÇAĞIMIZIN YÜZKARASI EMPERYALİZME VE ONUN
 İŞBİRLİKÇİLERİNE KARŞIDIR. EZİLEN DÜNYA HALKLARININ DİRENİŞİNİN BİR PARÇASIDIR.
