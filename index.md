@@ -57,7 +57,6 @@ I worked on my thesis, <a href="https://studenttheses.universiteitleiden.nl/hand
 * “İstanbul’da Okuyan Arap Öğrenciler Gösteri Yaptı.” Cumhuriyet, May 28, 1967.
 * “İstanbul’daki 300 Arap Öğrencisi Gönüllü Kaydedildi.” Milliyet, June 6, 1967.
 * “İzmir’deki İnfilâk Dolaysiyle Dışişlerinin Açıklaması.” Dışişleri Bakanlığı Belleteni, no. 59 (August 1969): 67–68.
-
 * “Komando Kampları.” Ant Haftalık Dergi, September 24, 1968.
 * “Komando Yargılandı.” Ant Haftalık Dergi, November 25, 1969.
 * Naci, Fethi. “Orta Doğu ve Biz.” Ant Haftalık Dergi, June 13, 1967.
