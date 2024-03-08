@@ -16,52 +16,16 @@ Bir daha inanır ki, emperyalizmin barbarlıkları, üstün silahli gücü karş
 
 ## Emperyalizme Karşı Dövüşmek Suç Değildir!
 
-Türkiye'de sırtını emperyalizme dayamış işbirlikçi iktidar, Arap halklarınin kurtuluş mücadelesine saygı duyan Türkiye halklarına şirin gözükmek için Kahire’ye parlamento heyetleri yollarken Arap halklarinin hakli mucadelesine bilfiil katilan Turkiye’li devrimcilere turlu iskenceler ve tertipler yapmaktadir. Arap halklariyla birlikte emperyalizme karsi savasmanin suc olmadigini, bu mucadeleyi sucmus gibi gostermek için yapılan tertipleri ve devrimcilere yapılan işkenceleri açıklamak isterim,
+Türkiye'de sırtını emperyalizme dayamış işbirlikçi iktidar, Arap halklarınin kurtuluş mücadelesine saygı duyan Türkiye halklarına şirin gözükmek için Kahire’ye parlamento heyetleri yollarken Arap halklarının haklı mücadelesine bilfiil katılan Turkiye'li devrimcilere türlü işkenceler ve tertipler yapmaktadır. Arap halklarıyla birlikte emperyalizme karşi savaşmanın suç olmadığını, bu mücadeleyi suçmuç gibi göstermek için yapılan tertipleri ve devrimcilere yapılan işkenceleri açıklamak isterimç
 
-Memleketime döndüğümnden — birbu.
-gçuk ay sonra izinsiz yurt dışıma çıktı.
-ğım gerekçesiyle Kargamış istasyonua.
-da, 1 Şubat'ta yakalandım. Önce jan-
-darma karakolunda, sonra &
-
-'nde olmak Üzere, dört gün sa-
-bahlara kadar işkence altında sorgum
-yapıldı. İşkencelerin en halifi, saatlerce
-süren falaka, gözlere ışık tutmak, saç
+Memleketime döndüğümnden birbuçuk ay sonra izinsiz yurt dışına çıktığım gerekçesiyle Kargamış istasyonunda, 1 Şubat'ta yakalandım. Önce jandarma karakolunda, sonra Gaziantep Emniyeti'nde olmak üzere, dört gün sabahlara kadar işkence altında sorgum yapıldı. İşkencelerin en halifi, saatlerce süren falaka, gözlere ışık tutmak, saç
 yolmak idi...
 
-Hakim sınıflar artık şunu anlama-
-hıdır ki, ne tür işkenceler yapılırsa, ne
-tür tertipler bazırlanırsa — hazırlansın,
-devrimciler yılmayacak ve haklı lungı,.
-larını sonuna dek sürdürecektir. Türki.
-ye'deki devrimcileri ve devrimci kavyga-
-yı Türkiye halklarının gözlerinden dü.
-şürmek- için yapılan son — tertiplerden
-biri de Diyarbakır Olayı'dır. Memleket.
-lerine dönen devrimciler, birbir Diyar.
-bakır Tıp Fakültesi'ne sabotaj yapucak.
-karı gerekçesiyle tutuklanıyorlar. Mak-
-sat açıktır: Devrimcileri maceracı, a.
-marşist olarak tamılmak, ve Doğuda
-zarlukla kurulan Tp Fakültesi'ne sa-
-botaj yapılacağı söylentisiyle Doğu hal.
-kını Arap halklarımnın haklı mücadelesi.
-ne karşı kuşkuya düşürmek, Kürt ve
-Türk bhalklarının kardeşliğine nifak sok.
-maktır.
+Hakim sınıflar artık şunu anlamalıdır ki, ne tür işkenceler yapılırsa, ne tür tertipler hazırlanırsa hazırlansın, devrimciler yılmayacak ve haklı kavgalarını sonuna dek sürdürecektir. Türkiye'deki devrimcileri ve devrimci kavgayı Türkiye halklarının gözlerinden düşürmek için yapılan son tertiplerden biri de Diyarbakır Olayı'dır. Memleketlerine dönen devrimciler, birbir Diyarbakır Tıp Fakültesi'ne sabotaj yapacakları gerekçesiyle tutuklanıyorlar. Maksat açıktır: Devrimcileri maceracı, anarşist olarak tanıtmak, ve Doğuda zorlukla kurulan Tıp Fakültesi'ne sabotaj yapılacağı söylentisiyle Doğu halkını Arap halklarının haklı mücadelesine karşı kuşkuya düşürmek, Kürt ve Türk halklarının kardeşliğine nifak sokmaktır.
 
-Bu oyunun düzenleyicileri — hakim
-în—ler tarafından açıklıkla bilinmeli-
+Bu oyunun düzenleyicileri — hakim çevreler tarafından açıklıkla bilinmelidirç
 
-SAVAŞIMIZ, ÇAĞIMIZIN YÜZKA.
-RASI EMFPERYALİZME VE ONUN
-İŞBİRLİKÇİLERİNE KARŞIDIR. EZİ.
-LEN DÜNYA HALKLARININ DİRE
-NİŞİNİN BİR PARÇASIDIR.
+SAVAŞIMIZ, ÇAĞIMIZIN YÜZKARASI EMPERYALİZME VE ONUN
+İŞBİRLİKÇİLERİNE KARŞIDIR. EZİLEN DÜNYA HALKLARININ DİRENİŞİNİN BİR PARÇASIDIR.
 
-VE EMPERYALİZM, ORTADO.
-GĞU'DAN KOVULANA, DÜNYADAN
-YOROLANA KADAR SÜRECEKTİR.
-
-Yusuf ASLAN,
+VE EMPERYALİZM, ORTADOĞU'DAN KOVULANA, DÜNYADAN YOROLANA KADAR SÜRECEKTİR.
