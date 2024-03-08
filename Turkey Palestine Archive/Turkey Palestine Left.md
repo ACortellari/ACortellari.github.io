@@ -8,7 +8,7 @@ I worked on my thesis, <a href="https://studenttheses.universiteitleiden.nl/hand
 * “Ankara’daki Ürdün Elçiliğine Filistin Bayrağı Çekildi.” Milliyet, September 24, 1970.
 * “Arafat: ‘Kahraman Türk Halkıyla İlişkilerimiz Çok Önemli Olacak.’” Milliyet, October 6, 1979.
 * “Arap Gerillaları İsrail Baskınının İntikamını Alıyor.” Cumhuriyet, December 31, 1968.
-* Aslan, Yusuf. [“El Feth’e Niye Gittim?”](Turkey Palestine Archive/Primary Sources/Aslan - 1970 - El Feth'e Niye Gittim.md) Ant Haftalık Dergi, February 24, 1970.
+* Aslan, Yusuf. [“El Feth’e Niye Gittim?”](Primary Sources/Aslan - 1970 - El Feth'e Niye Gittim.md) Ant Haftalık Dergi, February 24, 1970.
 * Baş, Hüseyin. “Orta Doğuda Yeni Tehlike.” Ant Haftalık Dergi, August 20, 1968.
 * Baş, Hüseyin. “Ortadoğu’da Savaş Bulutları Birikiyor.” Ant Haftalık Dergi, January 14, 1969.
 * “Beyrut Baskını ve Sonrası.” Aydınlık Sosyalist Dergi, February 1969.
