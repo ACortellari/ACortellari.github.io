@@ -18,7 +18,7 @@ Bir daha inanır ki, emperyalizmin barbarlıkları, üstün silahli gücü karş
 
 ## Emperyalizme Karşı Dövüşmek Suç Değildir!
 
-Türkiye'de sırtını emperyalizme dayamış işbirlikçi iktidar, Arap halklarınin kurtuluş mücadelesine saygı duyan Türkiye halklarına şirin gözükmek için Kahire’ye parlamento heyetleri yollarken Arap halklarının haklı mücadelesine bilfiil katılan Turkiye'li devrimcilere türlü işkenceler ve tertipler yapmaktadır. Arap halklarıyla birlikte emperyalizme karşi savaşmanın suç olmadığını, bu mücadeleyi suçmuç gibi göstermek için yapılan tertipleri ve devrimcilere yapılan işkenceleri açıklamak isterimç
+Türkiye'de sırtını emperyalizme dayamış işbirlikçi iktidar, Arap halklarınin kurtuluş mücadelesine saygı duyan Türkiye halklarına şirin gözükmek için Kahire’ye parlamento heyetleri yollarken Arap halklarının haklı mücadelesine bilfiil katılan Turkiye'li devrimcilere türlü işkenceler ve tertipler yapmaktadır. Arap halklarıyla birlikte emperyalizme karşi savaşmanın suç olmadığını, bu mücadeleyi suçmuç gibi göstermek için yapılan tertipleri ve devrimcilere yapılan işkenceleri açıklamak isterim.
 
 Memleketime döndüğümnden birbuçuk ay sonra izinsiz yurt dışına çıktığım gerekçesiyle Kargamış istasyonunda, 1 Şubat'ta yakalandım. Önce jandarma karakolunda, sonra Gaziantep Emniyeti'nde olmak üzere, dört gün sabahlara kadar işkence altında sorgum yapıldı. İşkencelerin en halifi, saatlerce süren falaka, gözlere ışık tutmak, saç
 yolmak idi...
