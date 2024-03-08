@@ -4,7 +4,7 @@ The goal of this ongoing project is to make a number of primary sources more rea
 
 I worked on my thesis, <a href="https://studenttheses.universiteitleiden.nl/handle/1887/82728">Bringing Palestine Home: A Transnational History of Turkey’s Radical Left and Palestine (1967-1972)</a>, under the supervision of Dr. Alp A. Yenen, and submitted it in 2019 as part of my MA at Leiden University.
 
-# Sources in the Leftist Press 
+## Sources in the Leftist Press 
 * “11 Genç Tutuklandı.” Ant Haftalık Dergi, February 17, 1970.
 * Aslan, Yusuf. [“El Feth’e Niye Gittim?”](Primary Sources/Aslan - 1970 - El Feth'e Niye Gittim.md) Ant Haftalık Dergi, February 24, 1970.
 * Baş, Hüseyin. “Orta Doğuda Yeni Tehlike.” Ant Haftalık Dergi, August 20, 1968.
