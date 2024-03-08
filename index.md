@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
 <p>Primary and secondary sources on the history of Turkey's Left and Palestine</p>
