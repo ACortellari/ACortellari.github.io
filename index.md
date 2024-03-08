@@ -5,14 +5,12 @@ The goal of this ongoing project is to make a number of primary sources more rea
 I worked on my thesis, <a href="https://studenttheses.universiteitleiden.nl/handle/1887/82728">Bringing Palestine Home: A Transnational History of Turkey’s Radical Left and Palestine (1967-1972)</a>, under the supervision of Dr. Alp A. Yenen, and submitted it in 2019 as part of my MA at Leiden University.
 
 ## Primary Sources
-* Aslan, Yusuf. [“El Feth’e Niye Gittim?”](Primary Sources/Aslan - 1970 - El Feth'e Niye Gittim.md) Ant Haftalık Dergi, February 24, 1970.
-* “2 Toplum Polisine Ateş Edildi.” Milliyet. December 30, 1970.
 * “11 Genç Tutuklandı.” Ant Haftalık Dergi, February 17, 1970.
 * A. Kerim. “Orta Doğuda Fedayi Harekatı ve FiIistin Demokratik Halk Kurtuluş Cephesi.” Aydınlık Sosyalist Dergi, May 1970.
 * “Ankara’daki Ürdün Elçiliğine Filistin Bayrağı Çekildi.” Milliyet, September 24, 1970.
 * “Arafat: ‘Kahraman Türk Halkıyla İlişkilerimiz Çok Önemli Olacak.’” Milliyet, October 6, 1979.
 * “Arap Gerillaları İsrail Baskınının İntikamını Alıyor.” Cumhuriyet, December 31, 1968.
-* Aslan, Yusuf. “El Feth’e Niye Gittim?” Ant Haftalık Dergi, February 24, 1970.
+* Aslan, Yusuf. [“El Feth’e Niye Gittim?”](Primary Sources/Aslan - 1970 - El Feth'e Niye Gittim.md) Ant Haftalık Dergi, February 24, 1970.
 * Baş, Hüseyin. “Orta Doğuda Yeni Tehlike.” Ant Haftalık Dergi, August 20, 1968.
 * Baş, Hüseyin. “Ortadoğu’da Savaş Bulutları Birikiyor.” Ant Haftalık Dergi, January 14, 1969.
 * “Beyrut Baskını ve Sonrası.” Aydınlık Sosyalist Dergi, February 1969.
@@ -25,15 +23,14 @@ I worked on my thesis, <a href="https://studenttheses.universiteitleiden.nl/hand
 * Cehşan, Mehmet Ali. “Filistin Demokratik Halk Kurtuluş Cephesi.” Türk Solu, September 23, 1969.
 * “Cezayir, İsrail Uçağını Serbest Bırakıyor.” Milliyet, July 31, 1968.
 * Chaliand, Gérard. “El Feth ve Göçmenler.” Türk Solu, July 8, 1969.
-* “El Feth ve Göçmenler.” Türk Solu, July 15, 1969.
-* “El Feth’in Zaferi.” Türk Solu, June 10, 1969.
-* “Filistin Halk Kurtuluş Cephesinde bölünmeler.” Türk Solu, July 1, 1969.
-* “Filistin Mukavemeti.” Türk Solu, June 3, 1969.
-* “Haziran 1967 den Sonra.” Türk Solu, June 17, 1969.
-* “Milli şahsiyetiçin savaş.” Türk Solu, June 24, 1969.
-* “Tartışmanın Özü.” Türk Solu, July 29, 1969.
+* Chaliand, Gérard. “El Feth ve Göçmenler.” Türk Solu, July 15, 1969.
+* Chaliand, Gérard. “El Feth’in Zaferi.” Türk Solu, June 10, 1969.
+* Chaliand, Gérard. “Filistin Halk Kurtuluş Cephesinde bölünmeler.” Türk Solu, July 1, 1969.
+* Chaliand, Gérard. “Filistin Mukavemeti.” Türk Solu, June 3, 1969.
+* Chaliand, Gérard. “Haziran 1967 den Sonra.” Türk Solu, June 17, 1969.
+* Chaliand, Gérard. “Milli şahsiyetiçin savaş.” Türk Solu, June 24, 1969.
+* Chaliand, Gérard. “Tartışmanın Özü.” Türk Solu, July 29, 1969.
 * “Devrimci Gençler Ürdün Elçiliğine Gereken Dersi Verdiler.” İleri (Türkiye Devrimci Gençlik Federasyonu), October 15, 1970.
-* “Döktükleri Kanda Boğulacaklar!” Ant Haftalık Dergi, September 29, 1969.
 * “El Feth Gönüllüleri.” Ant Haftalık Dergi, April 21, 1970.
 * “El Feth’in Açıklaması.” Ant Haftalık Dergi, February 17, 1970.
 * “El Fetihe Katılan Gençlerin Bildirisi.” Aydınlık Sosyalist Dergi, March 1970.
@@ -47,7 +44,6 @@ I worked on my thesis, <a href="https://studenttheses.universiteitleiden.nl/hand
 * “Filistin’de Savaşan Türkler Olduğunu El Feth Açıkladı.” Milliyet. February 9, 1970.
 * “Filistin’de Savaşın Öncülüğü Halka Geçiyor!” Ant Haftalık Dergi, June 3, 1969.
 * “Fuardaki İsrail Pavyonunu Dinamitlemek İsteyen İki Ürdün’lüden Biri Öldü.” Milliyet. August 24, 1969.
-* “Gençlik Amerika ve İngiltere’ye Çattı.” Akşam, June 15, 1967.
 * “Gençlik Temsilcileri Arapların Desteklenmesini İstediler.” Cumhuriyet, June 8, 1967.
 * “Gerilla Harekati.” Ant Haftalık Dergi, November 4, 1969.
 * “Gerilla Harekati.” Ant Haftalık Dergi, November 11, 1969.
@@ -71,16 +67,13 @@ I worked on my thesis, <a href="https://studenttheses.universiteitleiden.nl/hand
 * “Orta Doğu’da Yeni Atılımlar.” Türk Solu, November 18, 1969.
 * “Ortadoğu Buhranı.” Türk Solu, November 24, 1967.
 * “Ortadoğu’da Küçük Burjuva Rejimlerinin İhaneti Karşısında Gerillalar Birleşiyor.” Ant (Sosyalist Teori ve Eylem Dergisi), March 1971.
-* “Sokak Savaşı.” July 26, 1968.
-* “Sosyalistler Bir Şehit Daha Verdi.” Ant Haftalık Dergi, July 30, 1968.
 * Tansuğ, Halük. “Arab Halkları Çıkmazdan Nasıl Kurtulabilir?” Ant Haftalık Dergi, June 20, 1967.
 * Tansuğ, Halük. “Ortadoğu Politikada «Vietnam»’laştı.” Ant Haftalık Dergi, June 13, 1967.
 * Toker, Metin. “El Feth’in İçyüzü. Dişinden Tırnağına Silâhlı Bır Teşkilât.” Milliyet, April 20, 1969.
-* “El Feth’in İçyüzü. El Feth de Bir Halk Savaşına Hazırlanıyor.” Milliyet, April 21, 1969.
-* “El Feth’in İçyüzü. Orta Doğu’ya Artık Kimse Sükün Götüremez.” Milliyet, April 23, 1969.
-* “El Feth’in İçyüzü. Yahudilere Değil, Siyonizme Düşmanlar.” Milliyet, April 22, 1969.
-* “Orta-Doğu’da Artık Silâh Konuşacak.” Milliyet, March 26, 1969.
-* Türk Solu. “Kanlarımızda Boğulacaksınız.” Türk Solu, September 30, 1969.
+* Toker, Metin. “El Feth’in İçyüzü. El Feth de Bir Halk Savaşına Hazırlanıyor.” Milliyet, April 21, 1969.
+* Toker, Metin. “El Feth’in İçyüzü. Orta Doğu’ya Artık Kimse Sükün Götüremez.” Milliyet, April 23, 1969.
+* Toker, Metin. “El Feth’in İçyüzü. Yahudilere Değil, Siyonizme Düşmanlar.” Milliyet, April 22, 1969.
+* Toker, Metin. “Orta-Doğu’da Artık Silâh Konuşacak.” Milliyet, March 26, 1969.
 * “Uçak Kaçırdılar.” Ant Haftalık Dergi, July 30, 1968.
 * “Ürdün’de Darbe.” Ant Haftalık Dergi, November 12, 1968.
 * “Yaşasın Filistin ve Bütün Orta-Doğu Halklarının Devrimci Savaşı.” Aydınlık Sosyalist Dergi, October 1970.
