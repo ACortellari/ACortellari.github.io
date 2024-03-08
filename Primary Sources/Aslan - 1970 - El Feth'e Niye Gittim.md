@@ -10,7 +10,7 @@ Günümüz koşullarında, ozellikle emperyalizmin bir sıcak savaş bölgesi ha
 
 <h2>Emperyalizme Karşı Dövüşmek Suç Değildir!</h2>
 
-Türkiye'de sırtını emperyalizme dayamış işbirlikçi iktidar, Arap halklarınin kurtuluş mücadelesine saygı duyan Türkiye halklarına şirin gözükmek için Kahire’ye parlamento heyetleri yollarken Arap halklarinin hakli mucadelesine bilfiil katilan Turkiye’li devrimcilere turlu iskenceler ve tertipler yapmaktadir. Arap halklariyla birlikte emperyalizme karsi savasmanin suc olmadigini, bu mucadeleyi sucmus gibi gostermek için yapılan tertipleri ve devrimcilere yapılan işkenceleri açıklamak isterim,
+<p>Türkiye'de sırtını emperyalizme dayamış işbirlikçi iktidar, Arap halklarınin kurtuluş mücadelesine saygı duyan Türkiye halklarına şirin gözükmek için Kahire’ye parlamento heyetleri yollarken Arap halklarinin hakli mucadelesine bilfiil katilan Turkiye’li devrimcilere turlu iskenceler ve tertipler yapmaktadir. Arap halklariyla birlikte emperyalizme karsi savasmanin suc olmadigini, bu mucadeleyi sucmus gibi gostermek için yapılan tertipleri ve devrimcilere yapılan işkenceleri açıklamak isterim,</p>
 
 Memleketime döndüğümnden — birbu.
 gçuk ay sonra izinsiz yurt dışıma çıktı.
