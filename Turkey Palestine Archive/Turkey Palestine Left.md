@@ -11,6 +11,8 @@ I completed my thesis, titled <a href="https://studenttheses.universiteitleiden.
 If any user believes that a valuable source is missing from this list (and that is most likely the case), I welcome and encourage suggestions. Your input is invaluable in enhancing the comprehensiveness of this small collection.
 
 ## Sources in the Leftist Press
+The sources provided here span the years 1968 to 1971, representing just a fraction of the leftist weekly and monthly publications from that period. Although the initial corpus was more extensive, only the sources included in my bibliography are currently listed. Additional sources may be made available here in the future.
+
 <details>
   <summary>Expand List</summary>
 
