@@ -13,9 +13,6 @@ If any user believes that a valuable source is missing from this list (and that 
 ## Sources in the Leftist Press
 The sources provided here span the years 1968 to 1971, representing just a fraction of the leftist weekly and monthly publications from that period. Although the initial corpus was more extensive, only the sources included in my bibliography are currently listed. Additional sources may be made available here in the future.
 
-<details>
-  <summary>Expand List</summary>
-
   * “11 Genç Tutuklandı.” Ant Haftalık Dergi, February 17, 1970.
   * Aslan, Yusuf. [“El Feth’e Niye Gittim?”](Primary Sources/Aslan - 1970 - El Feth'e Niye Gittim.md) Ant Haftalık Dergi, February 24, 1970.
   * Baş, Hüseyin. “Orta Doğuda Yeni Tehlike.” Ant Haftalık Dergi, August 20, 1968.
@@ -64,14 +61,6 @@ The sources provided here span the years 1968 to 1971, representing just a fract
   * “Uçak Kaçırdılar.” Ant Haftalık Dergi, July 30, 1968.
   * “Ürdün’de Darbe.” Ant Haftalık Dergi, November 12, 1968.
   * “Yaşasın Filistin ve Bütün Orta-Doğu Halklarının Devrimci Savaşı.” Aydınlık Sosyalist Dergi, October 1970.
-
-  ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-</details>
 
 ## Sources in the Mainstream Press
 * A. Kerim. “Orta Doğuda Fedayi Harekatı ve FiIistin Demokratik Halk Kurtuluş Cephesi.” Aydınlık Sosyalist Dergi, May 1970.
