@@ -3,7 +3,7 @@
 
 Arap proletaryasının gittikçe gürleşen sesini ölü denizin yapışkan çölünde; yedi kat yerin altında yeşil bir hayat damarı gibi uzanan Şerianın kıyılarında esen yakıcı rüzgârlar, hafif otomatiklerden kurulu bir orkestranın eşliğinde bütün Orta Doğuya yayıyor. Arap proletaryasının öz örgütü olma yolundaki Filistin Demokratik Halk Kurtuluş Cephesi, anti-emperyalist mücadele içinde hızla gelişiyor.
 
-## Arap Dünyasında Fedayi̇ Harekâtının Başlayışı
+## Arap Dünyasında Fedayi Harekâtının Başlayışı
 Askeri strateji bakımından iç hat durumunda bulunan Amerikan emperyalizminin Orta Doğudaki en güçlü ortağı emperyalist İsrail hükümeti, üstün vurucu güce sahip hava kuvvetleriyle, radar boşluklarından yararlanarak en güçlü rakibi Mısır hükümetinin hava kuvvetlerine, daha yerdeyken, 1967'nin beş Haziran günü öldürücü darbeyi vurdu. Savaşın siklet merkezini teşkil eden Sina-cephesinde, hava desteğinden mahrum kalan Mısır orduları çözüldüler. Üstün hava ateş desteği altında İsrail orduları Süveyş'e kadar ilerlediler.
 
 Yine beş Haziran günü İsrail orduları Ürdün cephesinde de hiçbir direnmeyle karşılaşmadan Şeria nehri kıyılarına kadar geldiler. Emperyalizmin adamı olan Kıral Hüseyin' emrindeki Ürdün orduları aldıkları emir üzerine savaşmadılar. Hiç yorulmadan Şerla kıyılarında kendiliklerinden durarak tahkimatlarını tamamlayan İsrail kuvvetleri, güçlerinin büyük bir kısmını rahatlıkla Suriye cephesine kaydırdı.
