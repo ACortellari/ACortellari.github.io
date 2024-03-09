@@ -1,4 +1,4 @@
-# The Turkey-Palestine Small Archive
+# The Turkey-Palestine Source Collection
 ```
 Last Update: 09/03/2024. 
 Next Scheduled Update: 15/03/2024
