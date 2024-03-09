@@ -8,6 +8,7 @@ If you want to suggest a source that is not listed, or if you find a mistake tha
 
 ## Sources in the Leftist Press 
 * “11 Genç Tutuklandı.” Ant Haftalık Dergi, February 17, 1970.
+* A. Kerim. [“Orta Doğuda Fedayi Harekatı ve FiIistin Demokratik Halk Kurtuluş Cephesi.”](Primary Sources/A. Kerim - 1970 - Orta Doğuda Fedayi Harekatı ve Filistin Demokratik.md) Aydınlık Sosyalist Dergi, May 1970.
 * Aslan, Yusuf. [“El Feth’e Niye Gittim?”](Primary Sources/Aslan - 1970 - El Feth'e Niye Gittim.md) Ant Haftalık Dergi, February 24, 1970.
 * Baş, Hüseyin. “Orta Doğuda Yeni Tehlike.” Ant Haftalık Dergi, August 20, 1968.
 * Baş, Hüseyin. “Ortadoğu’da Savaş Bulutları Birikiyor.” Ant Haftalık Dergi, January 14, 1969.
@@ -57,7 +58,6 @@ If you want to suggest a source that is not listed, or if you find a mistake tha
 * “Yaşasın Filistin ve Bütün Orta-Doğu Halklarının Devrimci Savaşı.” Aydınlık Sosyalist Dergi, October 1970.
 
 ## Sources in the Mainstream Press
-* A. Kerim. “Orta Doğuda Fedayi Harekatı ve FiIistin Demokratik Halk Kurtuluş Cephesi.” Aydınlık Sosyalist Dergi, May 1970.
 * “Ankara’daki Ürdün Elçiliğine Filistin Bayrağı Çekildi.” Milliyet, September 24, 1970.
 * “Arafat: ‘Kahraman Türk Halkıyla İlişkilerimiz Çok Önemli Olacak.’” Milliyet, October 6, 1979.
 * “Arap Gerillaları İsrail Baskınının İntikamını Alıyor.” Cumhuriyet, December 31, 1968.
