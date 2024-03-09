@@ -1,5 +1,8 @@
 # The Turkey-Palestine Small Archive
-```Last Update: 09/03/2024. Next Scheduled Update: 15/03/2024```
+```
+Last Update: 09/03/2024. 
+Next Scheduled Update: 15/03/2024
+```
 
 This page is a humble list of sources, primarily collected from mainstream and leftist press, that can be useful to those interested in studying the history of the radical left in Turkey, specifically its linkages and intellectual connections with Palestinian organizations from the late 1960s to the early 1970s. The bulk of the corpus listed—and sometimes provided in textual form—here is the result of research efforts that occupied me in 2018-19 while working on the Master's Thesis as part of my MA in Middle Eastern Studies at Leiden University.
 
