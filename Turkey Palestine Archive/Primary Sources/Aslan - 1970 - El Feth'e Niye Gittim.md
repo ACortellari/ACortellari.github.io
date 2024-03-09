@@ -18,14 +18,14 @@ Bir daha inanır ki, emperyalizmin barbarlıkları, üstün silahli gücü karş
 
 ## Emperyalizme Karşı Dövüşmek Suç Değildir!
 
-Türkiye'de sırtını emperyalizme dayamış işbirlikçi iktidar, Arap halklarınin kurtuluş mücadelesine saygı duyan Türkiye halklarına şirin gözükmek için Kahire’ye parlamento heyetleri yollarken Arap halklarının haklı mücadelesine bilfiil katılan Turkiye'li devrimcilere türlü işkenceler ve tertipler yapmaktadır. Arap halklarıyla birlikte emperyalizme karşi savaşmanın suç olmadığını, bu mücadeleyi suçmuç gibi göstermek için yapılan tertipleri ve devrimcilere yapılan işkenceleri açıklamak isterimç
+Türkiye'de sırtını emperyalizme dayamış işbirlikçi iktidar, Arap halklarınin kurtuluş mücadelesine saygı duyan Türkiye halklarına şirin gözükmek için Kahire’ye parlamento heyetleri yollarken Arap halklarının haklı mücadelesine bilfiil katılan Turkiye'li devrimcilere türlü işkenceler ve tertipler yapmaktadır. Arap halklarıyla birlikte emperyalizme karşi savaşmanın suç olmadığını, bu mücadeleyi suçmuç gibi göstermek için yapılan tertipleri ve devrimcilere yapılan işkenceleri açıklamak isterim.
 
 Memleketime döndüğümnden birbuçuk ay sonra izinsiz yurt dışına çıktığım gerekçesiyle Kargamış istasyonunda, 1 Şubat'ta yakalandım. Önce jandarma karakolunda, sonra Gaziantep Emniyeti'nde olmak üzere, dört gün sabahlara kadar işkence altında sorgum yapıldı. İşkencelerin en halifi, saatlerce süren falaka, gözlere ışık tutmak, saç
 yolmak idi...
 
 Hakim sınıflar artık şunu anlamalıdır ki, ne tür işkenceler yapılırsa, ne tür tertipler hazırlanırsa hazırlansın, devrimciler yılmayacak ve haklı kavgalarını sonuna dek sürdürecektir. Türkiye'deki devrimcileri ve devrimci kavgayı Türkiye halklarının gözlerinden düşürmek için yapılan son tertiplerden biri de Diyarbakır Olayı'dır. Memleketlerine dönen devrimciler, birbir Diyarbakır Tıp Fakültesi'ne sabotaj yapacakları gerekçesiyle tutuklanıyorlar. Maksat açıktır: Devrimcileri maceracı, anarşist olarak tanıtmak, ve Doğuda zorlukla kurulan Tıp Fakültesi'ne sabotaj yapılacağı söylentisiyle Doğu halkını Arap halklarının haklı mücadelesine karşı kuşkuya düşürmek, Kürt ve Türk halklarının kardeşliğine nifak sokmaktır.
 
-Bu oyunun düzenleyicileri — hakim çevreler tarafından açıklıkla bilinmelidirç
+Bu oyunun düzenleyicileri — hakim çevreler tarafından açıklıkla bilinmelidir.
 
 SAVAŞIMIZ, ÇAĞIMIZIN YÜZKARASI EMPERYALİZME VE ONUN
 İŞBİRLİKÇİLERİNE KARŞIDIR. EZİLEN DÜNYA HALKLARININ DİRENİŞİNİN BİR PARÇASIDIR.
