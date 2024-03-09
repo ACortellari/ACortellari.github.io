@@ -1,11 +1,11 @@
 # The Turkey-Palestine Small Archive
 ```Last Update: 09/03/2024. Next Scheduled Update: 15/03/2024```
 
-The goal of this ongoing project is to make a number of primary sources more readily available to those who are interested in studying the history of the radical left in Turkey and its linkages and intellectual connections with the Palestinian organizations during the Cold War. It is based on a corpus that I collected in 2018 and 2019, while researching my MA thesis in Leiden, Amsterdam, and Istanbul.
+This page is a humble list of sources, primarily collected from mainstream and leftist press, that can be useful to those interested in studying the history of the radical left in Turkey, specifically its linkages and intellectual connections with Palestinian organizations from the late 1960s to the early 1970s. The bulk of the corpus listed—and sometimes provided in textual form—here is the result of research efforts that occupied me in 2018-19 while working on the Master's Thesis as part of my MA in Middle Eastern Studies at Leiden University.
 
-I worked on my thesis, <a href="https://studenttheses.universiteitleiden.nl/handle/1887/82728">Bringing Palestine Home: A Transnational History of Turkey’s Radical Left and Palestine (1967-1972)</a>, under the supervision of Dr. Alp A. Yenen, and submitted it in 2019 as part of my MA at Leiden University.
+I completed my thesis, titled <a href="https://studenttheses.universiteitleiden.nl/handle/1887/82728">Bringing Palestine Home: A Transnational History of Turkey’s Radical Left and Palestine (1967-1972)</a>, under the guidance of Dr. Alp A. Yenen. The rich corpus of primary sources, accessible through the digitization efforts of Türkiye Sosyal Tarih Araştırma Vakfı (TÜSTAV), significantly facilitated my research. I am grateful for TÜSTAV's valuable contributions to my endeavor.
 
-If you want to suggest a source that is not listed, or if you find a mistake that needs editing, feel free to contact me.
+If any user believes that a valuable source is missing from this list (and that is most likely the case), I welcome and encourage suggestions. Your input is invaluable in enhancing the comprehensiveness of this small collection.
 
 ## Sources in the Leftist Press 
 * “11 Genç Tutuklandı.” Ant Haftalık Dergi, February 17, 1970.
