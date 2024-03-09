@@ -1,4 +1,5 @@
 # The Turkey-Palestine Small Archive
+```Last Update: 09/03/2024. Next Scheduled Update: 15/03/2024```
 
 The goal of this ongoing project is to make a number of primary sources more readily available to those who are interested in studying the history of the radical left in Turkey and its linkages and intellectual connections with the Palestinian organizations during the Cold War. It is based on a corpus that I collected in 2018 and 2019, while researching my MA thesis in Leiden, Amsterdam, and Istanbul.
 
