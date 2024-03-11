@@ -1,0 +1,4 @@
+CREATE TABLE issues (
+  issue_number INT[],
+  issue_year INT
+);
