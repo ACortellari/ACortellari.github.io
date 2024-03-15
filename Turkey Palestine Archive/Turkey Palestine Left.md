@@ -13,7 +13,7 @@ If any user believes that a valuable source is missing from this list (and that 
 ## Sources in the Leftist Press
 The sources provided here span the years 1968 to 1971, representing just a fraction of the leftist weekly and monthly publications from that period. Although the initial corpus was more extensive, only the sources included in my bibliography are currently listed. Additional sources may be made available here in the future. 
 
-Sources published in leftist publications will gradually be made available in the <a href='https://github.com/ACortellari/ACortellari.github.io/tree/main/Turkey%20Palestine%20Archive/Sources%20Database'>Sources Database</a> (as .csv files for ease in fruition). The database will include data on publications, issues, authors, and articles.
+Sources published in leftist publications will gradually be made available in the <a href='https://github.com/ACortellari/ACortellari.github.io/tree/main/Turkey%20Palestine%20Archive/Sources%20Database'>Sources Database</a> (as .csv files for ease in fruition). The database will include data on publications, issues, authors, and articles, and a view at the article level.
 
   * “11 Genç Tutuklandı.” Ant Haftalık Dergi, February 17, 1970.
   * Aslan, Yusuf. [“El Feth’e Niye Gittim?”](Primary Sources/Aslan - 1970 - El Feth'e Niye Gittim.md) Ant Haftalık Dergi, February 24, 1970.
