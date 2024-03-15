@@ -11,7 +11,9 @@ I completed my thesis, titled <a href="https://studenttheses.universiteitleiden.
 If any user believes that a valuable source is missing from this list (and that is most likely the case), I welcome and encourage suggestions. Your input is invaluable in enhancing the comprehensiveness of this small collection.
 
 ## Sources in the Leftist Press
-The sources provided here span the years 1968 to 1971, representing just a fraction of the leftist weekly and monthly publications from that period. Although the initial corpus was more extensive, only the sources included in my bibliography are currently listed. Additional sources may be made available here in the future.
+The sources provided here span the years 1968 to 1971, representing just a fraction of the leftist weekly and monthly publications from that period. Although the initial corpus was more extensive, only the sources included in my bibliography are currently listed. Additional sources may be made available here in the future. 
+
+Sources published in leftist publications will gradually be made available as .csv files in the [Sources Database](Sources Database), which will include data on publication, issues, authors, and articles.
 
   * “11 Genç Tutuklandı.” Ant Haftalık Dergi, February 17, 1970.
   * Aslan, Yusuf. [“El Feth’e Niye Gittim?”](Primary Sources/Aslan - 1970 - El Feth'e Niye Gittim.md) Ant Haftalık Dergi, February 24, 1970.
