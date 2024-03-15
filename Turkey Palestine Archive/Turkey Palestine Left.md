@@ -60,7 +60,6 @@ The sources provided here span the years 1968 to 1971, representing just a fract
   * Tansuğ, Halük. “Ortadoğu Politikada «Vietnam»’laştı.” Ant Haftalık Dergi, June 13, 1967.
   * “Uçak Kaçırdılar.” Ant Haftalık Dergi, July 30, 1968.
   * “Ürdün’de Darbe.” Ant Haftalık Dergi, November 12, 1968.
-  * “Yaşasın Filistin ve Bütün Orta-Doğu Halklarının Devrimci Savaşı.” Aydınlık Sosyalist Dergi, October 1970.
 
 ## Sources in the Mainstream Press
 * A. Kerim. “Orta Doğuda Fedayi Harekatı ve FiIistin Demokratik Halk Kurtuluş Cephesi.” Aydınlık Sosyalist Dergi, May 1970.
