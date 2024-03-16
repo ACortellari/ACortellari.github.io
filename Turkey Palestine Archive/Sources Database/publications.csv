@@ -1,6 +1,6 @@
-publication_id	publication_title	publication_start_year	publication_end_year	publication_preservation_entity
-1	Aylık Ant Dergisi	1970	1971	Türkiye Sosyal Tarih Araştırma Vakfı
-2	Aydınlık Sosyalist Dergi	1968	1971	Türkiye Sosyal Tarih Araştırma Vakfı
-3	Proleter Devrimci Aydınlık	1970	1971	Türkiye Sosyal Tarih Araştırma Vakfı
-4	Haftalık Ant Dergisi	1967	1970	Türkiye Sosyal Tarih Araştırma Vakfı
-5	Türk Solu	1967	1970	Türkiye Sosyal Tarih Araştırma Vakfı
+publication_id	publication_title	publication_type_id	publication_preservation_entity
+1	Aylık Ant Dergisi	1	Türkiye Sosyal Tarih Araştırma Vakfı
+2	Aydınlık Sosyalist Dergi	1	Türkiye Sosyal Tarih Araştırma Vakfı
+3	Proleter Devrimci Aydınlık	1	Türkiye Sosyal Tarih Araştırma Vakfı
+4	Haftalık Ant Dergisi	2	Türkiye Sosyal Tarih Araştırma Vakfı
+5	Türk Solu		Türkiye Sosyal Tarih Araştırma Vakfı
