@@ -1,4 +1,4 @@
-## [Publications](publications.md) | Haftalık Ant Dergisi
+## [Publications](publications.md) // Haftalık Ant Dergisi
 
 Haftalık Ant Dergisi was a weekly publication. It published 174 issues in İstanbul between 1967 and 1970.
 

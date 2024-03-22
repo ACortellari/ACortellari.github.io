@@ -1,4 +1,4 @@
-## [Publications](publications.md) | Türk Solu
+## [Publications](publications.md) // Türk Solu
 
 Türk Solu was a weekly publication. It published 126 issues in Ankara between 1967 and 1970.
 
