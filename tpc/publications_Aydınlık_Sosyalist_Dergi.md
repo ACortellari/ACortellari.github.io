@@ -1,4 +1,4 @@
-# [Publications](publications.md) // Aydınlık Sosyalist Dergi
+# [Publications](firstlevel_publications.md) // Aydınlık Sosyalist Dergi
 
 Aydınlık Sosyalist Dergi was a monthly publication. It published 29 issues in Ankara between 1968 and 1971.
 
