@@ -1,6 +1,6 @@
 # The Turkey-Palestine Source Collection
 
-# [ARTICLES](firstlevel_articles.md) // [PUBLICATIONS](firstlevel_publications.md)
+# 
 ```
 Last Update: 2024-03-22
 ```
@@ -20,5 +20,4 @@ The database includes the following:
 
 * articles_view
 * issues_view
-* Leftist Press
 * publications_view
