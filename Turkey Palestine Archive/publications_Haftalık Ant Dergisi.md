@@ -4,9 +4,9 @@ Haftalık Ant Dergisi was a weekly publication. It published 174 issues in İsta
 
 ## Articles in Scope
 
-|   article_id | article_title          | author_type   | author      | publication_title    |   issue_number | issue_date   |   pages |
-|-------------:|:-----------------------|:--------------|:------------|:---------------------|---------------:|:-------------|--------:|
-|           10 | El Feth'e Niye Gittim? | Author        | Yusuf Aslan | Haftalık Ant Dergisi |            165 | 1970-02      |       6 |
+| article_title          | author_type   | author      |   issue_number | issue_date   |   pages |
+|:-----------------------|:--------------|:------------|---------------:|:-------------|--------:|
+| El Feth'e Niye Gittim? | Author        | Yusuf Aslan |            165 | 1970-02      |       6 |
 
 ## Issues Summary
 

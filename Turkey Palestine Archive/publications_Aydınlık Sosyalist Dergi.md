@@ -4,15 +4,15 @@ Aydınlık Sosyalist Dergi was a monthly publication. It published 29 issues in 
 
 ## Articles in Scope
 
-|   article_id | article_title                                                            | author_type   | author            | publication_title        |   issue_number | issue_date   | pages   |
-|-------------:|:-------------------------------------------------------------------------|:--------------|:------------------|:-------------------------|---------------:|:-------------|:--------|
-|           13 | Aydınlık'ta Dünya ve Türkiye                                             | nan           | nan               | Aydınlık Sosyalist Dergi |              1 | 1968-11      | 33-44   |
-|           14 | Aydınlık'ta Dünya ve Türkiye                                             | nan           | nan               | Aydınlık Sosyalist Dergi |              3 | 1969-01      | 177-186 |
-|           15 | Aydınlık'ta Dünya ve Türkiye                                             | nan           | nan               | Aydınlık Sosyalist Dergi |              4 | 1969-02      | 261-278 |
-|           16 | Aydınlık'ta Dünya ve Türkiye                                             | nan           | nan               | Aydınlık Sosyalist Dergi |              6 | 1969-04      | 417-437 |
-|            3 | Aydınlık'ta Dünya ve Türkiye                                             | nan           | nan               | Aydınlık Sosyalist Dergi |             24 | 1970-10      | 504-525 |
-|            6 | Filistin Araplarının Millî Kurtuluş Savaşı                               | Author        | Erdoğan Güçbilmez | Aydınlık Sosyalist Dergi |              3 | 1969-01      | 227-244 |
-|           11 | Orta Doğuda Fedayi Harekatı ve Filistin Demokratik Halk Kurtuluş Cephesi | Author        | A. Kerim          | Aydınlık Sosyalist Dergi |             19 | 1970-05      | 86-96   |
+| article_title                                                            | author_type   | author            |   issue_number | issue_date   | pages   |
+|:-------------------------------------------------------------------------|:--------------|:------------------|---------------:|:-------------|:--------|
+| Aydınlık'ta Dünya ve Türkiye                                             | nan           | nan               |              1 | 1968-11      | 33-44   |
+| Aydınlık'ta Dünya ve Türkiye                                             | nan           | nan               |              3 | 1969-01      | 177-186 |
+| Aydınlık'ta Dünya ve Türkiye                                             | nan           | nan               |              4 | 1969-02      | 261-278 |
+| Aydınlık'ta Dünya ve Türkiye                                             | nan           | nan               |              6 | 1969-04      | 417-437 |
+| Aydınlık'ta Dünya ve Türkiye                                             | nan           | nan               |             24 | 1970-10      | 504-525 |
+| Filistin Araplarının Millî Kurtuluş Savaşı                               | Author        | Erdoğan Güçbilmez |              3 | 1969-01      | 227-244 |
+| Orta Doğuda Fedayi Harekatı ve Filistin Demokratik Halk Kurtuluş Cephesi | Author        | A. Kerim          |             19 | 1970-05      | 86-96   |
 
 ## Issues Summary
 
