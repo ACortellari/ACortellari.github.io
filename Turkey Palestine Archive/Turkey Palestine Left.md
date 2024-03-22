@@ -1,18 +1,9 @@
   * “11 Genç Tutuklandı.” Ant Haftalık Dergi, February 17, 1970.
-  * Aslan, Yusuf. [“El Feth’e Niye Gittim?”](Primary Sources/Aslan - 1970 - El Feth'e Niye Gittim.md) Ant Haftalık Dergi, February 24, 1970.
   * Baş, Hüseyin. “Orta Doğuda Yeni Tehlike.” Ant Haftalık Dergi, August 20, 1968.
   * Baş, Hüseyin. “Ortadoğu’da Savaş Bulutları Birikiyor.” Ant Haftalık Dergi, January 14, 1969.
   * “Beyrut Baskını ve Sonrası.” Aydınlık Sosyalist Dergi, February 1969.
   * “Bireysel Terör Hareketleriyle ‘Halk Savaşı’ arasındaki farklar.” Ant Haftalık Dergi, November 4, 1969.
   * Cehşan, Mehmet Ali. “Filistin Demokratik Halk Kurtuluş Cephesi.” Türk Solu, September 23, 1969.
-  * Chaliand, Gérard. “El Feth ve Göçmenler.” Türk Solu, July 8, 1969.
-  * Chaliand, Gérard. “El Feth ve Göçmenler.” Türk Solu, July 15, 1969.
-  * Chaliand, Gérard. “El Feth’in Zaferi.” Türk Solu, June 10, 1969.
-  * Chaliand, Gérard. “Filistin Halk Kurtuluş Cephesinde bölünmeler.” Türk Solu, July 1, 1969.
-  * Chaliand, Gérard. “Filistin Mukavemeti.” Türk Solu, June 3, 1969.
-  * Chaliand, Gérard. “Haziran 1967 den Sonra.” Türk Solu, June 17, 1969.
-  * Chaliand, Gérard. “Milli şahsiyetiçin savaş.” Türk Solu, June 24, 1969.
-  * Chaliand, Gérard. “Tartışmanın Özü.” Türk Solu, July 29, 1969.
   * “Devrimci Gençler Ürdün Elçiliğine Gereken Dersi Verdiler.” İleri (Türkiye Devrimci Gençlik Federasyonu), October 15, 1970.
   * “El Feth Gönüllüleri.” Ant Haftalık Dergi, April 21, 1970.
   * “El Feth’in Açıklaması.” Ant Haftalık Dergi, February 17, 1970.
@@ -47,7 +38,6 @@
   * “Ürdün’de Darbe.” Ant Haftalık Dergi, November 12, 1968.
 
 ## Sources in the Mainstream Press
-* A. Kerim. “Orta Doğuda Fedayi Harekatı ve FiIistin Demokratik Halk Kurtuluş Cephesi.” Aydınlık Sosyalist Dergi, May 1970.
 * “Ankara’daki Ürdün Elçiliğine Filistin Bayrağı Çekildi.” Milliyet, September 24, 1970.
 * “Arafat: ‘Kahraman Türk Halkıyla İlişkilerimiz Çok Önemli Olacak.’” Milliyet, October 6, 1979.
 * “Arap Gerillaları İsrail Baskınının İntikamını Alıyor.” Cumhuriyet, December 31, 1968.
