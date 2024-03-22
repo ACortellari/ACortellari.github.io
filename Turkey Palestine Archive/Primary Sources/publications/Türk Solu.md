@@ -1,135 +1,134 @@
-# Türk Solu
+# [Publications](publications.md) | Türk Solu
 
-Türk Solu was a weekly publication. It published 126
- issues between 1967 and 1970.
+Türk Solu was a weekly publication. It published 126 issues in Ankara between 1967 and 1970.
 
 ## Issues Summary
 
-|   issue_year |   issue_month |   issue_number |
-|-------------:|--------------:|---------------:|
-|         1967 |            11 |              1 |
-|         1967 |            11 |              2 |
-|         1967 |            12 |              3 |
-|         1967 |            12 |              4 |
-|         1967 |            12 |              5 |
-|         1967 |            12 |              6 |
-|         1967 |            12 |              7 |
-|         1968 |             1 |              8 |
-|         1968 |             1 |              9 |
-|         1968 |             1 |             10 |
-|         1968 |             1 |             11 |
-|         1968 |             2 |             12 |
-|         1968 |             2 |             13 |
-|         1968 |             2 |             14 |
-|         1968 |             2 |             15 |
-|         1968 |             3 |             16 |
-|         1968 |             3 |             17 |
-|         1968 |             3 |             18 |
-|         1968 |             3 |             19 |
-|         1968 |             4 |             20 |
-|         1968 |             4 |             21 |
-|         1968 |             4 |             22 |
-|         1968 |             4 |             23 |
-|         1968 |             4 |             24 |
-|         1968 |             5 |             25 |
-|         1968 |             5 |             26 |
-|         1968 |             5 |             27 |
-|         1968 |             5 |             28 |
-|         1968 |             6 |             29 |
-|         1968 |             6 |             30 |
-|         1968 |             6 |             31 |
-|         1968 |             6 |             32 |
-|         1968 |             7 |             33 |
-|         1968 |             7 |             34 |
-|         1968 |             7 |             35 |
-|         1968 |             7 |             36 |
-|         1968 |             7 |             37 |
-|         1968 |             8 |             38 |
-|         1968 |             8 |             39 |
-|         1968 |             8 |             40 |
-|         1968 |             8 |             41 |
-|         1968 |             9 |             42 |
-|         1968 |             9 |             43 |
-|         1968 |             9 |             44 |
-|         1968 |             9 |             45 |
-|         1968 |            10 |             46 |
-|         1968 |            10 |             47 |
-|         1968 |            10 |             48 |
-|         1968 |            10 |             49 |
-|         1968 |            10 |             50 |
-|         1968 |            11 |             51 |
-|         1968 |            11 |             52 |
-|         1968 |            11 |             53 |
-|         1968 |            11 |             54 |
-|         1968 |            12 |             55 |
-|         1968 |            12 |             56 |
-|         1968 |            12 |             57 |
-|         1968 |            12 |             58 |
-|         1968 |            12 |             59 |
-|         1969 |             1 |             60 |
-|         1969 |             1 |             61 |
-|         1969 |             1 |             62 |
-|         1969 |             1 |             63 |
-|         1969 |             2 |             64 |
-|         1969 |             2 |             65 |
-|         1969 |             2 |             66 |
-|         1969 |             2 |             67 |
-|         1969 |             3 |             68 |
-|         1969 |             3 |             69 |
-|         1969 |             3 |             70 |
-|         1969 |             3 |             71 |
-|         1969 |             4 |             72 |
-|         1969 |             4 |             73 |
-|         1969 |             4 |             74 |
-|         1969 |             4 |             75 |
-|         1969 |             4 |             76 |
-|         1969 |             5 |             77 |
-|         1969 |             5 |             78 |
-|         1969 |             5 |             79 |
-|         1969 |             5 |             80 |
-|         1969 |             6 |             81 |
-|         1969 |             6 |             82 |
-|         1969 |             6 |             83 |
-|         1969 |             6 |             84 |
-|         1969 |             7 |             85 |
-|         1969 |             7 |             86 |
-|         1969 |             7 |             87 |
-|         1969 |             7 |             88 |
-|         1969 |             7 |             89 |
-|         1969 |             8 |             90 |
-|         1969 |             8 |             91 |
-|         1969 |             8 |             92 |
-|         1969 |             8 |             93 |
-|         1969 |             9 |             94 |
-|         1969 |             9 |             95 |
-|         1969 |             9 |             96 |
-|         1969 |             9 |             97 |
-|         1969 |             9 |             98 |
-|         1969 |            10 |             99 |
-|         1969 |            10 |            100 |
-|         1969 |            10 |            101 |
-|         1969 |            10 |            102 |
-|         1969 |            11 |            103 |
-|         1969 |            11 |            104 |
-|         1969 |            11 |            105 |
-|         1969 |            11 |            106 |
-|         1969 |            12 |            107 |
-|         1969 |            12 |            108 |
-|         1969 |            12 |            109 |
-|         1969 |            12 |            110 |
-|         1969 |            12 |            111 |
-|         1970 |             1 |            112 |
-|         1970 |             1 |            113 |
-|         1970 |             1 |            114 |
-|         1970 |             1 |            115 |
-|         1970 |             2 |            116 |
-|         1970 |             2 |            117 |
-|         1970 |             2 |            118 |
-|         1970 |             2 |            119 |
-|         1970 |             3 |            120 |
-|         1970 |             3 |            121 |
-|         1970 |             3 |            122 |
-|         1970 |             3 |            123 |
-|         1970 |             3 |            124 |
-|         1970 |             4 |            125 |
-|         1970 |             4 |            126 |
+|   issue_year |   issue_month |   issue_number | issue_type    |
+|-------------:|--------------:|---------------:|:--------------|
+|         1967 |            11 |              1 | regular issue |
+|         1967 |            11 |              2 | regular issue |
+|         1967 |            12 |              3 | regular issue |
+|         1967 |            12 |              4 | regular issue |
+|         1967 |            12 |              5 | regular issue |
+|         1967 |            12 |              6 | regular issue |
+|         1967 |            12 |              7 | regular issue |
+|         1968 |             1 |             10 | regular issue |
+|         1968 |             1 |             11 | regular issue |
+|         1968 |             1 |              8 | regular issue |
+|         1968 |             1 |              9 | regular issue |
+|         1968 |            10 |             46 | regular issue |
+|         1968 |            10 |             47 | regular issue |
+|         1968 |            10 |             48 | regular issue |
+|         1968 |            10 |             49 | regular issue |
+|         1968 |            10 |             50 | regular issue |
+|         1968 |            11 |             51 | regular issue |
+|         1968 |            11 |             52 | regular issue |
+|         1968 |            11 |             53 | regular issue |
+|         1968 |            11 |             54 | regular issue |
+|         1968 |            12 |             55 | regular issue |
+|         1968 |            12 |             56 | regular issue |
+|         1968 |            12 |             57 | regular issue |
+|         1968 |            12 |             58 | regular issue |
+|         1968 |            12 |             59 | regular issue |
+|         1968 |             2 |             12 | regular issue |
+|         1968 |             2 |             13 | regular issue |
+|         1968 |             2 |             14 | regular issue |
+|         1968 |             2 |             15 | regular issue |
+|         1968 |             3 |             16 | regular issue |
+|         1968 |             3 |             17 | regular issue |
+|         1968 |             3 |             18 | regular issue |
+|         1968 |             3 |             19 | regular issue |
+|         1968 |             4 |             20 | regular issue |
+|         1968 |             4 |             21 | regular issue |
+|         1968 |             4 |             22 | regular issue |
+|         1968 |             4 |             23 | regular issue |
+|         1968 |             4 |             24 | regular issue |
+|         1968 |             5 |             25 | regular issue |
+|         1968 |             5 |             26 | regular issue |
+|         1968 |             5 |             27 | regular issue |
+|         1968 |             5 |             28 | regular issue |
+|         1968 |             6 |             29 | regular issue |
+|         1968 |             6 |             30 | regular issue |
+|         1968 |             6 |             31 | regular issue |
+|         1968 |             6 |             32 | regular issue |
+|         1968 |             7 |             33 | regular issue |
+|         1968 |             7 |             34 | regular issue |
+|         1968 |             7 |             35 | regular issue |
+|         1968 |             7 |             36 | regular issue |
+|         1968 |             7 |             37 | regular issue |
+|         1968 |             8 |             38 | regular issue |
+|         1968 |             8 |             39 | regular issue |
+|         1968 |             8 |             40 | regular issue |
+|         1968 |             8 |             41 | regular issue |
+|         1968 |             9 |             42 | regular issue |
+|         1968 |             9 |             43 | regular issue |
+|         1968 |             9 |             44 | regular issue |
+|         1968 |             9 |             45 | regular issue |
+|         1969 |             1 |             60 | regular issue |
+|         1969 |             1 |             61 | regular issue |
+|         1969 |             1 |             62 | regular issue |
+|         1969 |             1 |             63 | regular issue |
+|         1969 |            10 |            100 | regular issue |
+|         1969 |            10 |            101 | regular issue |
+|         1969 |            10 |            102 | regular issue |
+|         1969 |            10 |             99 | regular issue |
+|         1969 |            11 |            103 | regular issue |
+|         1969 |            11 |            104 | regular issue |
+|         1969 |            11 |            105 | regular issue |
+|         1969 |            11 |            106 | regular issue |
+|         1969 |            12 |            107 | regular issue |
+|         1969 |            12 |            108 | regular issue |
+|         1969 |            12 |            109 | regular issue |
+|         1969 |            12 |            110 | regular issue |
+|         1969 |            12 |            111 | regular issue |
+|         1969 |             2 |             64 | regular issue |
+|         1969 |             2 |             65 | regular issue |
+|         1969 |             2 |             66 | regular issue |
+|         1969 |             2 |             67 | regular issue |
+|         1969 |             3 |             68 | regular issue |
+|         1969 |             3 |             69 | regular issue |
+|         1969 |             3 |             70 | regular issue |
+|         1969 |             3 |             71 | regular issue |
+|         1969 |             4 |             72 | regular issue |
+|         1969 |             4 |             73 | regular issue |
+|         1969 |             4 |             74 | regular issue |
+|         1969 |             4 |             75 | regular issue |
+|         1969 |             4 |             76 | regular issue |
+|         1969 |             5 |             77 | regular issue |
+|         1969 |             5 |             78 | regular issue |
+|         1969 |             5 |             79 | regular issue |
+|         1969 |             5 |             80 | regular issue |
+|         1969 |             6 |             81 | regular issue |
+|         1969 |             6 |             82 | regular issue |
+|         1969 |             6 |             83 | regular issue |
+|         1969 |             6 |             84 | regular issue |
+|         1969 |             7 |             85 | regular issue |
+|         1969 |             7 |             86 | regular issue |
+|         1969 |             7 |             87 | regular issue |
+|         1969 |             7 |             88 | regular issue |
+|         1969 |             7 |             89 | regular issue |
+|         1969 |             8 |             90 | regular issue |
+|         1969 |             8 |             91 | regular issue |
+|         1969 |             8 |             92 | regular issue |
+|         1969 |             8 |             93 | regular issue |
+|         1969 |             9 |             94 | regular issue |
+|         1969 |             9 |             95 | regular issue |
+|         1969 |             9 |             96 | regular issue |
+|         1969 |             9 |             97 | regular issue |
+|         1969 |             9 |             98 | regular issue |
+|         1970 |             1 |            112 | regular issue |
+|         1970 |             1 |            113 | regular issue |
+|         1970 |             1 |            114 | regular issue |
+|         1970 |             1 |            115 | regular issue |
+|         1970 |             2 |            116 | regular issue |
+|         1970 |             2 |            117 | regular issue |
+|         1970 |             2 |            118 | regular issue |
+|         1970 |             2 |            119 | regular issue |
+|         1970 |             3 |            120 | regular issue |
+|         1970 |             3 |            121 | regular issue |
+|         1970 |             3 |            122 | regular issue |
+|         1970 |             3 |            123 | regular issue |
+|         1970 |             3 |            124 | regular issue |
+|         1970 |             4 |            125 | regular issue |
+|         1970 |             4 |            126 | regular issue |
