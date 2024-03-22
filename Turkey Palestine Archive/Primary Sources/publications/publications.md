@@ -1,5 +1,7 @@
 ## Publications
 
+In our dataset, there are 5 unique publication names. The earliest publication started in 1967, while the latest publication ended in 1971.
+
 | publication_title                                           | publication_location   | publication_type   | life_span   |   first_year |   last_year |   total_issues |
 |:------------------------------------------------------------|:-----------------------|:-------------------|:------------|-------------:|------------:|---------------:|
 | [Aydınlık Sosyalist Dergi](Aydınlık Sosyalist Dergi.md)     | Ankara                 | monthly            | 4 years     |         1968 |        1971 |             29 |
