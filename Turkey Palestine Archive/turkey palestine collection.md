@@ -1,6 +1,6 @@
-## The Turkey-Palestine Source Collection
+# The Turkey-Palestine Source Collection
 
-## [PUBLICATIONS](firstlevel_publications.md)
+# [PUBLICATIONS](firstlevel_publications.md)
 ```
 Last Update: 2024-03-22
 ```
@@ -12,12 +12,13 @@ The bulk of the corpus listed—and sometimes provided in textual form—here is
 
 The rich corpus of primary sources accessible through the digitization efforts of Türkiye Sosyal Tarih Araştırma Vakfı (TÜSTAV) significantly facilitated my research. I am grateful for TÜSTAV's valuable contributions to my endeavor. If any user believes that a valuable source is missing from this list (and that is most likely the case), I welcome and encourage suggestions. Your input is invaluable in enhancing the comprehensiveness of this small collection.
 
-### Sources in the Leftist Press
+## Sources in the Leftist Press
 
 The sources provided here span the years 1968 to 1971 representing just a fraction of the leftist weekly and monthly publications from that period. Although the initial corpus was more extensive, only the sources included in my bibliography are currently listed. Additional sources may be made available here in the future. Sources published in leftist publications will gradually be made available in the <a href='https://github.com/ACortellari/ACortellari.github.io/tree/main/Turkey%20Palestine%20Archive/Sources%20Database'>Sources Database</a> (as .csv files for ease in fruition).
 
 The database includes the following:
 
+* articles
 * articles_view
 * issues_view
 * Leftist Press

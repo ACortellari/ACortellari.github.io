@@ -1,4 +1,4 @@
-## [Publications](publications.md) // Aylık Ant Dergisi
+# [Publications](publications.md) // Aylık Ant Dergisi
 
 Aylık Ant Dergisi was a monthly publication. It published 13 issues in İstanbul between 1970 and 1971.
 

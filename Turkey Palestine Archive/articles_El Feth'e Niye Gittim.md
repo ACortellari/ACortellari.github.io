@@ -1,6 +1,8 @@
 # El Feth'e Niye Gittim?
 
-```Aslan, Yusuf. “El Feth’e Niye Gittim?” Ant Haftalık Dergi, February 24, 1970.```
+|   article_id | article_title          | author_type   | author      | publication_title    |   issue_number | issue_date   |   pages |
+|-------------:|:-----------------------|:--------------|:------------|:---------------------|---------------:|:-------------|--------:|
+|           10 | El Feth'e Niye Gittim? | Author        | Yusuf Aslan | Haftalık Ant Dergisi |            165 | 1970-02      |       6 |
 
 Bugün Ortadoğu'da Amerikan imperyalizminin ileri karakolu olan İsrail'e karşı Arap halkları anti-emperyalist bir savaş yürütmektedirler. Bu savaş Asya’da, Afrika'da, Latin Amerika'da ve bütün dünyada emperyalizmin baskısı altında ezilen halkların yürüttüğü devrimci kavganın bir parcasi.
 

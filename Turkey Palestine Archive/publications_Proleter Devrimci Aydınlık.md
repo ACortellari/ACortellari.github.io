@@ -1,4 +1,4 @@
-## [Publications](publications.md) // Proleter Devrimci Aydınlık
+# [Publications](publications.md) // Proleter Devrimci Aydınlık
 
 Proleter Devrimci Aydınlık was a monthly publication. It published 26 issues in Ankara between 1970 and 1971.
 
