@@ -1,6 +1,6 @@
 # The Turkey-Palestine Source Collection
 
-# [PUBLICATIONS](firstlevel_publications.md)
+# [ARTICLES](firstlevel_articles.md) // [PUBLICATIONS](firstlevel_publications.md)
 ```
 Last Update: 2024-03-22
 ```

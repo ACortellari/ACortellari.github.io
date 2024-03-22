@@ -1,4 +1,4 @@
-## [The Turkey-Palestine Source Collection](Turkey Palestine Left.md) // Publications
+# [The Turkey-Palestine Source Collection](turkey_palestine_collection.md) // Publications
 
 In our dataset, we have 5 unique publication names. The earliest publication started in 1967, while the latest publication ended in 1971. These publications are spread across various locations including Ankara, İstanbul.
 

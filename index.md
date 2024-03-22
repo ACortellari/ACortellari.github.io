@@ -1,1 +1,1 @@
-## [The Turkey-Palestine Source Collection](Turkey Palestine Archive/Turkey Palestine Left.md)
+## [The Turkey-Palestine Source Collection](Turkey Palestine Archive/Turkey Palestine Archive\turkey_palestine_collection.md)
