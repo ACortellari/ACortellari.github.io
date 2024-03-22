@@ -1,5 +1,3 @@
-# [The Turkey-Palestine Source Collection](turkey_palestine_collection.md)
-
 # [ARTICLES](firstlevel_articles.md) // [PUBLICATIONS](firstlevel_publications.md)
 ```
 Last Update: 2024-03-22
