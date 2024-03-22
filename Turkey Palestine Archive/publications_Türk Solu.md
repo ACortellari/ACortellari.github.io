@@ -4,131 +4,131 @@ Türk Solu was a weekly publication. It published 126 issues in Ankara between 1
 
 ### Issues Summary
 
-| publication_title   |   issue_year |   issue_month |   issue_number | issue_type    |
-|:--------------------|-------------:|--------------:|---------------:|:--------------|
-| Türk Solu           |         1967 |            11 |              1 | regular issue |
-| Türk Solu           |         1967 |            11 |              2 | regular issue |
-| Türk Solu           |         1967 |            12 |              3 | regular issue |
-| Türk Solu           |         1967 |            12 |              4 | regular issue |
-| Türk Solu           |         1967 |            12 |              5 | regular issue |
-| Türk Solu           |         1967 |            12 |              6 | regular issue |
-| Türk Solu           |         1967 |            12 |              7 | regular issue |
-| Türk Solu           |         1968 |             1 |             10 | regular issue |
-| Türk Solu           |         1968 |             1 |             11 | regular issue |
-| Türk Solu           |         1968 |             1 |              8 | regular issue |
-| Türk Solu           |         1968 |             1 |              9 | regular issue |
-| Türk Solu           |         1968 |            10 |             46 | regular issue |
-| Türk Solu           |         1968 |            10 |             47 | regular issue |
-| Türk Solu           |         1968 |            10 |             48 | regular issue |
-| Türk Solu           |         1968 |            10 |             49 | regular issue |
-| Türk Solu           |         1968 |            10 |             50 | regular issue |
-| Türk Solu           |         1968 |            11 |             51 | regular issue |
-| Türk Solu           |         1968 |            11 |             52 | regular issue |
-| Türk Solu           |         1968 |            11 |             53 | regular issue |
-| Türk Solu           |         1968 |            11 |             54 | regular issue |
-| Türk Solu           |         1968 |            12 |             55 | regular issue |
-| Türk Solu           |         1968 |            12 |             56 | regular issue |
-| Türk Solu           |         1968 |            12 |             57 | regular issue |
-| Türk Solu           |         1968 |            12 |             58 | regular issue |
-| Türk Solu           |         1968 |            12 |             59 | regular issue |
-| Türk Solu           |         1968 |             2 |             12 | regular issue |
-| Türk Solu           |         1968 |             2 |             13 | regular issue |
-| Türk Solu           |         1968 |             2 |             14 | regular issue |
-| Türk Solu           |         1968 |             2 |             15 | regular issue |
-| Türk Solu           |         1968 |             3 |             16 | regular issue |
-| Türk Solu           |         1968 |             3 |             17 | regular issue |
-| Türk Solu           |         1968 |             3 |             18 | regular issue |
-| Türk Solu           |         1968 |             3 |             19 | regular issue |
-| Türk Solu           |         1968 |             4 |             20 | regular issue |
-| Türk Solu           |         1968 |             4 |             21 | regular issue |
-| Türk Solu           |         1968 |             4 |             22 | regular issue |
-| Türk Solu           |         1968 |             4 |             23 | regular issue |
-| Türk Solu           |         1968 |             4 |             24 | regular issue |
-| Türk Solu           |         1968 |             5 |             25 | regular issue |
-| Türk Solu           |         1968 |             5 |             26 | regular issue |
-| Türk Solu           |         1968 |             5 |             27 | regular issue |
-| Türk Solu           |         1968 |             5 |             28 | regular issue |
-| Türk Solu           |         1968 |             6 |             29 | regular issue |
-| Türk Solu           |         1968 |             6 |             30 | regular issue |
-| Türk Solu           |         1968 |             6 |             31 | regular issue |
-| Türk Solu           |         1968 |             6 |             32 | regular issue |
-| Türk Solu           |         1968 |             7 |             33 | regular issue |
-| Türk Solu           |         1968 |             7 |             34 | regular issue |
-| Türk Solu           |         1968 |             7 |             35 | regular issue |
-| Türk Solu           |         1968 |             7 |             36 | regular issue |
-| Türk Solu           |         1968 |             7 |             37 | regular issue |
-| Türk Solu           |         1968 |             8 |             38 | regular issue |
-| Türk Solu           |         1968 |             8 |             39 | regular issue |
-| Türk Solu           |         1968 |             8 |             40 | regular issue |
-| Türk Solu           |         1968 |             8 |             41 | regular issue |
-| Türk Solu           |         1968 |             9 |             42 | regular issue |
-| Türk Solu           |         1968 |             9 |             43 | regular issue |
-| Türk Solu           |         1968 |             9 |             44 | regular issue |
-| Türk Solu           |         1968 |             9 |             45 | regular issue |
-| Türk Solu           |         1969 |             1 |             60 | regular issue |
-| Türk Solu           |         1969 |             1 |             61 | regular issue |
-| Türk Solu           |         1969 |             1 |             62 | regular issue |
-| Türk Solu           |         1969 |             1 |             63 | regular issue |
-| Türk Solu           |         1969 |            10 |            100 | regular issue |
-| Türk Solu           |         1969 |            10 |            101 | regular issue |
-| Türk Solu           |         1969 |            10 |            102 | regular issue |
-| Türk Solu           |         1969 |            10 |             99 | regular issue |
-| Türk Solu           |         1969 |            11 |            103 | regular issue |
-| Türk Solu           |         1969 |            11 |            104 | regular issue |
-| Türk Solu           |         1969 |            11 |            105 | regular issue |
-| Türk Solu           |         1969 |            11 |            106 | regular issue |
-| Türk Solu           |         1969 |            12 |            107 | regular issue |
-| Türk Solu           |         1969 |            12 |            108 | regular issue |
-| Türk Solu           |         1969 |            12 |            109 | regular issue |
-| Türk Solu           |         1969 |            12 |            110 | regular issue |
-| Türk Solu           |         1969 |            12 |            111 | regular issue |
-| Türk Solu           |         1969 |             2 |             64 | regular issue |
-| Türk Solu           |         1969 |             2 |             65 | regular issue |
-| Türk Solu           |         1969 |             2 |             66 | regular issue |
-| Türk Solu           |         1969 |             2 |             67 | regular issue |
-| Türk Solu           |         1969 |             3 |             68 | regular issue |
-| Türk Solu           |         1969 |             3 |             69 | regular issue |
-| Türk Solu           |         1969 |             3 |             70 | regular issue |
-| Türk Solu           |         1969 |             3 |             71 | regular issue |
-| Türk Solu           |         1969 |             4 |             72 | regular issue |
-| Türk Solu           |         1969 |             4 |             73 | regular issue |
-| Türk Solu           |         1969 |             4 |             74 | regular issue |
-| Türk Solu           |         1969 |             4 |             75 | regular issue |
-| Türk Solu           |         1969 |             4 |             76 | regular issue |
-| Türk Solu           |         1969 |             5 |             77 | regular issue |
-| Türk Solu           |         1969 |             5 |             78 | regular issue |
-| Türk Solu           |         1969 |             5 |             79 | regular issue |
-| Türk Solu           |         1969 |             5 |             80 | regular issue |
-| Türk Solu           |         1969 |             6 |             81 | regular issue |
-| Türk Solu           |         1969 |             6 |             82 | regular issue |
-| Türk Solu           |         1969 |             6 |             83 | regular issue |
-| Türk Solu           |         1969 |             6 |             84 | regular issue |
-| Türk Solu           |         1969 |             7 |             85 | regular issue |
-| Türk Solu           |         1969 |             7 |             86 | regular issue |
-| Türk Solu           |         1969 |             7 |             87 | regular issue |
-| Türk Solu           |         1969 |             7 |             88 | regular issue |
-| Türk Solu           |         1969 |             7 |             89 | regular issue |
-| Türk Solu           |         1969 |             8 |             90 | regular issue |
-| Türk Solu           |         1969 |             8 |             91 | regular issue |
-| Türk Solu           |         1969 |             8 |             92 | regular issue |
-| Türk Solu           |         1969 |             8 |             93 | regular issue |
-| Türk Solu           |         1969 |             9 |             94 | regular issue |
-| Türk Solu           |         1969 |             9 |             95 | regular issue |
-| Türk Solu           |         1969 |             9 |             96 | regular issue |
-| Türk Solu           |         1969 |             9 |             97 | regular issue |
-| Türk Solu           |         1969 |             9 |             98 | regular issue |
-| Türk Solu           |         1970 |             1 |            112 | regular issue |
-| Türk Solu           |         1970 |             1 |            113 | regular issue |
-| Türk Solu           |         1970 |             1 |            114 | regular issue |
-| Türk Solu           |         1970 |             1 |            115 | regular issue |
-| Türk Solu           |         1970 |             2 |            116 | regular issue |
-| Türk Solu           |         1970 |             2 |            117 | regular issue |
-| Türk Solu           |         1970 |             2 |            118 | regular issue |
-| Türk Solu           |         1970 |             2 |            119 | regular issue |
-| Türk Solu           |         1970 |             3 |            120 | regular issue |
-| Türk Solu           |         1970 |             3 |            121 | regular issue |
-| Türk Solu           |         1970 |             3 |            122 | regular issue |
-| Türk Solu           |         1970 |             3 |            123 | regular issue |
-| Türk Solu           |         1970 |             3 |            124 | regular issue |
-| Türk Solu           |         1970 |             4 |            125 | regular issue |
-| Türk Solu           |         1970 |             4 |            126 | regular issue |
+| publication_title   |   issue_year |   issue_month |   issue_day |   issue_number | issue_type    |
+|:--------------------|-------------:|--------------:|------------:|---------------:|:--------------|
+| Türk Solu           |         1967 |            11 |         nan |              1 | regular issue |
+| Türk Solu           |         1967 |            11 |         nan |              2 | regular issue |
+| Türk Solu           |         1967 |            12 |         nan |              3 | regular issue |
+| Türk Solu           |         1967 |            12 |         nan |              4 | regular issue |
+| Türk Solu           |         1967 |            12 |         nan |              5 | regular issue |
+| Türk Solu           |         1967 |            12 |         nan |              6 | regular issue |
+| Türk Solu           |         1967 |            12 |         nan |              7 | regular issue |
+| Türk Solu           |         1968 |             1 |         nan |             10 | regular issue |
+| Türk Solu           |         1968 |             1 |         nan |             11 | regular issue |
+| Türk Solu           |         1968 |             1 |         nan |              8 | regular issue |
+| Türk Solu           |         1968 |             1 |         nan |              9 | regular issue |
+| Türk Solu           |         1968 |            10 |         nan |             46 | regular issue |
+| Türk Solu           |         1968 |            10 |         nan |             47 | regular issue |
+| Türk Solu           |         1968 |            10 |         nan |             48 | regular issue |
+| Türk Solu           |         1968 |            10 |         nan |             49 | regular issue |
+| Türk Solu           |         1968 |            10 |         nan |             50 | regular issue |
+| Türk Solu           |         1968 |            11 |         nan |             51 | regular issue |
+| Türk Solu           |         1968 |            11 |         nan |             52 | regular issue |
+| Türk Solu           |         1968 |            11 |         nan |             53 | regular issue |
+| Türk Solu           |         1968 |            11 |         nan |             54 | regular issue |
+| Türk Solu           |         1968 |            12 |         nan |             55 | regular issue |
+| Türk Solu           |         1968 |            12 |         nan |             56 | regular issue |
+| Türk Solu           |         1968 |            12 |         nan |             57 | regular issue |
+| Türk Solu           |         1968 |            12 |         nan |             58 | regular issue |
+| Türk Solu           |         1968 |            12 |         nan |             59 | regular issue |
+| Türk Solu           |         1968 |             2 |         nan |             12 | regular issue |
+| Türk Solu           |         1968 |             2 |         nan |             13 | regular issue |
+| Türk Solu           |         1968 |             2 |         nan |             14 | regular issue |
+| Türk Solu           |         1968 |             2 |         nan |             15 | regular issue |
+| Türk Solu           |         1968 |             3 |         nan |             16 | regular issue |
+| Türk Solu           |         1968 |             3 |         nan |             17 | regular issue |
+| Türk Solu           |         1968 |             3 |         nan |             18 | regular issue |
+| Türk Solu           |         1968 |             3 |         nan |             19 | regular issue |
+| Türk Solu           |         1968 |             4 |         nan |             20 | regular issue |
+| Türk Solu           |         1968 |             4 |         nan |             21 | regular issue |
+| Türk Solu           |         1968 |             4 |         nan |             22 | regular issue |
+| Türk Solu           |         1968 |             4 |         nan |             23 | regular issue |
+| Türk Solu           |         1968 |             4 |         nan |             24 | regular issue |
+| Türk Solu           |         1968 |             5 |         nan |             25 | regular issue |
+| Türk Solu           |         1968 |             5 |         nan |             26 | regular issue |
+| Türk Solu           |         1968 |             5 |         nan |             27 | regular issue |
+| Türk Solu           |         1968 |             5 |         nan |             28 | regular issue |
+| Türk Solu           |         1968 |             6 |         nan |             29 | regular issue |
+| Türk Solu           |         1968 |             6 |         nan |             30 | regular issue |
+| Türk Solu           |         1968 |             6 |         nan |             31 | regular issue |
+| Türk Solu           |         1968 |             6 |         nan |             32 | regular issue |
+| Türk Solu           |         1968 |             7 |         nan |             33 | regular issue |
+| Türk Solu           |         1968 |             7 |         nan |             34 | regular issue |
+| Türk Solu           |         1968 |             7 |         nan |             35 | regular issue |
+| Türk Solu           |         1968 |             7 |         nan |             36 | regular issue |
+| Türk Solu           |         1968 |             7 |         nan |             37 | regular issue |
+| Türk Solu           |         1968 |             8 |         nan |             38 | regular issue |
+| Türk Solu           |         1968 |             8 |         nan |             39 | regular issue |
+| Türk Solu           |         1968 |             8 |         nan |             40 | regular issue |
+| Türk Solu           |         1968 |             8 |         nan |             41 | regular issue |
+| Türk Solu           |         1968 |             9 |         nan |             42 | regular issue |
+| Türk Solu           |         1968 |             9 |         nan |             43 | regular issue |
+| Türk Solu           |         1968 |             9 |         nan |             44 | regular issue |
+| Türk Solu           |         1968 |             9 |         nan |             45 | regular issue |
+| Türk Solu           |         1969 |             1 |         nan |             60 | regular issue |
+| Türk Solu           |         1969 |             1 |         nan |             61 | regular issue |
+| Türk Solu           |         1969 |             1 |         nan |             62 | regular issue |
+| Türk Solu           |         1969 |             1 |         nan |             63 | regular issue |
+| Türk Solu           |         1969 |            10 |         nan |            100 | regular issue |
+| Türk Solu           |         1969 |            10 |         nan |            101 | regular issue |
+| Türk Solu           |         1969 |            10 |         nan |            102 | regular issue |
+| Türk Solu           |         1969 |            10 |         nan |             99 | regular issue |
+| Türk Solu           |         1969 |            11 |         nan |            103 | regular issue |
+| Türk Solu           |         1969 |            11 |         nan |            104 | regular issue |
+| Türk Solu           |         1969 |            11 |         nan |            105 | regular issue |
+| Türk Solu           |         1969 |            11 |         nan |            106 | regular issue |
+| Türk Solu           |         1969 |            12 |         nan |            107 | regular issue |
+| Türk Solu           |         1969 |            12 |         nan |            108 | regular issue |
+| Türk Solu           |         1969 |            12 |         nan |            109 | regular issue |
+| Türk Solu           |         1969 |            12 |         nan |            110 | regular issue |
+| Türk Solu           |         1969 |            12 |         nan |            111 | regular issue |
+| Türk Solu           |         1969 |             2 |         nan |             64 | regular issue |
+| Türk Solu           |         1969 |             2 |         nan |             65 | regular issue |
+| Türk Solu           |         1969 |             2 |         nan |             66 | regular issue |
+| Türk Solu           |         1969 |             2 |         nan |             67 | regular issue |
+| Türk Solu           |         1969 |             3 |         nan |             68 | regular issue |
+| Türk Solu           |         1969 |             3 |         nan |             69 | regular issue |
+| Türk Solu           |         1969 |             3 |         nan |             70 | regular issue |
+| Türk Solu           |         1969 |             3 |         nan |             71 | regular issue |
+| Türk Solu           |         1969 |             4 |         nan |             72 | regular issue |
+| Türk Solu           |         1969 |             4 |         nan |             73 | regular issue |
+| Türk Solu           |         1969 |             4 |         nan |             74 | regular issue |
+| Türk Solu           |         1969 |             4 |         nan |             75 | regular issue |
+| Türk Solu           |         1969 |             4 |         nan |             76 | regular issue |
+| Türk Solu           |         1969 |             5 |         nan |             77 | regular issue |
+| Türk Solu           |         1969 |             5 |         nan |             78 | regular issue |
+| Türk Solu           |         1969 |             5 |         nan |             79 | regular issue |
+| Türk Solu           |         1969 |             5 |         nan |             80 | regular issue |
+| Türk Solu           |         1969 |             6 |         nan |             81 | regular issue |
+| Türk Solu           |         1969 |             6 |         nan |             82 | regular issue |
+| Türk Solu           |         1969 |             6 |         nan |             83 | regular issue |
+| Türk Solu           |         1969 |             6 |         nan |             84 | regular issue |
+| Türk Solu           |         1969 |             7 |         nan |             85 | regular issue |
+| Türk Solu           |         1969 |             7 |         nan |             86 | regular issue |
+| Türk Solu           |         1969 |             7 |         nan |             87 | regular issue |
+| Türk Solu           |         1969 |             7 |         nan |             88 | regular issue |
+| Türk Solu           |         1969 |             7 |         nan |             89 | regular issue |
+| Türk Solu           |         1969 |             8 |         nan |             90 | regular issue |
+| Türk Solu           |         1969 |             8 |         nan |             91 | regular issue |
+| Türk Solu           |         1969 |             8 |         nan |             92 | regular issue |
+| Türk Solu           |         1969 |             8 |         nan |             93 | regular issue |
+| Türk Solu           |         1969 |             9 |         nan |             94 | regular issue |
+| Türk Solu           |         1969 |             9 |         nan |             95 | regular issue |
+| Türk Solu           |         1969 |             9 |         nan |             96 | regular issue |
+| Türk Solu           |         1969 |             9 |         nan |             97 | regular issue |
+| Türk Solu           |         1969 |             9 |         nan |             98 | regular issue |
+| Türk Solu           |         1970 |             1 |         nan |            112 | regular issue |
+| Türk Solu           |         1970 |             1 |         nan |            113 | regular issue |
+| Türk Solu           |         1970 |             1 |         nan |            114 | regular issue |
+| Türk Solu           |         1970 |             1 |         nan |            115 | regular issue |
+| Türk Solu           |         1970 |             2 |         nan |            116 | regular issue |
+| Türk Solu           |         1970 |             2 |         nan |            117 | regular issue |
+| Türk Solu           |         1970 |             2 |         nan |            118 | regular issue |
+| Türk Solu           |         1970 |             2 |         nan |            119 | regular issue |
+| Türk Solu           |         1970 |             3 |         nan |            120 | regular issue |
+| Türk Solu           |         1970 |             3 |         nan |            121 | regular issue |
+| Türk Solu           |         1970 |             3 |         nan |            122 | regular issue |
+| Türk Solu           |         1970 |             3 |         nan |            123 | regular issue |
+| Türk Solu           |         1970 |             3 |         nan |            124 | regular issue |
+| Türk Solu           |         1970 |             4 |         nan |            125 | regular issue |
+| Türk Solu           |         1970 |             4 |         nan |            126 | regular issue |
