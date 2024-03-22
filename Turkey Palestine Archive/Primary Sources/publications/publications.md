@@ -1,4 +1,4 @@
-# Publications
+## Publications
 
 | publication_title                                           | publication_location   | publication_type   | life_span   |   first_year |   last_year |   total_issues |
 |:------------------------------------------------------------|:-----------------------|:-------------------|:------------|-------------:|------------:|---------------:|
