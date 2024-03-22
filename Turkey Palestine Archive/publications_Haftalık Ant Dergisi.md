@@ -4,179 +4,179 @@ Haftalık Ant Dergisi was a weekly publication. It published 174 issues in İsta
 
 ### Issues Summary
 
-|   issue_year |   issue_month |   issue_number | issue_type    |
-|-------------:|--------------:|---------------:|:--------------|
-|         1967 |             1 |              1 | regular issue |
-|         1967 |             1 |              1 | special issue |
-|         1967 |             1 |              2 | regular issue |
-|         1967 |             1 |              3 | regular issue |
-|         1967 |             1 |              4 | regular issue |
-|         1967 |             1 |              5 | regular issue |
-|         1967 |            10 |             40 | regular issue |
-|         1967 |            10 |             41 | regular issue |
-|         1967 |            10 |             42 | regular issue |
-|         1967 |            10 |             43 | regular issue |
-|         1967 |            10 |             44 | regular issue |
-|         1967 |            11 |             45 | regular issue |
-|         1967 |            11 |             46 | regular issue |
-|         1967 |            11 |             47 | regular issue |
-|         1967 |            11 |             48 | regular issue |
-|         1967 |            12 |             49 | regular issue |
-|         1967 |            12 |             50 | regular issue |
-|         1967 |            12 |             51 | regular issue |
-|         1967 |            12 |             52 | regular issue |
-|         1967 |             2 |              6 | regular issue |
-|         1967 |             2 |              7 | regular issue |
-|         1967 |             2 |              8 | regular issue |
-|         1967 |             2 |              9 | regular issue |
-|         1967 |             3 |             10 | regular issue |
-|         1967 |             3 |             11 | regular issue |
-|         1967 |             3 |             12 | regular issue |
-|         1967 |             3 |             13 | regular issue |
-|         1967 |             4 |             14 | regular issue |
-|         1967 |             4 |             15 | regular issue |
-|         1967 |             4 |             16 | regular issue |
-|         1967 |             4 |             17 | regular issue |
-|         1967 |             5 |             18 | regular issue |
-|         1967 |             5 |             19 | regular issue |
-|         1967 |             5 |             20 | regular issue |
-|         1967 |             5 |             21 | regular issue |
-|         1967 |             5 |             22 | regular issue |
-|         1967 |             6 |             23 | regular issue |
-|         1967 |             6 |             24 | regular issue |
-|         1967 |             6 |             25 | regular issue |
-|         1967 |             6 |             26 | regular issue |
-|         1967 |             7 |             27 | regular issue |
-|         1967 |             7 |             28 | regular issue |
-|         1967 |             7 |             29 | regular issue |
-|         1967 |             7 |             30 | regular issue |
-|         1967 |             8 |             31 | regular issue |
-|         1967 |             8 |             32 | regular issue |
-|         1967 |             8 |             33 | regular issue |
-|         1967 |             8 |             34 | regular issue |
-|         1967 |             8 |             35 | regular issue |
-|         1967 |             9 |             36 | regular issue |
-|         1967 |             9 |             37 | regular issue |
-|         1967 |             9 |             38 | regular issue |
-|         1967 |             9 |             39 | regular issue |
-|         1968 |             1 |             53 | regular issue |
-|         1968 |             1 |             54 | regular issue |
-|         1968 |             1 |             55 | regular issue |
-|         1968 |             1 |             56 | regular issue |
-|         1968 |             1 |             57 | regular issue |
-|         1968 |            10 |             92 | regular issue |
-|         1968 |            10 |             93 | regular issue |
-|         1968 |            10 |             94 | regular issue |
-|         1968 |            10 |             95 | regular issue |
-|         1968 |            10 |             96 | regular issue |
-|         1968 |            11 |            100 | regular issue |
-|         1968 |            11 |             97 | regular issue |
-|         1968 |            11 |             98 | regular issue |
-|         1968 |            11 |             99 | regular issue |
-|         1968 |            12 |            101 | regular issue |
-|         1968 |            12 |            102 | regular issue |
-|         1968 |            12 |            103 | regular issue |
-|         1968 |            12 |            104 | regular issue |
-|         1968 |            12 |            105 | regular issue |
-|         1968 |             2 |             58 | regular issue |
-|         1968 |             2 |             59 | regular issue |
-|         1968 |             2 |             60 | regular issue |
-|         1968 |             2 |             61 | regular issue |
-|         1968 |             3 |             62 | regular issue |
-|         1968 |             3 |             63 | regular issue |
-|         1968 |             3 |             64 | regular issue |
-|         1968 |             3 |             65 | regular issue |
-|         1968 |             4 |             66 | regular issue |
-|         1968 |             4 |             67 | regular issue |
-|         1968 |             4 |             68 | regular issue |
-|         1968 |             4 |             69 | regular issue |
-|         1968 |             4 |             70 | regular issue |
-|         1968 |             5 |             71 | regular issue |
-|         1968 |             5 |             72 | regular issue |
-|         1968 |             5 |             73 | regular issue |
-|         1968 |             5 |             74 | regular issue |
-|         1968 |             6 |             75 | regular issue |
-|         1968 |             6 |             76 | regular issue |
-|         1968 |             6 |             77 | regular issue |
-|         1968 |             6 |             78 | regular issue |
-|         1968 |             7 |             79 | regular issue |
-|         1968 |             7 |             80 | regular issue |
-|         1968 |             7 |             81 | regular issue |
-|         1968 |             7 |             82 | regular issue |
-|         1968 |             7 |             83 | regular issue |
-|         1968 |             8 |             84 | regular issue |
-|         1968 |             8 |             85 | regular issue |
-|         1968 |             8 |             86 | regular issue |
-|         1968 |             8 |             87 | regular issue |
-|         1968 |             9 |             88 | regular issue |
-|         1968 |             9 |             89 | regular issue |
-|         1968 |             9 |             90 | regular issue |
-|         1968 |             9 |             91 | regular issue |
-|         1969 |             1 |            106 | regular issue |
-|         1969 |             1 |            107 | regular issue |
-|         1969 |             1 |            108 | regular issue |
-|         1969 |             1 |            109 | regular issue |
-|         1969 |            10 |            145 | regular issue |
-|         1969 |            10 |            146 | regular issue |
-|         1969 |            10 |            147 | regular issue |
-|         1969 |            10 |            148 | regular issue |
-|         1969 |            11 |            149 | regular issue |
-|         1969 |            11 |            150 | regular issue |
-|         1969 |            11 |            151 | regular issue |
-|         1969 |            11 |            152 | regular issue |
-|         1969 |            12 |            153 | regular issue |
-|         1969 |            12 |            154 | regular issue |
-|         1969 |            12 |            155 | regular issue |
-|         1969 |            12 |            156 | regular issue |
-|         1969 |            12 |            157 | regular issue |
-|         1969 |             2 |            110 | regular issue |
-|         1969 |             2 |            111 | regular issue |
-|         1969 |             2 |            112 | regular issue |
-|         1969 |             2 |            113 | regular issue |
-|         1969 |             3 |            114 | regular issue |
-|         1969 |             3 |            115 | regular issue |
-|         1969 |             3 |            116 | regular issue |
-|         1969 |             3 |            117 | regular issue |
-|         1969 |             4 |            118 | regular issue |
-|         1969 |             4 |            119 | regular issue |
-|         1969 |             4 |            120 | regular issue |
-|         1969 |             4 |            121 | regular issue |
-|         1969 |             4 |            122 | regular issue |
-|         1969 |             5 |            123 | regular issue |
-|         1969 |             5 |            124 | regular issue |
-|         1969 |             5 |            125 | regular issue |
-|         1969 |             5 |            126 | regular issue |
-|         1969 |             6 |            127 | regular issue |
-|         1969 |             6 |            128 | regular issue |
-|         1969 |             6 |            129 | regular issue |
-|         1969 |             6 |            130 | regular issue |
-|         1969 |             7 |            131 | regular issue |
-|         1969 |             7 |            132 | regular issue |
-|         1969 |             7 |            133 | regular issue |
-|         1969 |             7 |            134 | regular issue |
-|         1969 |             7 |            135 | regular issue |
-|         1969 |             8 |            136 | regular issue |
-|         1969 |             8 |            137 | regular issue |
-|         1969 |             8 |            138 | regular issue |
-|         1969 |             8 |            139 | regular issue |
-|         1969 |             9 |            140 | regular issue |
-|         1969 |             9 |            141 | regular issue |
-|         1969 |             9 |            142 | regular issue |
-|         1969 |             9 |            143 | regular issue |
-|         1969 |             9 |            144 | regular issue |
-|         1970 |             1 |            158 | regular issue |
-|         1970 |             1 |            159 | regular issue |
-|         1970 |             1 |            160 | regular issue |
-|         1970 |             2 |            161 | regular issue |
-|         1970 |             2 |            162 | regular issue |
-|         1970 |             2 |            163 | regular issue |
-|         1970 |             2 |            164 | regular issue |
-|         1970 |             2 |            165 | regular issue |
-|         1970 |             3 |            166 | regular issue |
-|         1970 |             3 |            167 | regular issue |
-|         1970 |             3 |            168 | regular issue |
-|         1970 |             3 |            169 | regular issue |
-|         1970 |             3 |            170 | regular issue |
-|         1970 |             4 |            171 | regular issue |
-|         1970 |             4 |            172 | regular issue |
-|         1970 |             4 |            173 | regular issue |
+| publication_title    |   issue_year |   issue_month |   issue_number | issue_type    |
+|:---------------------|-------------:|--------------:|---------------:|:--------------|
+| Haftalık Ant Dergisi |         1967 |             1 |              1 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             1 |              1 | special issue |
+| Haftalık Ant Dergisi |         1967 |             1 |              2 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             1 |              3 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             1 |              4 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             1 |              5 | regular issue |
+| Haftalık Ant Dergisi |         1967 |            10 |             40 | regular issue |
+| Haftalık Ant Dergisi |         1967 |            10 |             41 | regular issue |
+| Haftalık Ant Dergisi |         1967 |            10 |             42 | regular issue |
+| Haftalık Ant Dergisi |         1967 |            10 |             43 | regular issue |
+| Haftalık Ant Dergisi |         1967 |            10 |             44 | regular issue |
+| Haftalık Ant Dergisi |         1967 |            11 |             45 | regular issue |
+| Haftalık Ant Dergisi |         1967 |            11 |             46 | regular issue |
+| Haftalık Ant Dergisi |         1967 |            11 |             47 | regular issue |
+| Haftalık Ant Dergisi |         1967 |            11 |             48 | regular issue |
+| Haftalık Ant Dergisi |         1967 |            12 |             49 | regular issue |
+| Haftalık Ant Dergisi |         1967 |            12 |             50 | regular issue |
+| Haftalık Ant Dergisi |         1967 |            12 |             51 | regular issue |
+| Haftalık Ant Dergisi |         1967 |            12 |             52 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             2 |              6 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             2 |              7 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             2 |              8 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             2 |              9 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             3 |             10 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             3 |             11 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             3 |             12 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             3 |             13 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             4 |             14 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             4 |             15 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             4 |             16 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             4 |             17 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             5 |             18 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             5 |             19 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             5 |             20 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             5 |             21 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             5 |             22 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             6 |             23 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             6 |             24 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             6 |             25 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             6 |             26 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             7 |             27 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             7 |             28 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             7 |             29 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             7 |             30 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             8 |             31 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             8 |             32 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             8 |             33 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             8 |             34 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             8 |             35 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             9 |             36 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             9 |             37 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             9 |             38 | regular issue |
+| Haftalık Ant Dergisi |         1967 |             9 |             39 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             1 |             53 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             1 |             54 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             1 |             55 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             1 |             56 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             1 |             57 | regular issue |
+| Haftalık Ant Dergisi |         1968 |            10 |             92 | regular issue |
+| Haftalık Ant Dergisi |         1968 |            10 |             93 | regular issue |
+| Haftalık Ant Dergisi |         1968 |            10 |             94 | regular issue |
+| Haftalık Ant Dergisi |         1968 |            10 |             95 | regular issue |
+| Haftalık Ant Dergisi |         1968 |            10 |             96 | regular issue |
+| Haftalık Ant Dergisi |         1968 |            11 |            100 | regular issue |
+| Haftalık Ant Dergisi |         1968 |            11 |             97 | regular issue |
+| Haftalık Ant Dergisi |         1968 |            11 |             98 | regular issue |
+| Haftalık Ant Dergisi |         1968 |            11 |             99 | regular issue |
+| Haftalık Ant Dergisi |         1968 |            12 |            101 | regular issue |
+| Haftalık Ant Dergisi |         1968 |            12 |            102 | regular issue |
+| Haftalık Ant Dergisi |         1968 |            12 |            103 | regular issue |
+| Haftalık Ant Dergisi |         1968 |            12 |            104 | regular issue |
+| Haftalık Ant Dergisi |         1968 |            12 |            105 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             2 |             58 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             2 |             59 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             2 |             60 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             2 |             61 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             3 |             62 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             3 |             63 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             3 |             64 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             3 |             65 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             4 |             66 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             4 |             67 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             4 |             68 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             4 |             69 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             4 |             70 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             5 |             71 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             5 |             72 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             5 |             73 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             5 |             74 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             6 |             75 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             6 |             76 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             6 |             77 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             6 |             78 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             7 |             79 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             7 |             80 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             7 |             81 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             7 |             82 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             7 |             83 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             8 |             84 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             8 |             85 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             8 |             86 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             8 |             87 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             9 |             88 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             9 |             89 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             9 |             90 | regular issue |
+| Haftalık Ant Dergisi |         1968 |             9 |             91 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             1 |            106 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             1 |            107 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             1 |            108 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             1 |            109 | regular issue |
+| Haftalık Ant Dergisi |         1969 |            10 |            145 | regular issue |
+| Haftalık Ant Dergisi |         1969 |            10 |            146 | regular issue |
+| Haftalık Ant Dergisi |         1969 |            10 |            147 | regular issue |
+| Haftalık Ant Dergisi |         1969 |            10 |            148 | regular issue |
+| Haftalık Ant Dergisi |         1969 |            11 |            149 | regular issue |
+| Haftalık Ant Dergisi |         1969 |            11 |            150 | regular issue |
+| Haftalık Ant Dergisi |         1969 |            11 |            151 | regular issue |
+| Haftalık Ant Dergisi |         1969 |            11 |            152 | regular issue |
+| Haftalık Ant Dergisi |         1969 |            12 |            153 | regular issue |
+| Haftalık Ant Dergisi |         1969 |            12 |            154 | regular issue |
+| Haftalık Ant Dergisi |         1969 |            12 |            155 | regular issue |
+| Haftalık Ant Dergisi |         1969 |            12 |            156 | regular issue |
+| Haftalık Ant Dergisi |         1969 |            12 |            157 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             2 |            110 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             2 |            111 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             2 |            112 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             2 |            113 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             3 |            114 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             3 |            115 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             3 |            116 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             3 |            117 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             4 |            118 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             4 |            119 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             4 |            120 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             4 |            121 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             4 |            122 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             5 |            123 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             5 |            124 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             5 |            125 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             5 |            126 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             6 |            127 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             6 |            128 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             6 |            129 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             6 |            130 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             7 |            131 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             7 |            132 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             7 |            133 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             7 |            134 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             7 |            135 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             8 |            136 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             8 |            137 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             8 |            138 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             8 |            139 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             9 |            140 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             9 |            141 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             9 |            142 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             9 |            143 | regular issue |
+| Haftalık Ant Dergisi |         1969 |             9 |            144 | regular issue |
+| Haftalık Ant Dergisi |         1970 |             1 |            158 | regular issue |
+| Haftalık Ant Dergisi |         1970 |             1 |            159 | regular issue |
+| Haftalık Ant Dergisi |         1970 |             1 |            160 | regular issue |
+| Haftalık Ant Dergisi |         1970 |             2 |            161 | regular issue |
+| Haftalık Ant Dergisi |         1970 |             2 |            162 | regular issue |
+| Haftalık Ant Dergisi |         1970 |             2 |            163 | regular issue |
+| Haftalık Ant Dergisi |         1970 |             2 |            164 | regular issue |
+| Haftalık Ant Dergisi |         1970 |             2 |            165 | regular issue |
+| Haftalık Ant Dergisi |         1970 |             3 |            166 | regular issue |
+| Haftalık Ant Dergisi |         1970 |             3 |            167 | regular issue |
+| Haftalık Ant Dergisi |         1970 |             3 |            168 | regular issue |
+| Haftalık Ant Dergisi |         1970 |             3 |            169 | regular issue |
+| Haftalık Ant Dergisi |         1970 |             3 |            170 | regular issue |
+| Haftalık Ant Dergisi |         1970 |             4 |            171 | regular issue |
+| Haftalık Ant Dergisi |         1970 |             4 |            172 | regular issue |
+| Haftalık Ant Dergisi |         1970 |             4 |            173 | regular issue |
