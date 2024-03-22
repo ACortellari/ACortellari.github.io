@@ -2,7 +2,19 @@
 
 Aydınlık Sosyalist Dergi was a monthly publication. It published 29 issues in Ankara between 1968 and 1971.
 
-### Issues Summary
+## Articles in Scope
+
+|   article_id | article_title                                                            | author_type   | author            | publication_title        |   issue_number | issue_date   | pages   |
+|-------------:|:-------------------------------------------------------------------------|:--------------|:------------------|:-------------------------|---------------:|:-------------|:--------|
+|           13 | Aydınlık'ta Dünya ve Türkiye                                             | nan           | nan               | Aydınlık Sosyalist Dergi |              1 | 1968-11      | 33-44   |
+|           14 | Aydınlık'ta Dünya ve Türkiye                                             | nan           | nan               | Aydınlık Sosyalist Dergi |              3 | 1969-01      | 177-186 |
+|           15 | Aydınlık'ta Dünya ve Türkiye                                             | nan           | nan               | Aydınlık Sosyalist Dergi |              4 | 1969-02      | 261-278 |
+|           16 | Aydınlık'ta Dünya ve Türkiye                                             | nan           | nan               | Aydınlık Sosyalist Dergi |              6 | 1969-04      | 417-437 |
+|            3 | Aydınlık'ta Dünya ve Türkiye                                             | nan           | nan               | Aydınlık Sosyalist Dergi |             24 | 1970-10      | 504-525 |
+|            6 | Filistin Araplarının Millî Kurtuluş Savaşı                               | Author        | Erdoğan Güçbilmez | Aydınlık Sosyalist Dergi |              3 | 1969-01      | 227-244 |
+|           11 | Orta Doğuda Fedayi Harekatı ve Filistin Demokratik Halk Kurtuluş Cephesi | Author        | A. Kerim          | Aydınlık Sosyalist Dergi |             19 | 1970-05      | 86-96   |
+
+## Issues Summary
 
 | publication_title        |   issue_year | issue_month   |   issue_day | issue_number   | issue_type    |
 |:-------------------------|-------------:|:--------------|------------:|:---------------|:--------------|

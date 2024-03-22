@@ -2,7 +2,20 @@
 
 Türk Solu was a weekly publication. It published 126 issues in Ankara between 1967 and 1970.
 
-### Issues Summary
+## Articles in Scope
+
+|   article_id | article_title                                | author_type   | author          | publication_title   |   issue_number | issue_date   | pages   |
+|-------------:|:---------------------------------------------|:--------------|:----------------|:--------------------|---------------:|:-------------|:--------|
+|           17 | El Feth ve Göçmenler                         | Author        | Gérard Chaliand | Türk Solu           |             86 | 1969-07      | 15      |
+|           18 | El Feth ve Göçmenler                         | Author        | Gérard Chaliand | Türk Solu           |             87 | 1969-07      | 15      |
+|           19 | El Feth’in Zaferi                            | Author        | Gérard Chaliand | Türk Solu           |             82 | 1969-06      | 12      |
+|           20 | Filistin Halk Kurtuluş Cephesinde bölünmeler | Author        | Gérard Chaliand | Türk Solu           |             85 | 1969-07      | 13      |
+|           21 | Filistin Mukavemeti                          | Author        | Gérard Chaliand | Türk Solu           |             81 | 1969-06      | 10-11   |
+|           22 | Haziran 1967 den Sonra                       | Author        | Gérard Chaliand | Türk Solu           |             83 | 1969-06      | 14      |
+|           23 | Milli şahsiyetiçin savaş                     | Author        | Gérard Chaliand | Türk Solu           |             84 | 1969-06      | 14      |
+|           24 | Tartışmanın Özü                              | Author        | Gérard Chaliand | Türk Solu           |             89 | 1969-07      | 13      |
+
+## Issues Summary
 
 | publication_title   |   issue_year |   issue_month |   issue_day |   issue_number | issue_type    |
 |:--------------------|-------------:|--------------:|------------:|---------------:|:--------------|

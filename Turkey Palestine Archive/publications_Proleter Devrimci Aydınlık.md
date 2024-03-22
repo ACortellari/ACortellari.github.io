@@ -2,7 +2,16 @@
 
 Proleter Devrimci Aydınlık was a monthly publication. It published 26 issues in Ankara between 1970 and 1971.
 
-### Issues Summary
+## Articles in Scope
+
+|   article_id | article_title                                                                |   author_type |   author | publication_title          | issue_number   | issue_date   | pages   |
+|-------------:|:-----------------------------------------------------------------------------|--------------:|---------:|:---------------------------|:---------------|:-------------|:--------|
+|           12 | Arap Halklarının Kurtuluş Mücadelesini Hiçbir Güç Durduramıyacaktır          |           nan |      nan | Proleter Devrimci Aydınlık | 9-23           | 1970-09      | 369-376 |
+|            2 | Fateh Bazı 'Büyük' Devletlerin Filistin Devrimini Boğma Tertibini Lanetliyor |           nan |      nan | Proleter Devrimci Aydınlık | 10-24          | 1970-10      | 425-426 |
+|            4 | Filistin İhtilalini Kimse Durduramaz!                                        |           nan |      nan | Proleter Devrimci Aydınlık | 10-24          | 1970-10      | 417-423 |
+|            5 | Filistin İkinci Dünya Kongresi                                               |           nan |      nan | Proleter Devrimci Aydınlık | 10-24          | 1970-10      | 423-425 |
+
+## Issues Summary
 
 | publication_title          |   issue_year |   issue_month |   issue_day | issue_number   | issue_type    |
 |:---------------------------|-------------:|--------------:|------------:|:---------------|:--------------|

@@ -18,7 +18,6 @@ The sources provided here span the years 1968 to 1971 representing just a fracti
 
 The database includes the following:
 
-* articles
 * articles_view
 * issues_view
 * Leftist Press

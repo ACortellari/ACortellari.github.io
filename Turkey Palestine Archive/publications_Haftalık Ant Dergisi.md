@@ -2,7 +2,13 @@
 
 Haftalık Ant Dergisi was a weekly publication. It published 174 issues in İstanbul between 1967 and 1970.
 
-### Issues Summary
+## Articles in Scope
+
+|   article_id | article_title          | author_type   | author      | publication_title    |   issue_number | issue_date   |   pages |
+|-------------:|:-----------------------|:--------------|:------------|:---------------------|---------------:|:-------------|--------:|
+|           10 | El Feth'e Niye Gittim? | Author        | Yusuf Aslan | Haftalık Ant Dergisi |            165 | 1970-02      |       6 |
+
+## Issues Summary
 
 | publication_title    |   issue_year |   issue_month |   issue_day |   issue_number | issue_type    |
 |:---------------------|-------------:|--------------:|------------:|---------------:|:--------------|
