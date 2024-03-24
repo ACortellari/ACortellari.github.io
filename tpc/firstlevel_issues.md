@@ -1,6 +1,6 @@
 # [The Turkey-Palestine Source Collection](turkey_palestine_collection.md) // Issues
 
-In our dataset, we have 9 unique publication names. The earliest publication started in 1967, while the latest publication ended in 1971. These publications are spread across various locations including Ankara, İstanbul. This page showcases data from the issues_view of the database.
+In our dataset, we have 12 unique publication names. The earliest publication started in 1967, while the latest publication ended in 1971. These publications are spread across various locations including Ankara, İstanbul, Adana. This page showcases data from the issues_view of the database.
 
 | publication_title          | issue_number   | issue_type    |   issue_year | issue_month   |   issue_day |
 |:---------------------------|:---------------|:--------------|-------------:|:--------------|------------:|
@@ -10,26 +10,33 @@ In our dataset, we have 9 unique publication names. The earliest publication sta
 | Haftalık Ant Dergisi       | 3              | regular issue |         1967 | 1             |          17 |
 | Haftalık Ant Dergisi       | 4              | regular issue |         1967 | 1             |          24 |
 | Haftalık Ant Dergisi       | 5              | regular issue |         1967 | 1             |          31 |
+| Kavga                      | 2              | regular issue |         1967 | 1             |          18 |
+| Kavga                      | 3              | regular issue |         1967 | 1             |          25 |
 | Haftalık Ant Dergisi       | 40             | regular issue |         1967 | 10            |         nan |
 | Haftalık Ant Dergisi       | 41             | regular issue |         1967 | 10            |         nan |
 | Haftalık Ant Dergisi       | 42             | regular issue |         1967 | 10            |         nan |
 | Haftalık Ant Dergisi       | 43             | regular issue |         1967 | 10            |         nan |
 | Haftalık Ant Dergisi       | 44             | regular issue |         1967 | 10            |         nan |
+| Yeni Gerçek                | 2              | regular issue |         1967 | 10            |         nan |
 | Haftalık Ant Dergisi       | 45             | regular issue |         1967 | 11            |         nan |
 | Haftalık Ant Dergisi       | 46             | regular issue |         1967 | 11            |         nan |
 | Haftalık Ant Dergisi       | 47             | regular issue |         1967 | 11            |         nan |
 | Haftalık Ant Dergisi       | 48             | regular issue |         1967 | 11            |         nan |
+| Proleter                   | 1              | regular issue |         1967 | 11            |          15 |
 | Türk Solu                  | 1              | regular issue |         1967 | 11            |         nan |
 | Türk Solu                  | 2              | regular issue |         1967 | 11            |         nan |
+| Yeni Gerçek                | 3              | regular issue |         1967 | 11            |         nan |
 | Haftalık Ant Dergisi       | 49             | regular issue |         1967 | 12            |         nan |
 | Haftalık Ant Dergisi       | 50             | regular issue |         1967 | 12            |         nan |
 | Haftalık Ant Dergisi       | 51             | regular issue |         1967 | 12            |         nan |
 | Haftalık Ant Dergisi       | 52             | regular issue |         1967 | 12            |         nan |
+| Proleter                   | 2              | regular issue |         1967 | 12            |          15 |
 | Türk Solu                  | 3              | regular issue |         1967 | 12            |         nan |
 | Türk Solu                  | 4              | regular issue |         1967 | 12            |         nan |
 | Türk Solu                  | 5              | regular issue |         1967 | 12            |         nan |
 | Türk Solu                  | 6              | regular issue |         1967 | 12            |         nan |
 | Türk Solu                  | 7              | regular issue |         1967 | 12            |         nan |
+| Yeni Gerçek                | 4              | regular issue |         1967 | 12            |         nan |
 | Haftalık Ant Dergisi       | 6              | regular issue |         1967 | 2             |           7 |
 | Haftalık Ant Dergisi       | 7              | regular issue |         1967 | 2             |          14 |
 | Haftalık Ant Dergisi       | 8              | regular issue |         1967 | 2             |          21 |
@@ -43,12 +50,14 @@ In our dataset, we have 9 unique publication names. The earliest publication sta
 | Haftalık Ant Dergisi       | 15             | regular issue |         1967 | 4             |          11 |
 | Haftalık Ant Dergisi       | 16             | regular issue |         1967 | 4             |          18 |
 | Haftalık Ant Dergisi       | 17             | regular issue |         1967 | 4             |          25 |
+| Kavga                      | 4              | regular issue |         1967 | 4             |          15 |
 | DİSK Gazetesi              | 2              | regular issue |         1967 | 5             |          22 |
 | Haftalık Ant Dergisi       | 18             | regular issue |         1967 | 5             |           2 |
 | Haftalık Ant Dergisi       | 19             | regular issue |         1967 | 5             |           9 |
 | Haftalık Ant Dergisi       | 20             | regular issue |         1967 | 5             |          16 |
 | Haftalık Ant Dergisi       | 21             | regular issue |         1967 | 5             |          23 |
 | Haftalık Ant Dergisi       | 22             | regular issue |         1967 | 5             |          30 |
+| Kavga                      | 6              | regular issue |         1967 | 5             |          16 |
 | Haftalık Ant Dergisi       | 23             | regular issue |         1967 | 6             |           6 |
 | Haftalık Ant Dergisi       | 24             | regular issue |         1967 | 6             |          13 |
 | Haftalık Ant Dergisi       | 25             | regular issue |         1967 | 6             |          20 |
@@ -66,18 +75,24 @@ In our dataset, we have 9 unique publication names. The earliest publication sta
 | Haftalık Ant Dergisi       | 37             | regular issue |         1967 | 9             |         nan |
 | Haftalık Ant Dergisi       | 38             | regular issue |         1967 | 9             |         nan |
 | Haftalık Ant Dergisi       | 39             | regular issue |         1967 | 9             |         nan |
+| Yeni Gerçek                | 1              | regular issue |         1967 | 9             |         nan |
 | DİSK Gazetesi              | 3              | regular issue |         1967 | nan           |         nan |
 | DİSK Gazetesi              | 4              | regular issue |         1967 | nan           |         nan |
+| Kavga                      | 0              | special issue |         1967 | nan           |         nan |
+| Kavga                      | 1              | regular issue |         1967 | nan           |         nan |
+| Kavga                      | 5              | regular issue |         1967 | nan           |         nan |
 | DİSK Gazetesi              | 5              | regular issue |         1968 | 1             |           6 |
 | Haftalık Ant Dergisi       | 53             | regular issue |         1968 | 1             |         nan |
 | Haftalık Ant Dergisi       | 54             | regular issue |         1968 | 1             |         nan |
 | Haftalık Ant Dergisi       | 55             | regular issue |         1968 | 1             |         nan |
 | Haftalık Ant Dergisi       | 56             | regular issue |         1968 | 1             |         nan |
 | Haftalık Ant Dergisi       | 57             | regular issue |         1968 | 1             |         nan |
+| Proleter                   | 3              | regular issue |         1968 | 1             |          15 |
 | Türk Solu                  | 10             | regular issue |         1968 | 1             |         nan |
 | Türk Solu                  | 11             | regular issue |         1968 | 1             |         nan |
 | Türk Solu                  | 8              | regular issue |         1968 | 1             |         nan |
 | Türk Solu                  | 9              | regular issue |         1968 | 1             |         nan |
+| Yeni Gerçek                | 5              | regular issue |         1968 | 1             |         nan |
 | Haftalık Ant Dergisi       | 92             | regular issue |         1968 | 10            |         nan |
 | Haftalık Ant Dergisi       | 93             | regular issue |         1968 | 10            |         nan |
 | Haftalık Ant Dergisi       | 94             | regular issue |         1968 | 10            |         nan |
@@ -115,14 +130,17 @@ In our dataset, we have 9 unique publication names. The earliest publication sta
 | Haftalık Ant Dergisi       | 59             | regular issue |         1968 | 2             |         nan |
 | Haftalık Ant Dergisi       | 60             | regular issue |         1968 | 2             |         nan |
 | Haftalık Ant Dergisi       | 61             | regular issue |         1968 | 2             |         nan |
+| Proleter                   | 4              | regular issue |         1968 | 2             |          15 |
 | Türk Solu                  | 12             | regular issue |         1968 | 2             |         nan |
 | Türk Solu                  | 13             | regular issue |         1968 | 2             |         nan |
 | Türk Solu                  | 14             | regular issue |         1968 | 2             |         nan |
 | Türk Solu                  | 15             | regular issue |         1968 | 2             |         nan |
+| Yeni Gerçek                | 6              | regular issue |         1968 | 2-3           |         nan |
 | Haftalık Ant Dergisi       | 62             | regular issue |         1968 | 3             |         nan |
 | Haftalık Ant Dergisi       | 63             | regular issue |         1968 | 3             |         nan |
 | Haftalık Ant Dergisi       | 64             | regular issue |         1968 | 3             |         nan |
 | Haftalık Ant Dergisi       | 65             | regular issue |         1968 | 3             |         nan |
+| Proleter                   | 5              | regular issue |         1968 | 3             |          15 |
 | Türk Solu                  | 16             | regular issue |         1968 | 3             |         nan |
 | Türk Solu                  | 17             | regular issue |         1968 | 3             |         nan |
 | Türk Solu                  | 18             | regular issue |         1968 | 3             |         nan |
@@ -132,19 +150,23 @@ In our dataset, we have 9 unique publication names. The earliest publication sta
 | Haftalık Ant Dergisi       | 68             | regular issue |         1968 | 4             |         nan |
 | Haftalık Ant Dergisi       | 69             | regular issue |         1968 | 4             |         nan |
 | Haftalık Ant Dergisi       | 70             | regular issue |         1968 | 4             |         nan |
+| Proleter                   | 6              | regular issue |         1968 | 4             |          15 |
 | Türk Solu                  | 20             | regular issue |         1968 | 4             |         nan |
 | Türk Solu                  | 21             | regular issue |         1968 | 4             |         nan |
 | Türk Solu                  | 22             | regular issue |         1968 | 4             |         nan |
 | Türk Solu                  | 23             | regular issue |         1968 | 4             |         nan |
 | Türk Solu                  | 24             | regular issue |         1968 | 4             |         nan |
+| Yeni Gerçek                | 7              | regular issue |         1968 | 4             |         nan |
 | Haftalık Ant Dergisi       | 71             | regular issue |         1968 | 5             |         nan |
 | Haftalık Ant Dergisi       | 72             | regular issue |         1968 | 5             |         nan |
 | Haftalık Ant Dergisi       | 73             | regular issue |         1968 | 5             |         nan |
 | Haftalık Ant Dergisi       | 74             | regular issue |         1968 | 5             |         nan |
+| Proleter                   | 7              | regular issue |         1968 | 5             |          15 |
 | Türk Solu                  | 25             | regular issue |         1968 | 5             |         nan |
 | Türk Solu                  | 26             | regular issue |         1968 | 5             |         nan |
 | Türk Solu                  | 27             | regular issue |         1968 | 5             |         nan |
 | Türk Solu                  | 28             | regular issue |         1968 | 5             |         nan |
+| Yeni Gerçek                | 8              | regular issue |         1968 | 5             |         nan |
 | Haftalık Ant Dergisi       | 75             | regular issue |         1968 | 6             |         nan |
 | Haftalık Ant Dergisi       | 76             | regular issue |         1968 | 6             |         nan |
 | Haftalık Ant Dergisi       | 77             | regular issue |         1968 | 6             |         nan |
@@ -153,6 +175,7 @@ In our dataset, we have 9 unique publication names. The earliest publication sta
 | Türk Solu                  | 30             | regular issue |         1968 | 6             |         nan |
 | Türk Solu                  | 31             | regular issue |         1968 | 6             |         nan |
 | Türk Solu                  | 32             | regular issue |         1968 | 6             |         nan |
+| Yeni Gerçek                | 9              | regular issue |         1968 | 6-7           |         nan |
 | Haftalık Ant Dergisi       | 79             | regular issue |         1968 | 7             |         nan |
 | Haftalık Ant Dergisi       | 80             | regular issue |         1968 | 7             |         nan |
 | Haftalık Ant Dergisi       | 81             | regular issue |         1968 | 7             |         nan |
@@ -179,6 +202,7 @@ In our dataset, we have 9 unique publication names. The earliest publication sta
 | Türk Solu                  | 43             | regular issue |         1968 | 9             |         nan |
 | Türk Solu                  | 44             | regular issue |         1968 | 9             |         nan |
 | Türk Solu                  | 45             | regular issue |         1968 | 9             |         nan |
+| Proleter                   | 8              | regular issue |         1968 | nan           |         nan |
 | İleri                      | 1              | regular issue |         1968 | nan           |         nan |
 | Aydınlık Sosyalist Dergi   | 3              | regular issue |         1969 | 1             |         nan |
 | Haftalık Ant Dergisi       | 106            | regular issue |         1969 | 1             |         nan |
@@ -197,6 +221,7 @@ In our dataset, we have 9 unique publication names. The earliest publication sta
 | Haftalık Ant Dergisi       | 146            | regular issue |         1969 | 10            |         nan |
 | Haftalık Ant Dergisi       | 147            | regular issue |         1969 | 10            |         nan |
 | Haftalık Ant Dergisi       | 148            | regular issue |         1969 | 10            |         nan |
+| Proleter                   | 13             | regular issue |         1969 | 10            |           9 |
 | Türk Solu                  | 100            | regular issue |         1969 | 10            |         nan |
 | Türk Solu                  | 101            | regular issue |         1969 | 10            |         nan |
 | Türk Solu                  | 102            | regular issue |         1969 | 10            |         nan |
@@ -258,6 +283,7 @@ In our dataset, we have 9 unique publication names. The earliest publication sta
 | Haftalık Ant Dergisi       | 124            | regular issue |         1969 | 5             |         nan |
 | Haftalık Ant Dergisi       | 125            | regular issue |         1969 | 5             |         nan |
 | Haftalık Ant Dergisi       | 126            | regular issue |         1969 | 5             |         nan |
+| Proleter                   | 9              | regular issue |         1969 | 5             |          10 |
 | Türk Solu                  | 77             | regular issue |         1969 | 5             |         nan |
 | Türk Solu                  | 78             | regular issue |         1969 | 5             |         nan |
 | Türk Solu                  | 79             | regular issue |         1969 | 5             |         nan |
@@ -268,6 +294,7 @@ In our dataset, we have 9 unique publication names. The earliest publication sta
 | Haftalık Ant Dergisi       | 128            | regular issue |         1969 | 6             |         nan |
 | Haftalık Ant Dergisi       | 129            | regular issue |         1969 | 6             |         nan |
 | Haftalık Ant Dergisi       | 130            | regular issue |         1969 | 6             |         nan |
+| Proleter                   | 10             | regular issue |         1969 | 6             |          15 |
 | Türk Solu                  | 81             | regular issue |         1969 | 6             |         nan |
 | Türk Solu                  | 82             | regular issue |         1969 | 6             |         nan |
 | Türk Solu                  | 83             | regular issue |         1969 | 6             |         nan |
@@ -279,6 +306,7 @@ In our dataset, we have 9 unique publication names. The earliest publication sta
 | Haftalık Ant Dergisi       | 133            | regular issue |         1969 | 7             |         nan |
 | Haftalık Ant Dergisi       | 134            | regular issue |         1969 | 7             |         nan |
 | Haftalık Ant Dergisi       | 135            | regular issue |         1969 | 7             |         nan |
+| Proleter                   | 11             | regular issue |         1969 | 7             |          20 |
 | Türk Solu                  | 85             | regular issue |         1969 | 7             |         nan |
 | Türk Solu                  | 86             | regular issue |         1969 | 7             |         nan |
 | Türk Solu                  | 87             | regular issue |         1969 | 7             |         nan |
@@ -305,6 +333,7 @@ In our dataset, we have 9 unique publication names. The earliest publication sta
 | Türk Solu                  | 97             | regular issue |         1969 | 9             |         nan |
 | Türk Solu                  | 98             | regular issue |         1969 | 9             |         nan |
 | Kurtuluş Yolu              | 5              | regular issue |         1969 | nan           |         nan |
+| Proleter                   | 12             | regular issue |         1969 | nan           |         nan |
 | Aydınlık Sosyalist Dergi   | 15             | regular issue |         1970 | 1             |         nan |
 | Haftalık Ant Dergisi       | 158            | regular issue |         1970 | 1             |         nan |
 | Haftalık Ant Dergisi       | 159            | regular issue |         1970 | 1             |         nan |
