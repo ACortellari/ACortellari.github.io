@@ -1,6 +1,6 @@
 # [The Turkey-Palestine Source Collection](turkey_palestine_collection.md) // Articles
 
-In our dataset, we have 12 unique publication names. The earliest publication started in 1967, while the latest publication ended in 1971. These publications are spread across various locations including Ankara, İstanbul, Adana. This page showcases data from the articles_view of the database.
+In our dataset, we have 12 unique publication names. The earliest publication started in 1967, while the latest publication ended in 1971. These publications are spread across various locations including Adana, Ankara, İstanbul. The webpage showcases data sourced from the articles_view of the database. Download this view as a .csv file <a href='https://github.com/andreacortellari/andreacortellari.github.io/blob/main/tpc\Sources Database\articles_view.csv'>by clicking on the link.</a>
 
 | article_title                                                                | author_type   | author                | publication_title          | issue_number   | issue_date   | pages   |
 |:-----------------------------------------------------------------------------|:--------------|:----------------------|:---------------------------|:---------------|:-------------|:--------|
