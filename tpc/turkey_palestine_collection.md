@@ -1,6 +1,8 @@
-# [ARTICLES](firstlevel_articles.md) // [PUBLICATIONS](firstlevel_publications.md)
+# [The Turkey-Palestine Source Collection](turkey_palestine_collection.md)
+
+# [ARTICLES](firstlevel_articles.md) // [ISSUES](firstlevel_issues.md) // [PUBLICATIONS](firstlevel_publications.md)
 ```
-Last Update: 2024-03-22
+Last Update: 2024-03-24
 ```
 
 
@@ -12,10 +14,7 @@ The rich corpus of primary sources accessible through the digitization efforts o
 
 ## Sources in the Leftist Press
 
-The sources provided here span the years 1968 to 1971 representing just a fraction of the leftist weekly and monthly publications from that period. Although the initial corpus was more extensive, only the sources included in my bibliography are currently listed. Additional sources may be made available here in the future. Sources published in leftist publications will gradually be made available in the <a href='https://github.com/ACortellari/ACortellari.github.io/tree/main/Turkey%20Palestine%20Archive/Sources%20Database'>Sources Database</a> (as .csv files for ease in fruition).
+The sources provided here span the years 1968 to 1971 representing just a fraction of the leftist weekly and monthly publications from that period. Although the initial corpus was more extensive, only the sources included in my bibliography are currently listed. Additional sources may be made available here in the future. Sources published in leftist publications will gradually be made available in the <a href='https://github.com/andreacortellari/andreacortellari.github.io/tree/main/tpc/Sources%20Database'>Sources Database</a> (as .csv files for ease in fruition).
 
 The database includes the following:
 
-* articles_view
-* issues_view
-* publications_view
