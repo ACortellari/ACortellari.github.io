@@ -12,8 +12,8 @@ Haftalık Ant Dergisi was a weekly publication. It published 174 issues in İsta
 
 | publication_title    |   issue_year |   issue_month |   issue_day |   issue_number | issue_type    |
 |:---------------------|-------------:|--------------:|------------:|---------------:|:--------------|
+| Haftalık Ant Dergisi |         1967 |             1 |           3 |              0 | special issue |
 | Haftalık Ant Dergisi |         1967 |             1 |           3 |              1 | regular issue |
-| Haftalık Ant Dergisi |         1967 |             1 |           3 |              1 | special issue |
 | Haftalık Ant Dergisi |         1967 |             1 |          10 |              2 | regular issue |
 | Haftalık Ant Dergisi |         1967 |             1 |         nan |              3 | regular issue |
 | Haftalık Ant Dergisi |         1967 |             1 |         nan |              4 | regular issue |

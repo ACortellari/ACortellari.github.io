@@ -1,6 +1,6 @@
 # [The Turkey-Palestine Source Collection](turkey_palestine_collection.md)
 
-# [ARTICLES](firstlevel_articles.md) // [ISSUES](firstlevel_issues.md) // [PUBLICATIONS](firstlevel_publications.md)
+# [ARTICLES](firstlevel_articles.md) // [VIEW](firstlevel_articles_view.md) // [ISSUES](firstlevel_issues.md) // [VIEW](firstlevel_issues_view.md) // [PUBLICATIONS](firstlevel_publications.md) // [VIEW](firstlevel_publications_view.md)
 ```
 Last Update: 2024-03-24
 ```
@@ -18,3 +18,6 @@ The sources provided here span the years 1968 to 1971 representing just a fracti
 
 The database includes the following:
 
+* articles_view
+* issues_view
+* publications_view

@@ -1,11 +1,11 @@
 # [The Turkey-Palestine Source Collection](turkey_palestine_collection.md) // Issues_View
 
-In our dataset, we have 5 unique publication names. The earliest publication started in 1967, while the latest publication ended in 1971. These publications are spread across various locations including Ankara, İstanbul. This page showcases data from the issues_view of the database.
+In our dataset, we have 6 unique publication names. The earliest publication started in 1967, while the latest publication ended in 1971. These publications are spread across various locations including Ankara, İstanbul. This page showcases data from the issues_view of the database.
 
 | publication_title          |   issue_year | issue_month   |   issue_day | issue_number   | issue_type    |
 |:---------------------------|-------------:|:--------------|------------:|:---------------|:--------------|
+| Haftalık Ant Dergisi       |         1967 | 1             |           3 | 0              | special issue |
 | Haftalık Ant Dergisi       |         1967 | 1             |           3 | 1              | regular issue |
-| Haftalık Ant Dergisi       |         1967 | 1             |           3 | 1              | special issue |
 | Haftalık Ant Dergisi       |         1967 | 1             |          10 | 2              | regular issue |
 | Haftalık Ant Dergisi       |         1967 | 1             |         nan | 3              | regular issue |
 | Haftalık Ant Dergisi       |         1967 | 1             |         nan | 4              | regular issue |
@@ -98,6 +98,8 @@ In our dataset, we have 5 unique publication names. The earliest publication sta
 | Haftalık Ant Dergisi       |         1968 | 12            |         nan | 103            | regular issue |
 | Haftalık Ant Dergisi       |         1968 | 12            |         nan | 104            | regular issue |
 | Haftalık Ant Dergisi       |         1968 | 12            |         nan | 105            | regular issue |
+| Kurtuluş Yolu              |         1968 | 12            |           1 | 1              | regular issue |
+| Kurtuluş Yolu              |         1968 | 12            |          15 | 2              | regular issue |
 | Türk Solu                  |         1968 | 12            |         nan | 55             | regular issue |
 | Türk Solu                  |         1968 | 12            |         nan | 56             | regular issue |
 | Türk Solu                  |         1968 | 12            |         nan | 57             | regular issue |
@@ -176,6 +178,8 @@ In our dataset, we have 5 unique publication names. The earliest publication sta
 | Haftalık Ant Dergisi       |         1969 | 1             |         nan | 107            | regular issue |
 | Haftalık Ant Dergisi       |         1969 | 1             |         nan | 108            | regular issue |
 | Haftalık Ant Dergisi       |         1969 | 1             |         nan | 109            | regular issue |
+| Kurtuluş Yolu              |         1969 | 1             |           1 | 3              | regular issue |
+| Kurtuluş Yolu              |         1969 | 1             |          17 | 4              | regular issue |
 | Türk Solu                  |         1969 | 1             |         nan | 60             | regular issue |
 | Türk Solu                  |         1969 | 1             |         nan | 61             | regular issue |
 | Türk Solu                  |         1969 | 1             |         nan | 62             | regular issue |
@@ -214,6 +218,7 @@ In our dataset, we have 5 unique publication names. The earliest publication sta
 | Haftalık Ant Dergisi       |         1969 | 2             |         nan | 111            | regular issue |
 | Haftalık Ant Dergisi       |         1969 | 2             |         nan | 112            | regular issue |
 | Haftalık Ant Dergisi       |         1969 | 2             |         nan | 113            | regular issue |
+| Kurtuluş Yolu              |         1969 | 2             |          15 | 6              | regular issue |
 | Türk Solu                  |         1969 | 2             |         nan | 64             | regular issue |
 | Türk Solu                  |         1969 | 2             |         nan | 65             | regular issue |
 | Türk Solu                  |         1969 | 2             |         nan | 66             | regular issue |
@@ -223,6 +228,7 @@ In our dataset, we have 5 unique publication names. The earliest publication sta
 | Haftalık Ant Dergisi       |         1969 | 3             |         nan | 115            | regular issue |
 | Haftalık Ant Dergisi       |         1969 | 3             |         nan | 116            | regular issue |
 | Haftalık Ant Dergisi       |         1969 | 3             |         nan | 117            | regular issue |
+| Kurtuluş Yolu              |         1969 | 3             |           1 | 7              | regular issue |
 | Türk Solu                  |         1969 | 3             |         nan | 68             | regular issue |
 | Türk Solu                  |         1969 | 3             |         nan | 69             | regular issue |
 | Türk Solu                  |         1969 | 3             |         nan | 70             | regular issue |
@@ -287,6 +293,7 @@ In our dataset, we have 5 unique publication names. The earliest publication sta
 | Türk Solu                  |         1969 | 9             |         nan | 96             | regular issue |
 | Türk Solu                  |         1969 | 9             |         nan | 97             | regular issue |
 | Türk Solu                  |         1969 | 9             |         nan | 98             | regular issue |
+| Kurtuluş Yolu              |         1969 | nan           |         nan | 5              | regular issue |
 | Aydınlık Sosyalist Dergi   |         1970 | 1             |         nan | 15             | regular issue |
 | Haftalık Ant Dergisi       |         1970 | 1             |         nan | 158            | regular issue |
 | Haftalık Ant Dergisi       |         1970 | 1             |         nan | 159            | regular issue |
@@ -298,9 +305,11 @@ In our dataset, we have 5 unique publication names. The earliest publication sta
 | Türk Solu                  |         1970 | 1             |         nan | 115            | regular issue |
 | Aydınlık Sosyalist Dergi   |         1970 | 10            |         nan | 24             | regular issue |
 | Aylık Ant Dergisi          |         1970 | 10            |         nan | 6              | regular issue |
+| Kurtuluş Yolu              |         1970 | 10            |          15 | 14             | regular issue |
 | Proleter Devrimci Aydınlık |         1970 | 10            |         nan | 10-24          | regular issue |
 | Aydınlık Sosyalist Dergi   |         1970 | 11            |         nan | 25             | regular issue |
 | Aylık Ant Dergisi          |         1970 | 11            |         nan | 7              | regular issue |
+| Kurtuluş Yolu              |         1970 | 11            |          23 | 16             | regular issue |
 | Proleter Devrimci Aydınlık |         1970 | 11            |         nan | 11-25          | regular issue |
 | Aydınlık Sosyalist Dergi   |         1970 | 12            |         nan | 26             | regular issue |
 | Aylık Ant Dergisi          |         1970 | 12            |         nan | 8              | regular issue |
@@ -337,19 +346,27 @@ In our dataset, we have 5 unique publication names. The earliest publication sta
 | Türk Solu                  |         1970 | 4             |         nan | 126            | regular issue |
 | Aydınlık Sosyalist Dergi   |         1970 | 5             |         nan | 19             | regular issue |
 | Aylık Ant Dergisi          |         1970 | 5             |         nan | 1              | regular issue |
+| Kurtuluş Yolu              |         1970 | 5             |          16 | 8              | regular issue |
 | Proleter Devrimci Aydınlık |         1970 | 5             |         nan | 5-19           | regular issue |
 | Aydınlık Sosyalist Dergi   |         1970 | 6             |         nan | 20             | regular issue |
 | Aylık Ant Dergisi          |         1970 | 6             |         nan | 2              | regular issue |
+| Kurtuluş Yolu              |         1970 | 6             |          16 | 0              | special issue |
+| Kurtuluş Yolu              |         1970 | 6             |           5 | 9              | regular issue |
 | Proleter Devrimci Aydınlık |         1970 | 6             |         nan | 6-20           | regular issue |
 | Aydınlık Sosyalist Dergi   |         1970 | 7             |         nan | 21             | regular issue |
 | Aylık Ant Dergisi          |         1970 | 7             |         nan | 3              | regular issue |
 | Proleter Devrimci Aydınlık |         1970 | 7             |         nan | 7-21           | regular issue |
 | Aydınlık Sosyalist Dergi   |         1970 | 8             |         nan | 22             | regular issue |
 | Aylık Ant Dergisi          |         1970 | 8             |         nan | 4              | regular issue |
+| Kurtuluş Yolu              |         1970 | 8             |           6 | 11             | regular issue |
+| Kurtuluş Yolu              |         1970 | 8             |          31 | 12             | regular issue |
 | Proleter Devrimci Aydınlık |         1970 | 8             |         nan | 8-22           | regular issue |
 | Aydınlık Sosyalist Dergi   |         1970 | 9             |         nan | 23             | regular issue |
 | Aylık Ant Dergisi          |         1970 | 9             |         nan | 5              | regular issue |
+| Kurtuluş Yolu              |         1970 | 9             |          25 | 13             | regular issue |
 | Proleter Devrimci Aydınlık |         1970 | 9             |         nan | 9-23           | regular issue |
+| Kurtuluş Yolu              |         1970 | nan           |         nan | 10             | regular issue |
+| Kurtuluş Yolu              |         1970 | nan           |         nan | 15             | regular issue |
 | Aydınlık Sosyalist Dergi   |         1971 | 1             |         nan | 27             | regular issue |
 | Aylık Ant Dergisi          |         1971 | 1             |         nan | 9              | regular issue |
 | Proleter Devrimci Aydınlık |         1971 | 1             |         nan | 13-27          | regular issue |
