@@ -1,5 +1,7 @@
 # [The Turkey-Palestine Source Collection](turkey_palestine_collection.md) // Articles
 
+In our dataset, we have 5 unique publication names. The earliest publication started in 1967, while the latest publication ended in 1971. These publications are spread across various locations including Ankara, İstanbul.
+
 | article_title                                                                | author_type   | author                | publication_title          | issue_number   | issue_date   | pages   |
 |:-----------------------------------------------------------------------------|:--------------|:----------------------|:---------------------------|:---------------|:-------------|:--------|
 | Arap Halklarının Kurtuluş Mücadelesini Hiçbir Güç Durduramıyacaktır          | nan           | nan                   | Proleter Devrimci Aydınlık | 9-23           | 1970-09      | 369-376 |
