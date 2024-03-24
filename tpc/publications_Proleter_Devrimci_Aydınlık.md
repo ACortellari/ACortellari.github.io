@@ -13,31 +13,31 @@ Proleter Devrimci Aydınlık was a monthly publication. It published 26 issues i
 
 ## Issues Summary
 
-| publication_title          |   issue_year |   issue_month |   issue_day | issue_number   | issue_type    |
-|:---------------------------|-------------:|--------------:|------------:|:---------------|:--------------|
-| Proleter Devrimci Aydınlık |         1970 |             1 |         nan | 1-15           | regular issue |
-| Proleter Devrimci Aydınlık |         1970 |            10 |         nan | 10-24          | regular issue |
-| Proleter Devrimci Aydınlık |         1970 |            11 |         nan | 11-25          | regular issue |
-| Proleter Devrimci Aydınlık |         1970 |            12 |         nan | 12-26          | regular issue |
-| Proleter Devrimci Aydınlık |         1970 |             2 |         nan | 2-16           | regular issue |
-| Proleter Devrimci Aydınlık |         1970 |             3 |         nan | 3-17           | regular issue |
-| Proleter Devrimci Aydınlık |         1970 |             4 |         nan | 4-18           | regular issue |
-| Proleter Devrimci Aydınlık |         1970 |             5 |         nan | 5-19           | regular issue |
-| Proleter Devrimci Aydınlık |         1970 |             6 |         nan | 6-20           | regular issue |
-| Proleter Devrimci Aydınlık |         1970 |             7 |         nan | 7-21           | regular issue |
-| Proleter Devrimci Aydınlık |         1970 |             8 |         nan | 8-22           | regular issue |
-| Proleter Devrimci Aydınlık |         1970 |             9 |         nan | 9-23           | regular issue |
-| Proleter Devrimci Aydınlık |         1971 |             1 |         nan | 13-27          | regular issue |
-| Proleter Devrimci Aydınlık |         1971 |             2 |           2 | 14-28          | regular issue |
-| Proleter Devrimci Aydınlık |         1971 |             2 |           5 | 15-29          | regular issue |
-| Proleter Devrimci Aydınlık |         1971 |             2 |          16 | 16-30          | regular issue |
-| Proleter Devrimci Aydınlık |         1971 |             2 |          23 | 17-31          | regular issue |
-| Proleter Devrimci Aydınlık |         1971 |             3 |           2 | 18-32          | regular issue |
-| Proleter Devrimci Aydınlık |         1971 |             3 |           9 | 19-33          | regular issue |
-| Proleter Devrimci Aydınlık |         1971 |             3 |          16 | 20-34          | regular issue |
-| Proleter Devrimci Aydınlık |         1971 |             3 |          23 | 21-35          | regular issue |
-| Proleter Devrimci Aydınlık |         1971 |             3 |          30 | 22-36          | regular issue |
-| Proleter Devrimci Aydınlık |         1971 |             4 |           6 | 23-37          | regular issue |
-| Proleter Devrimci Aydınlık |         1971 |             4 |          13 | 24-38          | regular issue |
-| Proleter Devrimci Aydınlık |         1971 |             4 |          20 | 25-39          | regular issue |
-| Proleter Devrimci Aydınlık |         1971 |             4 |          27 | 26-40          | regular issue |
+| publication_title          | issue_number   | issue_type    |   issue_year |   issue_month |   issue_day |
+|:---------------------------|:---------------|:--------------|-------------:|--------------:|------------:|
+| Proleter Devrimci Aydınlık | 1-15           | regular issue |         1970 |             1 |         nan |
+| Proleter Devrimci Aydınlık | 10-24          | regular issue |         1970 |            10 |         nan |
+| Proleter Devrimci Aydınlık | 11-25          | regular issue |         1970 |            11 |         nan |
+| Proleter Devrimci Aydınlık | 12-26          | regular issue |         1970 |            12 |         nan |
+| Proleter Devrimci Aydınlık | 2-16           | regular issue |         1970 |             2 |         nan |
+| Proleter Devrimci Aydınlık | 3-17           | regular issue |         1970 |             3 |         nan |
+| Proleter Devrimci Aydınlık | 4-18           | regular issue |         1970 |             4 |         nan |
+| Proleter Devrimci Aydınlık | 5-19           | regular issue |         1970 |             5 |         nan |
+| Proleter Devrimci Aydınlık | 6-20           | regular issue |         1970 |             6 |         nan |
+| Proleter Devrimci Aydınlık | 7-21           | regular issue |         1970 |             7 |         nan |
+| Proleter Devrimci Aydınlık | 8-22           | regular issue |         1970 |             8 |         nan |
+| Proleter Devrimci Aydınlık | 9-23           | regular issue |         1970 |             9 |         nan |
+| Proleter Devrimci Aydınlık | 13-27          | regular issue |         1971 |             1 |         nan |
+| Proleter Devrimci Aydınlık | 14-28          | regular issue |         1971 |             2 |         nan |
+| Proleter Devrimci Aydınlık | 15-29          | regular issue |         1971 |             2 |         nan |
+| Proleter Devrimci Aydınlık | 16-30          | regular issue |         1971 |             2 |         nan |
+| Proleter Devrimci Aydınlık | 17-31          | regular issue |         1971 |             2 |         nan |
+| Proleter Devrimci Aydınlık | 18-32          | regular issue |         1971 |             3 |         nan |
+| Proleter Devrimci Aydınlık | 19-33          | regular issue |         1971 |             3 |         nan |
+| Proleter Devrimci Aydınlık | 20-34          | regular issue |         1971 |             3 |         nan |
+| Proleter Devrimci Aydınlık | 21-35          | regular issue |         1971 |             3 |         nan |
+| Proleter Devrimci Aydınlık | 22-36          | regular issue |         1971 |             3 |         nan |
+| Proleter Devrimci Aydınlık | 23-37          | regular issue |         1971 |             4 |         nan |
+| Proleter Devrimci Aydınlık | 24-38          | regular issue |         1971 |             4 |         nan |
+| Proleter Devrimci Aydınlık | 25-39          | regular issue |         1971 |             4 |         nan |
+| Proleter Devrimci Aydınlık | 26-40          | regular issue |         1971 |             4 |         nan |

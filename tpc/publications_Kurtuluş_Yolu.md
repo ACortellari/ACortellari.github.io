@@ -9,22 +9,22 @@ Kurtuluş Yolu was a bi-weekly publication. It published 17 issues in İstanbul 
 
 ## Issues Summary
 
-| publication_title   |   issue_year |   issue_month |   issue_day |   issue_number | issue_type    |
-|:--------------------|-------------:|--------------:|------------:|---------------:|:--------------|
-| Kurtuluş Yolu       |         1968 |            12 |           1 |              1 | regular issue |
-| Kurtuluş Yolu       |         1968 |            12 |          15 |              2 | regular issue |
-| Kurtuluş Yolu       |         1969 |             1 |           1 |              3 | regular issue |
-| Kurtuluş Yolu       |         1969 |             1 |          17 |              4 | regular issue |
-| Kurtuluş Yolu       |         1969 |             2 |          15 |              6 | regular issue |
-| Kurtuluş Yolu       |         1969 |             3 |           1 |              7 | regular issue |
-| Kurtuluş Yolu       |         1969 |           nan |         nan |              5 | regular issue |
-| Kurtuluş Yolu       |         1970 |            10 |          15 |             14 | regular issue |
-| Kurtuluş Yolu       |         1970 |            11 |          23 |             16 | regular issue |
-| Kurtuluş Yolu       |         1970 |             5 |          16 |              8 | regular issue |
-| Kurtuluş Yolu       |         1970 |             6 |          16 |              0 | special issue |
-| Kurtuluş Yolu       |         1970 |             6 |           5 |              9 | regular issue |
-| Kurtuluş Yolu       |         1970 |             8 |           6 |             11 | regular issue |
-| Kurtuluş Yolu       |         1970 |             8 |          31 |             12 | regular issue |
-| Kurtuluş Yolu       |         1970 |             9 |          25 |             13 | regular issue |
-| Kurtuluş Yolu       |         1970 |           nan |         nan |             10 | regular issue |
-| Kurtuluş Yolu       |         1970 |           nan |         nan |             15 | regular issue |
+| publication_title   |   issue_number | issue_type    |   issue_year |   issue_month |   issue_day |
+|:--------------------|---------------:|:--------------|-------------:|--------------:|------------:|
+| Kurtuluş Yolu       |              1 | regular issue |         1968 |            12 |           1 |
+| Kurtuluş Yolu       |              2 | regular issue |         1968 |            12 |          15 |
+| Kurtuluş Yolu       |              3 | regular issue |         1969 |             1 |           1 |
+| Kurtuluş Yolu       |              4 | regular issue |         1969 |             1 |          17 |
+| Kurtuluş Yolu       |              6 | regular issue |         1969 |             2 |          15 |
+| Kurtuluş Yolu       |              7 | regular issue |         1969 |             3 |           1 |
+| Kurtuluş Yolu       |              5 | regular issue |         1969 |           nan |         nan |
+| Kurtuluş Yolu       |             14 | regular issue |         1970 |            10 |          15 |
+| Kurtuluş Yolu       |             16 | regular issue |         1970 |            11 |          23 |
+| Kurtuluş Yolu       |              8 | regular issue |         1970 |             5 |          16 |
+| Kurtuluş Yolu       |              0 | special issue |         1970 |             6 |          16 |
+| Kurtuluş Yolu       |              9 | regular issue |         1970 |             6 |           5 |
+| Kurtuluş Yolu       |             11 | regular issue |         1970 |             8 |           6 |
+| Kurtuluş Yolu       |             12 | regular issue |         1970 |             8 |          31 |
+| Kurtuluş Yolu       |             13 | regular issue |         1970 |             9 |          25 |
+| Kurtuluş Yolu       |             10 | regular issue |         1970 |           nan |         nan |
+| Kurtuluş Yolu       |             15 | regular issue |         1970 |           nan |         nan |

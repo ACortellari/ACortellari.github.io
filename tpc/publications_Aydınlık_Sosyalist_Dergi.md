@@ -16,34 +16,34 @@ Aydınlık Sosyalist Dergi was a monthly publication. It published 29 issues in 
 
 ## Issues Summary
 
-| publication_title        |   issue_year | issue_month   |   issue_day | issue_number   | issue_type    |
-|:-------------------------|-------------:|:--------------|------------:|:---------------|:--------------|
-| Aydınlık Sosyalist Dergi |         1968 | 11            |         nan | 1              | regular issue |
-| Aydınlık Sosyalist Dergi |         1968 | 12            |         nan | 2              | regular issue |
-| Aydınlık Sosyalist Dergi |         1969 | 1             |         nan | 3              | regular issue |
-| Aydınlık Sosyalist Dergi |         1969 | 10            |         nan | 12             | regular issue |
-| Aydınlık Sosyalist Dergi |         1969 | 11            |         nan | 13             | regular issue |
-| Aydınlık Sosyalist Dergi |         1969 | 12            |         nan | 14             | regular issue |
-| Aydınlık Sosyalist Dergi |         1969 | 2             |         nan | 4              | regular issue |
-| Aydınlık Sosyalist Dergi |         1969 | 3             |         nan | 5              | regular issue |
-| Aydınlık Sosyalist Dergi |         1969 | 4             |         nan | 6              | regular issue |
-| Aydınlık Sosyalist Dergi |         1969 | 5             |         nan | 7              | regular issue |
-| Aydınlık Sosyalist Dergi |         1969 | 6             |         nan | 8              | regular issue |
-| Aydınlık Sosyalist Dergi |         1969 | 7             |         nan | 9              | regular issue |
-| Aydınlık Sosyalist Dergi |         1969 | 8             |         nan | 10             | regular issue |
-| Aydınlık Sosyalist Dergi |         1969 | 9             |         nan | 11             | regular issue |
-| Aydınlık Sosyalist Dergi |         1970 | 1             |         nan | 15             | regular issue |
-| Aydınlık Sosyalist Dergi |         1970 | 10            |         nan | 24             | regular issue |
-| Aydınlık Sosyalist Dergi |         1970 | 11            |         nan | 25             | regular issue |
-| Aydınlık Sosyalist Dergi |         1970 | 12            |         nan | 26             | regular issue |
-| Aydınlık Sosyalist Dergi |         1970 | 2             |         nan | 16             | regular issue |
-| Aydınlık Sosyalist Dergi |         1970 | 3             |         nan | 17             | regular issue |
-| Aydınlık Sosyalist Dergi |         1970 | 4             |         nan | 18             | regular issue |
-| Aydınlık Sosyalist Dergi |         1970 | 5             |         nan | 19             | regular issue |
-| Aydınlık Sosyalist Dergi |         1970 | 6             |         nan | 20             | regular issue |
-| Aydınlık Sosyalist Dergi |         1970 | 7             |         nan | 21             | regular issue |
-| Aydınlık Sosyalist Dergi |         1970 | 8             |         nan | 22             | regular issue |
-| Aydınlık Sosyalist Dergi |         1970 | 9             |         nan | 23             | regular issue |
-| Aydınlık Sosyalist Dergi |         1971 | 1             |         nan | 27             | regular issue |
-| Aydınlık Sosyalist Dergi |         1971 | 2             |         nan | 28             | regular issue |
-| Aydınlık Sosyalist Dergi |         1971 | 3-4           |         nan | 29, 30         | regular issue |
+| publication_title        | issue_number   | issue_type    |   issue_year | issue_month   |   issue_day |
+|:-------------------------|:---------------|:--------------|-------------:|:--------------|------------:|
+| Aydınlık Sosyalist Dergi | 1              | regular issue |         1968 | 11            |         nan |
+| Aydınlık Sosyalist Dergi | 2              | regular issue |         1968 | 12            |         nan |
+| Aydınlık Sosyalist Dergi | 3              | regular issue |         1969 | 1             |         nan |
+| Aydınlık Sosyalist Dergi | 12             | regular issue |         1969 | 10            |         nan |
+| Aydınlık Sosyalist Dergi | 13             | regular issue |         1969 | 11            |         nan |
+| Aydınlık Sosyalist Dergi | 14             | regular issue |         1969 | 12            |         nan |
+| Aydınlık Sosyalist Dergi | 4              | regular issue |         1969 | 2             |         nan |
+| Aydınlık Sosyalist Dergi | 5              | regular issue |         1969 | 3             |         nan |
+| Aydınlık Sosyalist Dergi | 6              | regular issue |         1969 | 4             |         nan |
+| Aydınlık Sosyalist Dergi | 7              | regular issue |         1969 | 5             |         nan |
+| Aydınlık Sosyalist Dergi | 8              | regular issue |         1969 | 6             |         nan |
+| Aydınlık Sosyalist Dergi | 9              | regular issue |         1969 | 7             |         nan |
+| Aydınlık Sosyalist Dergi | 10             | regular issue |         1969 | 8             |         nan |
+| Aydınlık Sosyalist Dergi | 11             | regular issue |         1969 | 9             |         nan |
+| Aydınlık Sosyalist Dergi | 15             | regular issue |         1970 | 1             |         nan |
+| Aydınlık Sosyalist Dergi | 24             | regular issue |         1970 | 10            |         nan |
+| Aydınlık Sosyalist Dergi | 25             | regular issue |         1970 | 11            |         nan |
+| Aydınlık Sosyalist Dergi | 26             | regular issue |         1970 | 12            |         nan |
+| Aydınlık Sosyalist Dergi | 16             | regular issue |         1970 | 2             |         nan |
+| Aydınlık Sosyalist Dergi | 17             | regular issue |         1970 | 3             |         nan |
+| Aydınlık Sosyalist Dergi | 18             | regular issue |         1970 | 4             |         nan |
+| Aydınlık Sosyalist Dergi | 19             | regular issue |         1970 | 5             |         nan |
+| Aydınlık Sosyalist Dergi | 20             | regular issue |         1970 | 6             |         nan |
+| Aydınlık Sosyalist Dergi | 21             | regular issue |         1970 | 7             |         nan |
+| Aydınlık Sosyalist Dergi | 22             | regular issue |         1970 | 8             |         nan |
+| Aydınlık Sosyalist Dergi | 23             | regular issue |         1970 | 9             |         nan |
+| Aydınlık Sosyalist Dergi | 27             | regular issue |         1971 | 1             |         nan |
+| Aydınlık Sosyalist Dergi | 28             | regular issue |         1971 | 2             |         nan |
+| Aydınlık Sosyalist Dergi | 29, 30         | regular issue |         1971 | 3-4           |         nan |
