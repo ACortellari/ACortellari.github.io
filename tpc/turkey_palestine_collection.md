@@ -25,5 +25,5 @@ The database includes the following:
 
 ## Ongoing Work:
 
-* Add additional publications from the period in scope to the **12** unique publications already in the database.
+* Add additional publications from the period in scope to the **16** unique publications already in the database.
 * Add additional sources to the **17** articles already in the database.
