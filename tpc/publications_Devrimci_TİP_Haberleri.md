@@ -9,10 +9,10 @@ Devrimci TİP Haberleri was a monthly publication. It published 5 issues in İst
 
 ## Issues Summary
 
-| publication_title      |   issue_number | issue_type    |   issue_year |   issue_month |   issue_day |
-|:-----------------------|---------------:|:--------------|-------------:|--------------:|------------:|
-| Devrimci TİP Haberleri |              2 | regular issue |         1969 |            10 |          10 |
-| Devrimci TİP Haberleri |              3 | regular issue |         1969 |            11 |           8 |
-| Devrimci TİP Haberleri |              4 | regular issue |         1969 |            11 |          27 |
-| Devrimci TİP Haberleri |              5 | regular issue |         1969 |            12 |          26 |
-| Devrimci TİP Haberleri |              1 | regular issue |         1969 |             9 |          25 |
+| publication_title      |   issue_number | issue_type    |   issue_year |   issue_month |   issue_day | printing_house_name   |
+|:-----------------------|---------------:|:--------------|-------------:|--------------:|------------:|:----------------------|
+| Devrimci TİP Haberleri |              2 | regular issue |         1969 |            10 |          10 | Dilek Matbaası        |
+| Devrimci TİP Haberleri |              3 | regular issue |         1969 |            11 |           8 | Dilek Matbaası        |
+| Devrimci TİP Haberleri |              4 | regular issue |         1969 |            11 |          27 | Dilek Matbaası        |
+| Devrimci TİP Haberleri |              5 | regular issue |         1969 |            12 |          26 | Dilek Matbaası        |
+| Devrimci TİP Haberleri |              1 | regular issue |         1969 |             9 |          25 | Dilek Matbaası        |

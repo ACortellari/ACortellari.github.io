@@ -9,6 +9,6 @@ Sömürücüye Yumruk was a bi-weekly publication. It published 0 issues in Zong
 
 ## Issues Summary
 
-| publication_title   |   issue_number |   issue_type |   issue_year |   issue_month |   issue_day |
-|:--------------------|---------------:|-------------:|-------------:|--------------:|------------:|
-| Sömürücüye Yumruk   |            nan |          nan |          nan |           nan |         nan |
+| publication_title   |   issue_number |   issue_type |   issue_year |   issue_month |   issue_day |   printing_house_name |
+|:--------------------|---------------:|-------------:|-------------:|--------------:|------------:|----------------------:|
+| Sömürücüye Yumruk   |            nan |          nan |          nan |           nan |         nan |                   nan |

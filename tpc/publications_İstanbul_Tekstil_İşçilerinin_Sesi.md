@@ -9,6 +9,6 @@
 
 ## Issues Summary
 
-| publication_title                 |   issue_number |   issue_type |   issue_year |   issue_month |   issue_day |
-|:----------------------------------|---------------:|-------------:|-------------:|--------------:|------------:|
-| İstanbul Tekstil İşçilerinin Sesi |            nan |          nan |          nan |           nan |         nan |
+| publication_title                 |   issue_number |   issue_type |   issue_year |   issue_month |   issue_day |   printing_house_name |
+|:----------------------------------|---------------:|-------------:|-------------:|--------------:|------------:|----------------------:|
+| İstanbul Tekstil İşçilerinin Sesi |            nan |          nan |          nan |           nan |         nan |                   nan |

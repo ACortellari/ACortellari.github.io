@@ -2,7 +2,7 @@
 
 # [ARTICLES](firstlevel_articles.md) // [ISSUES](firstlevel_issues.md) // [PUBLICATIONS](firstlevel_publications.md)
 ```
-Last Update: 2024-03-25
+Last Update: 2024-03-27
 ```
 
 
@@ -18,7 +18,6 @@ The sources provided here span the years 1968 to 1971 representing just a fracti
 
 The database includes the following:
 
-* articles
 * articles_view
 * issues_view
 * publications_view
@@ -26,4 +25,4 @@ The database includes the following:
 ## Ongoing Work:
 
 * Add additional publications from the period in scope to the **19** unique publications already in the database.
-* Add additional sources to the **17** articles already in the database.
+* Add additional sources to the **26** articles already in the database.
