@@ -4,12 +4,13 @@ Haftalık Ant Dergisi was a weekly publication. It published 174 issues in İsta
 
 ## Articles in Scope
 
-| article_title          | author_type   | author      |   issue_number | issue_date   |   pages |
-|:-----------------------|:--------------|:------------|---------------:|:-------------|--------:|
-| 11 Genç Tutuklandı     | nan           | nan         |            164 | 1970-02      |       3 |
-| El Feth Gönüllüleri    | nan           | nan         |            173 | 1970-04      |       3 |
-| El Feth'e Niye Gittim? | Author        | Yusuf Aslan |            165 | 1970-02      |       6 |
-| El Feth’in Açıklaması  | nan           | nan         |            164 | 1970-02      |       2 |
+| article_title                             | author_type   | author      |   issue_number | issue_date   |   pages |
+|:------------------------------------------|:--------------|:------------|---------------:|:-------------|--------:|
+| 11 Genç Tutuklandı                        | nan           | nan         |            164 | 1970-02      |       3 |
+| El Feth Gönüllüleri                       | nan           | nan         |            173 | 1970-04      |       3 |
+| El Feth'e Niye Gittim?                    | Author        | Yusuf Aslan |            165 | 1970-02      |       6 |
+| El Feth’in Açıklaması                     | nan           | nan         |            164 | 1970-02      |       2 |
+| Filistin Demokratik Halk Kurtuluş Cephesi | nan           | nan         |            158 | 1970-01      |      13 |
 
 ## Issues Summary
 
@@ -64,7 +65,7 @@ Haftalık Ant Dergisi was a weekly publication. It published 174 issues in İsta
 | Haftalık Ant Dergisi |             33 | regular issue |         1967 |             8 |          15 |                   nan |
 | Haftalık Ant Dergisi |             34 | regular issue |         1967 |             8 |          22 |                   nan |
 | Haftalık Ant Dergisi |             35 | regular issue |         1967 |             8 |          29 |                   nan |
-| Haftalık Ant Dergisi |             36 | regular issue |         1967 |             9 |         nan |                   nan |
+| Haftalık Ant Dergisi |             36 | regular issue |         1967 |             9 |           5 |                   nan |
 | Haftalık Ant Dergisi |             37 | regular issue |         1967 |             9 |          12 |                   nan |
 | Haftalık Ant Dergisi |             38 | regular issue |         1967 |             9 |          19 |                   nan |
 | Haftalık Ant Dergisi |             39 | regular issue |         1967 |             9 |          26 |                   nan |

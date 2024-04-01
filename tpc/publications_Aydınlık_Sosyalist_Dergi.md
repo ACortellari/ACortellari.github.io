@@ -11,6 +11,7 @@ Aydınlık Sosyalist Dergi was a monthly publication. It published 29 issues in 
 | Aydınlık'ta Dünya ve Türkiye                                             | nan           | nan               |              4 | 1969-02      | 261-278 |
 | Aydınlık'ta Dünya ve Türkiye                                             | nan           | nan               |              6 | 1969-04      | 417-437 |
 | Aydınlık'ta Dünya ve Türkiye                                             | nan           | nan               |             24 | 1970-10      | 504-525 |
+| El Fetihe Katılan Gençlerin Bildirisi                                    | nan           | nan               |             17 | 1970-03      | 394-406 |
 | Filistin Araplarının Millî Kurtuluş Savaşı                               | Author        | Erdoğan Güçbilmez |              3 | 1969-01      | 227-244 |
 | Orta Doğuda Fedayi Harekatı ve Filistin Demokratik Halk Kurtuluş Cephesi | Author        | A. Kerim          |             19 | 1970-05      | 86-96   |
 
