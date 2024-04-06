@@ -1,0 +1,17 @@
+# [Publications](firstlevel_publications.md) // Fakirin Dostu
+
+Fakirin Dostu was a bi-weekly publication. It published 4 issues in İstanbul between 1969 and 1969.
+
+## Articles in Scope
+
+| article_title   | author_type   | author   | issue_number   | issue_date   | pages   |
+|-----------------|---------------|----------|----------------|--------------|---------|
+
+## Issues Summary
+
+| publication_title   |   issue_number | issue_type    |   issue_year |   issue_month |   issue_day |   printing_house_name |
+|:--------------------|---------------:|:--------------|-------------:|--------------:|------------:|----------------------:|
+| Fakirin Dostu       |              4 | regular issue |         1969 |            12 |           4 |                   nan |
+| Fakirin Dostu       |              1 | regular issue |          nan |           nan |         nan |                   nan |
+| Fakirin Dostu       |              2 | regular issue |          nan |           nan |         nan |                   nan |
+| Fakirin Dostu       |              3 | regular issue |          nan |           nan |         nan |                   nan |

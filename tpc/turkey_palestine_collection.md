@@ -1,8 +1,8 @@
 # [The Turkey-Palestine Source Collection](turkey_palestine_collection.md)
 
-# [ARTICLES](firstlevel_articles.md) // [ISSUES](firstlevel_issues.md) // [PUBLICATIONS](firstlevel_publications.md)
+# [ARTICLES](firstlevel_articles.md) // [ISSUES](firstlevel_issues.md) // [PRINTING](firstlevel_printing.md) // [PUBLICATIONS](firstlevel_publications.md)
 ```
-Last Update: 2024-04-01
+Last Update: 2024-04-06
 ```
 
 
@@ -20,9 +20,10 @@ The database includes the following:
 
 * articles_view
 * issues_view
+* printing_facilities_view
 * publications_view
 
 ## Ongoing Work:
 
-* Add additional publications from the period in scope to the **19** unique publications already in the database.
+* Add additional publications from the period in scope to the **43** unique publications already in the database.
 * Add additional sources to the **28** articles already in the database.
