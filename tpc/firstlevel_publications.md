@@ -31,8 +31,8 @@ In our dataset, we have 43 unique publication names. The earliest publication st
 | Kimya-İş                          | İstanbul               | weekly             | 8 years     |         1968 |        1975 |             54 |
 | Kurtuluş                          | Ankara                 | monthly            | 2 years     |         1970 |        1971 |              9 |
 | Kurtuluş Yolu                     | İstanbul               | bi-weekly          | 3 years     |         1968 |        1970 |             17 |
-| Köylü                             | Ankara                 | bi-weekly          | nan         |          nan |         nan |              0 |
-| Köylü Birliği                     | Ankara                 | bi-weekly          | nan         |          nan |         nan |              0 |
+| Köylü                             | Ankara                 | bi-weekly          | 1 year      |         1969 |        1969 |              4 |
+| Köylü Birliği                     | Ankara                 | bi-weekly          | 1 year      |         1969 |        1969 |              2 |
 | Parti Gazetesi                    | Ankara                 | bi-weekly          | nan         |          nan |         nan |              0 |
 | Partizan                          | İstanbul               | monthly            | nan         |          nan |         nan |              0 |
 | Proleter                          | Adana                  | monthly            | 3 years     |         1967 |        1969 |             13 |

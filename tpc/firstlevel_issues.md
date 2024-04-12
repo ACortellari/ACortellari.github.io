@@ -421,6 +421,8 @@ In our dataset, we have 43 unique publication names. The earliest publication st
 | TİP Haberleri                     | 33-34          | regular issue |         1969 | 6             |          26 | nan                                            |
 | Tekstil Gazetesi                  | 14             | regular issue |         1969 | 6             |           1 | Sile Matbaası                                  |
 | Ekmek                             | 2              | regular issue |         1969 | 6             |          15 | nan                                            |
+| Köylü                             | 3              | regular issue |         1969 | 6             |          11 | nan                                            |
+| Köylü                             | 4              | regular issue |         1969 | 6             |          27 | nan                                            |
 | Aydınlık Sosyalist Dergi          | 9              | regular issue |         1969 | 7             |         nan | İş Matbaacılık ve Ticaret                      |
 | Haftalık Ant Dergisi              | 131            | regular issue |         1969 | 7             |           1 | Vatan Gazetecilik ve Matbaacılık İşletmeciliği |
 | Haftalık Ant Dergisi              | 132            | regular issue |         1969 | 7             |           8 | Vatan Gazetecilik ve Matbaacılık İşletmeciliği |
@@ -450,6 +452,7 @@ In our dataset, we have 43 unique publication names. The earliest publication st
 | TİP Haberleri                     | 35-36          | regular issue |         1969 | 8             |          21 | nan                                            |
 | Tekstil Gazetesi                  | 17             | regular issue |         1969 | 8             |           1 | Sile Matbaası                                  |
 | Tekstil Gazetesi                  | 18             | regular issue |         1969 | 8             |          15 | Sile Matbaası                                  |
+| Köylü Birliği                     | 1              | regular issue |         1969 | 8             |           5 | nan                                            |
 | Aydınlık Sosyalist Dergi          | 11             | regular issue |         1969 | 9             |         nan | İş Matbaacılık ve Ticaret                      |
 | Haftalık Ant Dergisi              | 140            | regular issue |         1969 | 9             |           2 | Vatan Gazetecilik ve Matbaacılık İşletmeciliği |
 | Haftalık Ant Dergisi              | 141            | regular issue |         1969 | 9             |           9 | Vatan Gazetecilik ve Matbaacılık İşletmeciliği |
@@ -465,6 +468,7 @@ In our dataset, we have 43 unique publication names. The earliest publication st
 | Devrimci TİP Haberleri            | 1              | regular issue |         1969 | 9             |          25 | Dilek Matbaası                                 |
 | Tekstil Gazetesi                  | 19             | regular issue |         1969 | 9             |           1 | Sile Matbaası                                  |
 | Tekstil Gazetesi                  | 20             | regular issue |         1969 | 9             |          15 | Sile Matbaası                                  |
+| Köylü Birliği                     | 2              | regular issue |         1969 | 9             |          24 | nan                                            |
 | Kurtuluş Yolu                     | 5              | regular issue |         1969 | nan           |         nan | nan                                            |
 | Proleter                          | 12             | regular issue |         1969 | nan           |         nan | nan                                            |
 | Tekstil Gazetesi                  | 9              | regular issue |         1969 | nan           |         nan | nan                                            |
@@ -1077,8 +1081,8 @@ In our dataset, we have 43 unique publication names. The earliest publication st
 | Kardaş                            | 12             | regular issue |          nan | nan           |         nan | nan                                            |
 | Kardaş                            | 13             | regular issue |          nan | nan           |         nan | nan                                            |
 | Kardaş                            | 14             | regular issue |          nan | nan           |         nan | nan                                            |
-| Köylü                             | nan            | nan           |          nan | nan           |         nan | nan                                            |
-| Köylü Birliği                     | nan            | nan           |          nan | nan           |         nan | nan                                            |
+| Köylü                             | 1              | regular issue |          nan | nan           |         nan | nan                                            |
+| Köylü                             | 2              | regular issue |          nan | nan           |         nan | nan                                            |
 | Öncü İşçi                         | nan            | nan           |          nan | nan           |         nan | nan                                            |
 | Parti Gazetesi                    | nan            | nan           |          nan | nan           |         nan | nan                                            |
 | Partizan                          | nan            | nan           |          nan | nan           |         nan | nan                                            |
