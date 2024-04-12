@@ -2,18 +2,20 @@
 
 
 ```
-Last Update: 2024-04-06
+Last Update: 2024-04-12
 ```
 
 
-In our dataset, we have 43 unique publication names. The earliest publication started in 1967.0, while the latest publication ended in 1971.0. These publications are spread across various locations including Adana, Ankara, London, Tunceli, Zonguldak, Ören, İstanbul. The webpage showcases data sourced from the printing_facilities_view of the database. Download this view as a .csv file <a href='https://github.com/andreacortellari/andreacortellari.github.io/blob/main/tpc\Sources Database\printing_facilities_view.csv'>by clicking on the link.</a>
+In our dataset, we have 43 unique publication names. The earliest publication started in 1967.0, while the latest publication ended in 1982.0. These publications are spread across various locations including Adana, Ankara, London, Tunceli, Zonguldak, Ören, İstanbul. The webpage showcases data sourced from the printing_facilities_view of the database. Download this view as a .csv file <a href='https://github.com/andreacortellari/andreacortellari.github.io/blob/main/tpc\Sources Database\printing_facilities_view.csv'>by clicking on the link.</a>
 
 |   printing_house_id | printing_house_name                            | city_name   | publication_title          |
 |--------------------:|:-----------------------------------------------|:------------|:---------------------------|
 |                   1 | Hermon Matbaası                                | İstanbul    | Kurtuluş Yolu              |
+|                   2 | Haşmet Matbaası                                | İstanbul    | Türk Solu                  |
 |                   2 | Haşmet Matbaası                                | İstanbul    | Kurtuluş Yolu              |
 |                   3 | Tur Matbaası                                   | İstanbul    | Kurtuluş Yolu              |
 |                   4 | Bilmen Matbaası                                | İstanbul    | Tekstil Gazetesi           |
+|                   5 | Talat Matbaası                                 | İstanbul    | Türk Solu                  |
 |                   5 | Talat Matbaası                                 | İstanbul    | Tekstil Gazetesi           |
 |                   6 | Sile Matbaası                                  | İstanbul    | Tekstil Gazetesi           |
 |                   7 | İş Matbaacılık ve Ticaret                      | Ankara      | Aydınlık Sosyalist Dergi   |
@@ -37,3 +39,6 @@ In our dataset, we have 43 unique publication names. The earliest publication st
 |                  21 | Not specified                                  | nan         | FKF Mektubu                |
 |                  22 | Şenyuva Matbaası                               | Ankara      | İleri                      |
 |                  23 | Güzel İstanbul Matbaası                        | İstanbul    | Türk Solu                  |
+|                  24 | Son Telgraf Matbaası                           | İstanbul    | Türk Solu                  |
+|                  25 | Yüksel Matbaası                                | İstanbul    | Türk Solu                  |
+|                  26 | Ulusoğlu Matbaası                              | Ankara      | Kavga                      |
