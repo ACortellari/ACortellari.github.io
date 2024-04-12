@@ -1,6 +1,6 @@
 # [Publications](firstlevel_publications.md) // Parti Gazetesi
 
-Parti Gazetesi was a  publication. It published 0 issues in Ankara between  and .
+Parti Gazetesi was a bi-weekly publication. It published 0 issues in Ankara between  and .
 
 ## Articles in Scope
 
@@ -9,6 +9,6 @@ Parti Gazetesi was a  publication. It published 0 issues in Ankara between  and 
 
 ## Issues Summary
 
-| publication_title   |   issue_number |   issue_type |   issue_year |   issue_month |   issue_day |   printing_house_name |
-|:--------------------|---------------:|-------------:|-------------:|--------------:|------------:|----------------------:|
-| Parti Gazetesi      |            nan |          nan |          nan |           nan |         nan |                   nan |
+|   publication_id | publication_title   |   issue_number |   issue_type |   issue_year |   issue_month |   issue_day |   printing_house_name |
+|-----------------:|:--------------------|---------------:|-------------:|-------------:|--------------:|------------:|----------------------:|
+|               38 | Parti Gazetesi      |            nan |          nan |          nan |           nan |         nan |                   nan |

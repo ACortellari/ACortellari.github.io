@@ -1,6 +1,6 @@
 # [Publications](firstlevel_publications.md) // Sosyalist Parti
 
-Sosyalist Parti was a  publication. It published 0 issues in Ankara between  and .
+Sosyalist Parti was a monthly publication. It published 0 issues in Ankara between  and .
 
 ## Articles in Scope
 
@@ -9,6 +9,6 @@ Sosyalist Parti was a  publication. It published 0 issues in Ankara between  and
 
 ## Issues Summary
 
-| publication_title   |   issue_number |   issue_type |   issue_year |   issue_month |   issue_day |   printing_house_name |
-|:--------------------|---------------:|-------------:|-------------:|--------------:|------------:|----------------------:|
-| Sosyalist Parti     |            nan |          nan |          nan |           nan |         nan |                   nan |
+|   publication_id | publication_title   |   issue_number |   issue_type |   issue_year |   issue_month |   issue_day |   printing_house_name |
+|-----------------:|:--------------------|---------------:|-------------:|-------------:|--------------:|------------:|----------------------:|
+|               40 | Sosyalist Parti     |            nan |          nan |          nan |           nan |         nan |                   nan |

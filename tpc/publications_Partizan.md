@@ -1,6 +1,6 @@
 # [Publications](firstlevel_publications.md) // Partizan
 
-Partizan was a  publication. It published 0 issues in İstanbul between  and .
+Partizan was a monthly publication. It published 0 issues in İstanbul between  and .
 
 ## Articles in Scope
 
@@ -9,6 +9,6 @@ Partizan was a  publication. It published 0 issues in İstanbul between  and .
 
 ## Issues Summary
 
-| publication_title   |   issue_number |   issue_type |   issue_year |   issue_month |   issue_day |   printing_house_name |
-|:--------------------|---------------:|-------------:|-------------:|--------------:|------------:|----------------------:|
-| Partizan            |            nan |          nan |          nan |           nan |         nan |                   nan |
+|   publication_id | publication_title   |   issue_number |   issue_type |   issue_year |   issue_month |   issue_day |   printing_house_name |
+|-----------------:|:--------------------|---------------:|-------------:|-------------:|--------------:|------------:|----------------------:|
+|               39 | Partizan            |            nan |          nan |          nan |           nan |         nan |                   nan |

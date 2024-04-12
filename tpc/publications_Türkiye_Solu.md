@@ -1,6 +1,6 @@
 # [Publications](firstlevel_publications.md) // Türkiye Solu
 
-Türkiye Solu was a  publication. It published 0 issues in İstanbul between  and .
+Türkiye Solu was a bi-weekly publication. It published 0 issues in İstanbul between  and .
 
 ## Articles in Scope
 
@@ -9,6 +9,6 @@ Türkiye Solu was a  publication. It published 0 issues in İstanbul between  an
 
 ## Issues Summary
 
-| publication_title   |   issue_number |   issue_type |   issue_year |   issue_month |   issue_day |   printing_house_name |
-|:--------------------|---------------:|-------------:|-------------:|--------------:|------------:|----------------------:|
-| Türkiye Solu        |            nan |          nan |          nan |           nan |         nan |                   nan |
+|   publication_id | publication_title   |   issue_number |   issue_type |   issue_year |   issue_month |   issue_day |   printing_house_name |
+|-----------------:|:--------------------|---------------:|-------------:|-------------:|--------------:|------------:|----------------------:|
+|               42 | Türkiye Solu        |            nan |          nan |          nan |           nan |         nan |                   nan |

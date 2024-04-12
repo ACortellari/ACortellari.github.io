@@ -9,9 +9,9 @@ Fakirin Dostu was a bi-weekly publication. It published 4 issues in İstanbul be
 
 ## Issues Summary
 
-| publication_title   |   issue_number | issue_type    |   issue_year |   issue_month |   issue_day |   printing_house_name |
-|:--------------------|---------------:|:--------------|-------------:|--------------:|------------:|----------------------:|
-| Fakirin Dostu       |              4 | regular issue |         1969 |            12 |           4 |                   nan |
-| Fakirin Dostu       |              1 | regular issue |          nan |           nan |         nan |                   nan |
-| Fakirin Dostu       |              2 | regular issue |          nan |           nan |         nan |                   nan |
-| Fakirin Dostu       |              3 | regular issue |          nan |           nan |         nan |                   nan |
+|   publication_id | publication_title   |   issue_number | issue_type    |   issue_year |   issue_month |   issue_day |   printing_house_name |
+|-----------------:|:--------------------|---------------:|:--------------|-------------:|--------------:|------------:|----------------------:|
+|               21 | Fakirin Dostu       |              4 | regular issue |         1969 |            12 |           4 |                   nan |
+|               21 | Fakirin Dostu       |              1 | regular issue |          nan |           nan |         nan |                   nan |
+|               21 | Fakirin Dostu       |              2 | regular issue |          nan |           nan |         nan |                   nan |
+|               21 | Fakirin Dostu       |              3 | regular issue |          nan |           nan |         nan |                   nan |

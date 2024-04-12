@@ -1,8 +1,10 @@
 printing_house_id	printing_house_name	city_name	publication_title
 1	Hermon Matbaası	İstanbul	Kurtuluş Yolu
+2	Haşmet Matbaası	İstanbul	Türk Solu
 2	Haşmet Matbaası	İstanbul	Kurtuluş Yolu
 3	Tur Matbaası	İstanbul	Kurtuluş Yolu
 4	Bilmen Matbaası	İstanbul	Tekstil Gazetesi
+5	Talat Matbaası	İstanbul	Türk Solu
 5	Talat Matbaası	İstanbul	Tekstil Gazetesi
 6	Sile Matbaası	İstanbul	Tekstil Gazetesi
 7	İş Matbaacılık ve Ticaret	Ankara	Aydınlık Sosyalist Dergi
@@ -26,3 +28,6 @@ printing_house_id	printing_house_name	city_name	publication_title
 21	Not specified		FKF Mektubu
 22	Şenyuva Matbaası	Ankara	İleri
 23	Güzel İstanbul Matbaası	İstanbul	Türk Solu
+24	Son Telgraf Matbaası	İstanbul	Türk Solu
+25	Yüksel Matbaası	İstanbul	Türk Solu
+26	Ulusoğlu Matbaası	Ankara	Kavga
