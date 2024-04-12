@@ -23,13 +23,13 @@ Kurtuluş Yolu was a bi-weekly publication. It published 17 issues in İstanbul 
 |                6 | Kurtuluş Yolu       |              5 | regular issue |         1969 |           nan |         nan | nan                   |
 |                6 | Kurtuluş Yolu       |              6 | regular issue |         1969 |             2 |          15 | Hermon Matbaası       |
 |                6 | Kurtuluş Yolu       |              7 | regular issue |         1969 |             3 |           1 | Hermon Matbaası       |
-|                6 | Kurtuluş Yolu       |              0 | special issue |         1970 |             6 |          16 | nan                   |
-|                6 | Kurtuluş Yolu       |             14 | regular issue |         1970 |            10 |          15 | Haşmet Matbaası       |
-|                6 | Kurtuluş Yolu       |             13 | regular issue |         1970 |             9 |          25 | Haşmet Matbaası       |
-|                6 | Kurtuluş Yolu       |             12 | regular issue |         1970 |             8 |          31 | Haşmet Matbaası       |
 |                6 | Kurtuluş Yolu       |              8 | regular issue |         1970 |             5 |          16 | Hermon Matbaası       |
-|                6 | Kurtuluş Yolu       |             10 | regular issue |         1970 |           nan |         nan | nan                   |
 |                6 | Kurtuluş Yolu       |              9 | regular issue |         1970 |             6 |           5 | Hermon Matbaası       |
-|                6 | Kurtuluş Yolu       |             15 | regular issue |         1970 |           nan |         nan | nan                   |
+|                6 | Kurtuluş Yolu       |             10 | regular issue |         1970 |           nan |         nan | nan                   |
 |                6 | Kurtuluş Yolu       |             11 | regular issue |         1970 |             8 |           6 | nan                   |
+|                6 | Kurtuluş Yolu       |             12 | regular issue |         1970 |             8 |          31 | Haşmet Matbaası       |
+|                6 | Kurtuluş Yolu       |             13 | regular issue |         1970 |             9 |          25 | Haşmet Matbaası       |
+|                6 | Kurtuluş Yolu       |             14 | regular issue |         1970 |            10 |          15 | Haşmet Matbaası       |
+|                6 | Kurtuluş Yolu       |             15 | regular issue |         1970 |           nan |         nan | nan                   |
 |                6 | Kurtuluş Yolu       |             16 | regular issue |         1970 |            11 |          23 | Tur Matbaası          |
+|                6 | Kurtuluş Yolu       |              0 | special issue |         1970 |             6 |          16 | nan                   |

@@ -2,7 +2,7 @@
 
 
 ```
-Last Update: 2024-04-12
+Last Update: 2024-04-13
 ```
 
 
@@ -20,12 +20,14 @@ In our dataset, we have 43 unique publication names. The earliest publication st
 |                   6 | Sile Matbaası                                  | İstanbul    | Tekstil Gazetesi           |
 |                   7 | İş Matbaacılık ve Ticaret                      | Ankara      | Aydınlık Sosyalist Dergi   |
 |                   7 | İş Matbaacılık ve Ticaret                      | Ankara      | Proleter Devrimci Aydınlık |
+|                   7 | İş Matbaacılık ve Ticaret                      | Ankara      | Proleter                   |
 |                   8 | TÖYKO Matbaası                                 | Ankara      | Aydınlık Sosyalist Dergi   |
 |                   9 | San Matbaası                                   | Ankara      | Aydınlık Sosyalist Dergi   |
 |                  10 | Baylan Basım ve Ciltevi                        | Ankara      | Aydınlık Sosyalist Dergi   |
 |                  11 | TİSA Matbaacılık Sanayii                       | Ankara      | Proleter Devrimci Aydınlık |
 |                  12 | Ulusal Basımevi                                | Ankara      | Proleter Devrimci Aydınlık |
 |                  12 | Ulusal Basımevi                                | Ankara      | DİSK Gazetesi (2)          |
+|                  12 | Ulusal Basımevi                                | Ankara      | Proleter                   |
 |                  13 | İleri Sanat Matbaası                           | İstanbul    | Aylık Ant Dergisi          |
 |                  14 | Osmanbey Matbaası                              | İstanbul    | Aylık Ant Dergisi          |
 |                  15 | Dilek Matbaası                                 | İstanbul    | Devrimci TİP Haberleri     |
@@ -42,3 +44,6 @@ In our dataset, we have 43 unique publication names. The earliest publication st
 |                  24 | Son Telgraf Matbaası                           | İstanbul    | Türk Solu                  |
 |                  25 | Yüksel Matbaası                                | İstanbul    | Türk Solu                  |
 |                  26 | Ulusoğlu Matbaası                              | Ankara      | Kavga                      |
+|                  27 | Yağaç Matbaası                                 | nan         | Proleter                   |
+|                  28 | Ser Matbaası                                   | nan         | Proleter                   |
+|                  29 | Acar Matbaası                                  | İstanbul    | Yeni Gerçek                |

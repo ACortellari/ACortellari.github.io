@@ -2,7 +2,7 @@
 
 
 ```
-Last Update: 2024-04-12
+Last Update: 2024-04-13
 ```
 
 
@@ -33,23 +33,23 @@ In our dataset, we have 43 unique publication names. The earliest publication st
 | Kurtuluş Yolu                     | İstanbul               | bi-weekly          | 3 years     |         1968 |        1970 |             17 |
 | Köylü                             | Ankara                 | bi-weekly          | 1 year      |         1969 |        1969 |              4 |
 | Köylü Birliği                     | Ankara                 | bi-weekly          | 1 year      |         1969 |        1969 |              2 |
-| Parti Gazetesi                    | Ankara                 | bi-weekly          | nan         |          nan |         nan |              0 |
-| Partizan                          | İstanbul               | monthly            | nan         |          nan |         nan |              0 |
+| Parti Gazetesi                    | Ankara                 | bi-weekly          | 1 year      |         1971 |        1971 |              9 |
+| Partizan                          | İstanbul               | monthly            | 1 year      |         1970 |        1970 |              6 |
 | Proleter                          | Adana                  | monthly            | 3 years     |         1967 |        1969 |             13 |
 | Proleter Devrimci Aydınlık        | Ankara                 | monthly            | 2 years     |         1970 |        1971 |             26 |
 | Sosyalist                         | İstanbul               | bi-weekly          | 5 years     |         1967 |        1971 |             26 |
-| Sosyalist Parti                   | Ankara                 | monthly            | nan         |          nan |         nan |              0 |
+| Sosyalist Parti                   | Ankara                 | monthly            | 2 years     |         1970 |        1971 |              5 |
 | Sömürücüye Yumruk                 | Zonguldak              | bi-weekly          | 5 years     |         1967 |        1971 |             34 |
 | Tekstil Gazetesi                  | İstanbul               | bi-weekly          | 4 years     |         1968 |        1971 |             57 |
 | Tüm                               | Ankara                 | weekly             | 2 years     |         1968 |        1969 |              4 |
 | Türk Solu                         | Ankara                 | weekly             | 4 years     |         1967 |        1970 |            126 |
-| Türkiye Defteri                   | İstanbul               | monthly            | nan         |          nan |         nan |              0 |
-| Türkiye Solu                      | İstanbul               | bi-weekly          | nan         |          nan |         nan |              0 |
+| Türkiye Defteri                   | İstanbul               | monthly            | 5 years     |         1971 |        1975 |             20 |
+| Türkiye Solu                      | İstanbul               | bi-weekly          | 1 year      |         1971 |        1971 |              2 |
 | TİP Haberleri                     | Ankara                 | bi-weekly          | 3 years     |         1967 |        1969 |             32 |
 | Yeni Gerçek                       | İstanbul               | monthly            | 2 years     |         1967 |        1968 |              9 |
-| Öncü İşçi                         | Ankara                 | bi-weekly          | nan         |          nan |         nan |              0 |
+| Öncü İşçi                         | Ankara                 | bi-weekly          | 1 year      |         1971 |        1971 |              5 |
 | Örgüt                             | İstanbul               | bi-weekly          | 1 year      |         1968 |        1968 |              1 |
 | İleri                             | Ankara                 | monthly            | 2 years     |         1968 |        1969 |              6 |
 | İstanbul Tekstil İşçilerinin Sesi | İstanbul               | bi-weekly          | 2 years     |         1967 |        1968 |             21 |
-| İşçi Birliği                      | Ankara                 | bi-weekly          | nan         |          nan |         nan |              0 |
-| İşçi Köylü                        | İstanbul               | bi-weekly          | nan         |          nan |         nan |              0 |
+| İşçi Birliği                      | Ankara                 | bi-weekly          | 1 year      |         1969 |        1969 |              6 |
+| İşçi Köylü                        | İstanbul               | bi-weekly          | 2 years     |         1969 |        1970 |             16 |

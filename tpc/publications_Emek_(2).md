@@ -18,8 +18,8 @@ Emek (2) was a monthly publication. It published 12 issues in Ankara between 197
 |               43 | Emek (2)            |              5 | regular issue |         1970 |            10 |         nan |                   nan |
 |               43 | Emek (2)            |              6 | regular issue |         1970 |            11 |         nan |                   nan |
 |               43 | Emek (2)            |              7 | regular issue |         1970 |            12 |         nan |                   nan |
+|               43 | Emek (2)            |              8 | regular issue |         1971 |             1 |         nan |                   nan |
+|               43 | Emek (2)            |              9 | regular issue |         1971 |             2 |         nan |                   nan |
 |               43 | Emek (2)            |             10 | regular issue |         1971 |             3 |         nan |                   nan |
 |               43 | Emek (2)            |             11 | regular issue |         1971 |             4 |         nan |                   nan |
 |               43 | Emek (2)            |             12 | regular issue |         1971 |             5 |         nan |                   nan |
-|               43 | Emek (2)            |              8 | regular issue |         1971 |             1 |         nan |                   nan |
-|               43 | Emek (2)            |              9 | regular issue |         1971 |             2 |         nan |                   nan |

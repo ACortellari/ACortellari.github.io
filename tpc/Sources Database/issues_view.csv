@@ -67,7 +67,6 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 3	Proleter Devrimci Aydınlık	24-38	regular issue	1971	4		Ulusal Basımevi
 3	Proleter Devrimci Aydınlık	25-39	regular issue	1971	4		Ulusal Basımevi
 3	Proleter Devrimci Aydınlık	26-40	regular issue	1971	4		Ulusal Basımevi
-4	Haftalık Ant Dergisi	0	special issue	1967	1	3	Tan Matbaası
 4	Haftalık Ant Dergisi	1	regular issue	1967	1	3	Tan Matbaası
 4	Haftalık Ant Dergisi	2	regular issue	1967	1	10	Tan Matbaası
 4	Haftalık Ant Dergisi	3	regular issue	1967	1	17	Tan Matbaası
@@ -241,6 +240,7 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 4	Haftalık Ant Dergisi	171	regular issue	1970	4	7	Vatan Gazetecilik ve Matbaacılık İşletmeciliği
 4	Haftalık Ant Dergisi	172	regular issue	1970	4	14	Vatan Gazetecilik ve Matbaacılık İşletmeciliği
 4	Haftalık Ant Dergisi	173	regular issue	1970	4	21	Vatan Gazetecilik ve Matbaacılık İşletmeciliği
+4	Haftalık Ant Dergisi	0	special issue	1967	1	3	Tan Matbaası
 5	Türk Solu	1	regular issue	1967	11	17	Güzel İstanbul Matbaası
 5	Türk Solu	2	regular issue	1967	11	24	Güzel İstanbul Matbaası
 5	Türk Solu	3	regular issue	1967	12	1	Güzel İstanbul Matbaası
@@ -367,7 +367,6 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 5	Türk Solu	124	regular issue	1970	3	31	
 5	Türk Solu	125	regular issue	1970	4	7	
 5	Türk Solu	126	regular issue	1970	4	14	
-6	Kurtuluş Yolu	0	special issue	1970	6	16	
 6	Kurtuluş Yolu	1	regular issue	1968	12	1	Hermon Matbaası
 6	Kurtuluş Yolu	2	regular issue	1968	12	15	Hermon Matbaası
 6	Kurtuluş Yolu	3	regular issue	1969	1	1	Hermon Matbaası
@@ -384,6 +383,7 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 6	Kurtuluş Yolu	14	regular issue	1970	10	15	Haşmet Matbaası
 6	Kurtuluş Yolu	15	regular issue	1970			
 6	Kurtuluş Yolu	16	regular issue	1970	11	23	Tur Matbaası
+6	Kurtuluş Yolu	0	special issue	1970	6	16	
 7	DİSK Gazetesi	1	regular issue	1967	4	19	Vatan Gazetecilik ve Matbaacılık İşletmeciliği
 7	DİSK Gazetesi	2	regular issue	1967	5	22	Vatan Gazetecilik ve Matbaacılık İşletmeciliği
 7	DİSK Gazetesi	3	regular issue	1967			Vatan Gazetecilik ve Matbaacılık İşletmeciliği
@@ -399,35 +399,35 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 9	İleri	4	regular issue	1969	3	11	Not specified
 9	İleri	5	regular issue	1969	5	23	Not specified
 9	İleri	6	regular issue	1969	6	16	Şenyuva Matbaası
-10	Kavga	0	special issue	1967			Ulusoğlu Matbaası
 10	Kavga	1	regular issue	1967			
 10	Kavga	2	regular issue	1967	1	18	
 10	Kavga	3	regular issue	1967	1	25	
 10	Kavga	4	regular issue	1967	4	15	Ulusoğlu Matbaası
 10	Kavga	5	regular issue	1967			
 10	Kavga	6	regular issue	1967	5	16	Ulusoğlu Matbaası
-11	Proleter	1	regular issue	1967	11	15	
-11	Proleter	2	regular issue	1967	12	15	
-11	Proleter	3	regular issue	1968	1	15	
-11	Proleter	4	regular issue	1968	2	15	
-11	Proleter	5	regular issue	1968	3	15	
-11	Proleter	6	regular issue	1968	4	15	
-11	Proleter	7	regular issue	1968	5	15	
+10	Kavga	0	special issue	1967			Ulusoğlu Matbaası
+11	Proleter	1	regular issue	1967	11	15	İş Matbaacılık ve Ticaret
+11	Proleter	2	regular issue	1967	12	15	İş Matbaacılık ve Ticaret
+11	Proleter	3	regular issue	1968	1	15	Ulusal Basımevi
+11	Proleter	4	regular issue	1968	2	15	Ulusal Basımevi
+11	Proleter	5	regular issue	1968	3	15	Ulusal Basımevi
+11	Proleter	6	regular issue	1968	4	15	Yağaç Matbaası
+11	Proleter	7	regular issue	1968	5	15	Yağaç Matbaası
 11	Proleter	8	regular issue	1968			
 11	Proleter	9	regular issue	1969	5	10	
-11	Proleter	10	regular issue	1969	6	15	
-11	Proleter	11	regular issue	1969	7	20	
+11	Proleter	10	regular issue	1969	6	15	Ser Matbaası
+11	Proleter	11	regular issue	1969	7	20	Ser Matbaası
 11	Proleter	12	regular issue	1969			
 11	Proleter	13	regular issue	1969	10	9	
-12	Yeni Gerçek	1	regular issue	1967	9		
-12	Yeni Gerçek	2	regular issue	1967	10		
-12	Yeni Gerçek	3	regular issue	1967	11		
-12	Yeni Gerçek	4	regular issue	1967	12		
-12	Yeni Gerçek	5	regular issue	1968	1		
-12	Yeni Gerçek	6	regular issue	1968	2-3		
-12	Yeni Gerçek	7	regular issue	1968	4		
-12	Yeni Gerçek	8	regular issue	1968	5		
-12	Yeni Gerçek	9	regular issue	1968	6-7		
+12	Yeni Gerçek	1	regular issue	1967	9		Acar Matbaası
+12	Yeni Gerçek	2	regular issue	1967	10		Acar Matbaası
+12	Yeni Gerçek	3	regular issue	1967	11		Acar Matbaası
+12	Yeni Gerçek	4	regular issue	1967	12		Acar Matbaası
+12	Yeni Gerçek	5	regular issue	1968	1		Acar Matbaası
+12	Yeni Gerçek	6	regular issue	1968	2-3		Acar Matbaası
+12	Yeni Gerçek	7	regular issue	1968	4		Acar Matbaası
+12	Yeni Gerçek	8	regular issue	1968	5		Acar Matbaası
+12	Yeni Gerçek	9	regular issue	1968	6-7		Acar Matbaası
 13	Haşhaş	1	regular issue	1968			
 13	Haşhaş	2	regular issue	1968			
 13	Haşhaş	3	regular issue	1968			
@@ -459,7 +459,6 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 14	Sosyalist	24	regular issue	1971	4	13	
 14	Sosyalist	25	regular issue	1971	4	20	
 14	Sosyalist	26	regular issue	1971	4	27	
-15	Sömürücüye Yumruk	0	special issue	1968	12	25	
 15	Sömürücüye Yumruk	1	regular issue	1967	10	4	
 15	Sömürücüye Yumruk	2	regular issue	1967	10	16	
 15	Sömürücüye Yumruk	3	regular issue	1967	11	7	
@@ -493,6 +492,7 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 15	Sömürücüye Yumruk	31	regular issue	1971	1	23	
 15	Sömürücüye Yumruk	32	regular issue	1971	2	27	
 15	Sömürücüye Yumruk	33	regular issue	1971	4	23	
+15	Sömürücüye Yumruk	0	special issue	1968	12	25	
 16	Devrimci TİP Haberleri	1	regular issue	1969	9	25	Dilek Matbaası
 16	Devrimci TİP Haberleri	2	regular issue	1969	10	10	Dilek Matbaası
 16	Devrimci TİP Haberleri	3	regular issue	1969	11	8	Dilek Matbaası
@@ -627,9 +627,15 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 23	Tüm	3	regular issue	1968	12	25	
 23	Tüm	4	regular issue	1969	1	1	
 24	Örgüt	Not specified	regular issue	1968	5	26	
-25	Kimya-İş	0	special issue	1975			
-25	Kimya-İş	0	special issue	1975	6		
 25	Kimya-İş	1	regular issue				
+25	Kimya-İş	2	regular issue				
+25	Kimya-İş	3	regular issue				
+25	Kimya-İş	4	regular issue				
+25	Kimya-İş	5	regular issue	1968	10	18	
+25	Kimya-İş	6	regular issue				
+25	Kimya-İş	7	regular issue				
+25	Kimya-İş	8	regular issue				
+25	Kimya-İş	9	regular issue				
 25	Kimya-İş	10	regular issue				
 25	Kimya-İş	11	regular issue				
 25	Kimya-İş	12	regular issue				
@@ -640,7 +646,6 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 25	Kimya-İş	17	regular issue	1971	12	6	
 25	Kimya-İş	18	regular issue	1972	1	17	
 25	Kimya-İş	19	regular issue	1972	6	17	
-25	Kimya-İş	2	regular issue				
 25	Kimya-İş	20	regular issue	1972	7	15	
 25	Kimya-İş	21	regular issue	1972	8	17	
 25	Kimya-İş	22	regular issue	1972	9	23	
@@ -651,7 +656,6 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 25	Kimya-İş	27	regular issue	1973	4	20	
 25	Kimya-İş	28	regular issue	1973	5	17	
 25	Kimya-İş	29	regular issue	1973	6	20	
-25	Kimya-İş	3	regular issue				
 25	Kimya-İş	30	regular issue	1973	7	31	
 25	Kimya-İş	31	regular issue	1973	9	10	
 25	Kimya-İş	32	regular issue	1973	10	10	
@@ -662,7 +666,6 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 25	Kimya-İş	37	regular issue	1974	2	15	
 25	Kimya-İş	38	regular issue	1974	3	15	
 25	Kimya-İş	39	regular issue	1974	4	15	
-25	Kimya-İş	4	regular issue				
 25	Kimya-İş	40	regular issue	1974	5	15	
 25	Kimya-İş	41	regular issue	1974	6		
 25	Kimya-İş	42	regular issue	1974	7		
@@ -673,14 +676,11 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 25	Kimya-İş	47	regular issue	1974	12		
 25	Kimya-İş	48	regular issue	1975	1		
 25	Kimya-İş	49	regular issue	1975	2		
-25	Kimya-İş	5	regular issue	1968	10	18	
 25	Kimya-İş	50	regular issue	1975	3-4		
 25	Kimya-İş	51	regular issue	1975	5		
 25	Kimya-İş	52	regular issue	1975	6		
-25	Kimya-İş	6	regular issue				
-25	Kimya-İş	7	regular issue				
-25	Kimya-İş	8	regular issue				
-25	Kimya-İş	9	regular issue				
+25	Kimya-İş	0	special issue	1975			
+25	Kimya-İş	0	special issue	1975	6		
 26	Durum						
 26	Durum						
 26	Durum						
@@ -751,7 +751,104 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 26	Durum	0	special issue	1973	10	20	
 26	Durum	0	special issue	1974	9	11	
 26	Durum	1	regular issue				
+26	Durum	23	regular issue	1969	12	15	
+26	Durum	2					
+26	Durum	3					
+26	Durum	4					
+26	Durum	5					
+26	Durum	6					
+26	Durum	7					
+26	Durum	8					
+26	Durum	9					
 26	Durum	10					
+26	Durum	11					
+26	Durum	12					
+26	Durum	13					
+26	Durum	14					
+26	Durum	15					
+26	Durum	16					
+26	Durum	17					
+26	Durum	18					
+26	Durum	19					
+26	Durum	20					
+26	Durum	21					
+26	Durum	22					
+26	Durum	24					
+26	Durum	25					
+26	Durum	26					
+26	Durum	27					
+26	Durum	28					
+26	Durum	29					
+26	Durum	30					
+26	Durum	31					
+26	Durum	32					
+26	Durum	33					
+26	Durum	34					
+26	Durum	35					
+26	Durum	36					
+26	Durum	37					
+26	Durum	38					
+26	Durum	39					
+26	Durum	40					
+26	Durum	41					
+26	Durum	42					
+26	Durum	43					
+26	Durum	44					
+26	Durum	45					
+26	Durum	46					
+26	Durum	47					
+26	Durum	48					
+26	Durum	49					
+26	Durum	50					
+26	Durum	51					
+26	Durum	52					
+26	Durum	53					
+26	Durum	54					
+26	Durum	55					
+26	Durum	56					
+26	Durum	57					
+26	Durum	58					
+26	Durum	59					
+26	Durum	60					
+26	Durum	61					
+26	Durum	62					
+26	Durum	63					
+26	Durum	64					
+26	Durum	65					
+26	Durum	66					
+26	Durum	67					
+26	Durum	68					
+26	Durum	69					
+26	Durum	70					
+26	Durum	71					
+26	Durum	72					
+26	Durum	73					
+26	Durum	74					
+26	Durum	75					
+26	Durum	76	regular issue	1972	3	1	
+26	Durum	77	regular issue	1972	3	15	
+26	Durum	78					
+26	Durum	79					
+26	Durum	80					
+26	Durum	81					
+26	Durum	82					
+26	Durum	83					
+26	Durum	84					
+26	Durum	85					
+26	Durum	86					
+26	Durum	87					
+26	Durum	88					
+26	Durum	89					
+26	Durum	90					
+26	Durum	91					
+26	Durum	92					
+26	Durum	93					
+26	Durum	94					
+26	Durum	95					
+26	Durum	96					
+26	Durum	97					
+26	Durum	98					
+26	Durum	99					
 26	Durum	100					
 26	Durum	101					
 26	Durum	102					
@@ -762,7 +859,6 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 26	Durum	107					
 26	Durum	108					
 26	Durum	109					
-26	Durum	11					
 26	Durum	110					
 26	Durum	111					
 26	Durum	112					
@@ -773,7 +869,6 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 26	Durum	117	regular issue	1974	3	15	
 26	Durum	118	regular issue	1974	4	1	
 26	Durum	119	regular issue	1974	4	15	
-26	Durum	12					
 26	Durum	120	regular issue	1974	5	1	
 26	Durum	121					
 26	Durum	122					
@@ -788,7 +883,6 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 26	Durum	128	regular issue	1974	9	1	
 26	Durum	129					
 26	Durum	129	regular issue	1974	9	15	
-26	Durum	13					
 26	Durum	130					
 26	Durum	131					
 26	Durum	132					
@@ -799,7 +893,6 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 26	Durum	137					
 26	Durum	138					
 26	Durum	139					
-26	Durum	14					
 26	Durum	140					
 26	Durum	141					
 26	Durum	142					
@@ -810,7 +903,6 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 26	Durum	147					
 26	Durum	148					
 26	Durum	149					
-26	Durum	15					
 26	Durum	150					
 26	Durum	151					
 26	Durum	152					
@@ -821,7 +913,6 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 26	Durum	157					
 26	Durum	158					
 26	Durum	159					
-26	Durum	16					
 26	Durum	160					
 26	Durum	161					
 26	Durum	162					
@@ -832,7 +923,6 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 26	Durum	167					
 26	Durum	168					
 26	Durum	169					
-26	Durum	17					
 26	Durum	170					
 26	Durum	171					
 26	Durum	172					
@@ -843,7 +933,6 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 26	Durum	177					
 26	Durum	178					
 26	Durum	179					
-26	Durum	18					
 26	Durum	180					
 26	Durum	181					
 26	Durum	182					
@@ -854,7 +943,6 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 26	Durum	187					
 26	Durum	188					
 26	Durum	189					
-26	Durum	19					
 26	Durum	190					
 26	Durum	191					
 26	Durum	192					
@@ -865,8 +953,6 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 26	Durum	197					
 26	Durum	198					
 26	Durum	199					
-26	Durum	2					
-26	Durum	20					
 26	Durum	200					
 26	Durum	201					
 26	Durum	202					
@@ -877,7 +963,6 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 26	Durum	207					
 26	Durum	208					
 26	Durum	209					
-26	Durum	21					
 26	Durum	210					
 26	Durum	211					
 26	Durum	212					
@@ -888,103 +973,17 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 26	Durum	217					
 26	Durum	218					
 26	Durum	219					
-26	Durum	22					
 26	Durum	220					
 26	Durum	221	regular issue	1974	5	15	
 26	Durum	222	regular issue	1974	6	1	
 26	Durum	223	regular issue	1974	6	15	
 26	Durum	224	regular issue	1974	7	1	
-26	Durum	24					
-26	Durum	25					
-26	Durum	26					
-26	Durum	27					
-26	Durum	28					
-26	Durum	29					
 26	Durum	298	regular issue	1982	4	1	
-26	Durum	3					
-26	Durum	30					
-26	Durum	31					
-26	Durum	32					
-26	Durum	33					
-26	Durum	34					
-26	Durum	35					
-26	Durum	36					
-26	Durum	37					
-26	Durum	38					
-26	Durum	39					
-26	Durum	4					
-26	Durum	40					
-26	Durum	41					
-26	Durum	42					
-26	Durum	43					
-26	Durum	44					
-26	Durum	45					
-26	Durum	46					
-26	Durum	47					
-26	Durum	48					
-26	Durum	49					
-26	Durum	5					
-26	Durum	50					
-26	Durum	51					
-26	Durum	52					
-26	Durum	53					
-26	Durum	54					
-26	Durum	55					
-26	Durum	56					
-26	Durum	57					
-26	Durum	58					
-26	Durum	59					
-26	Durum	6					
-26	Durum	60					
-26	Durum	61					
-26	Durum	62					
-26	Durum	63					
-26	Durum	64					
-26	Durum	65					
-26	Durum	66					
-26	Durum	67					
-26	Durum	68					
-26	Durum	69					
-26	Durum	7					
-26	Durum	70					
-26	Durum	71					
-26	Durum	72					
-26	Durum	73					
-26	Durum	74					
-26	Durum	75					
-26	Durum	76	regular issue	1972	3	1	
-26	Durum	77	regular issue	1972	3	15	
-26	Durum	78					
-26	Durum	79					
-26	Durum	8					
-26	Durum	80					
-26	Durum	81					
-26	Durum	82					
-26	Durum	83					
-26	Durum	84					
-26	Durum	85					
-26	Durum	86					
-26	Durum	87					
-26	Durum	88					
-26	Durum	89					
-26	Durum	9					
-26	Durum	90					
-26	Durum	91					
-26	Durum	92					
-26	Durum	93					
-26	Durum	94					
-26	Durum	95					
-26	Durum	96					
-26	Durum	97					
-26	Durum	98					
-26	Durum	99					
-26	Durum	23	regular issue	1969	12	15	
 27	Ekmek	1	regular issue	1969			
 27	Ekmek	2	regular issue	1969	6	15	
 27	Ekmek	3	regular issue	1969	7	5	
 28	Emek						
 29	Gençlik	1	regular issue	1969	11		
-29	Gençlik	10	regular issue	1970	9-10		
 29	Gençlik	2	regular issue	1969	12		
 29	Gençlik	3-4	regular issue	1970	1-2		
 29	Gençlik	5	regular issue	1970	3		
@@ -992,8 +991,29 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 29	Gençlik	7	regular issue	1970	5-6		
 29	Gençlik	8	regular issue	1970	7		
 29	Gençlik	9	regular issue	1970	8		
-30	İşçi Birliği						
-31	İşçi Köylü						
+29	Gençlik	10	regular issue	1970	9-10		
+30	İşçi Birliği	1	regular issue	1969	6	30	
+30	İşçi Birliği	2	regular issue	1969	7	26	
+30	İşçi Birliği	3	regular issue	1969	8	20	
+30	İşçi Birliği	4	regular issue	1969	9	11	
+30	İşçi Birliği	5	regular issue	1969			
+30	İşçi Birliği	6	regular issue	1969	9	19	
+31	İşçi Köylü	1	regular issue	1969	7	8	
+31	İşçi Köylü	10	regular issue				
+31	İşçi Köylü	11	regular issue				
+31	İşçi Köylü	12	regular issue				
+31	İşçi Köylü	13	regular issue				
+31	İşçi Köylü	14	regular issue				
+31	İşçi Köylü	15	regular issue				
+31	İşçi Köylü	16	regular issue	1969	5	3	
+31	İşçi Köylü	2	regular issue	1969	7	24	
+31	İşçi Köylü	3	regular issue	1969	8	8	
+31	İşçi Köylü	4	regular issue	1969	8	22	
+31	İşçi Köylü	5	regular issue	1970	4	1	
+31	İşçi Köylü	6	regular issue				
+31	İşçi Köylü	7	regular issue				
+31	İşçi Köylü	8	regular issue				
+31	İşçi Köylü	9	regular issue				
 32	Kardaş	1	regular issue				
 32	Kardaş	2	regular issue				
 32	Kardaş	3	regular issue				
@@ -1011,6 +1031,14 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 32	Kardaş	15	regular issue	1970			
 32	Kardaş	15	special issue	1970			
 33	Katkı	1	regular issue	1970	9	15	
+33	Katkı	2	regular issue	1970	10	15	
+33	Katkı	3	regular issue	1970	11	15	
+33	Katkı	4	regular issue	1970	12	15	
+33	Katkı	5	regular issue	1971	1	15	
+33	Katkı	6	regular issue	1971	2	15	
+33	Katkı	7	regular issue	1971	3	15	
+33	Katkı	8	regular issue	1971	4	15	
+33	Katkı	9	regular issue	1974	12		
 33	Katkı	10	regular issue	1975	1		
 33	Katkı	11	regular issue	1975	2		
 33	Katkı	12	regular issue	1975	3		
@@ -1019,7 +1047,6 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 33	Katkı	16-17	regular issue	1975	7-8		
 33	Katkı	18	regular issue	1975	9		
 33	Katkı	19	regular issue	1975	10		
-33	Katkı	2	regular issue	1970	10	15	
 33	Katkı	20	regular issue	1975	11		
 33	Katkı	21	regular issue	1975	12		
 33	Katkı	22	regular issue	1976	1		
@@ -1030,7 +1057,6 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 33	Katkı	27	regular issue	1976	9		
 33	Katkı	28	regular issue	1976	12		
 33	Katkı	29	regular issue	1977	3		
-33	Katkı	3	regular issue	1970	11	15	
 33	Katkı	30	regular issue	1977	4		
 33	Katkı	31	regular issue	1977	5		
 33	Katkı	32	regular issue	1977	9		
@@ -1039,12 +1065,6 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 33	Katkı	35	regular issue	1978	3		
 33	Katkı	36	regular issue	1978	8		
 33	Katkı	37	regular issue	1980	7		
-33	Katkı	4	regular issue	1970	12	15	
-33	Katkı	5	regular issue	1971	1	15	
-33	Katkı	6	regular issue	1971	2	15	
-33	Katkı	7	regular issue	1971	3	15	
-33	Katkı	8	regular issue	1971	4	15	
-33	Katkı	9	regular issue	1974	12		
 34	Köylü	1	regular issue				
 34	Köylü	2	regular issue				
 34	Köylü	3	regular issue	1969	6	11	
@@ -1060,16 +1080,54 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 36	Kurtuluş	7	regular issue	1970	12		
 36	Kurtuluş	8	regular issue	1971	3	15	
 36	Kurtuluş	9	regular issue	1971	4	1	
-37	Öncü İşçi						
-38	Parti Gazetesi						
-39	Partizan						
-40	Sosyalist Parti						
-41	Türkiye Defteri						
-42	Türkiye Solu						
+37	Öncü İşçi	1	regular issue	1971	2	5	
+37	Öncü İşçi	2	regular issue	1971	3	5	
+37	Öncü İşçi	3	regular issue	1971	3	20	
+37	Öncü İşçi	4	regular issue	1971	4	5	
+37	Öncü İşçi	5	regular issue	1971	4	20	
+38	Parti Gazetesi	1	regular issue	1971	2	1	
+38	Parti Gazetesi	2	regular issue	1971	2	15	
+38	Parti Gazetesi	3	regular issue	1971	3	1	
+38	Parti Gazetesi	4	regular issue	1971	3	15	
+38	Parti Gazetesi	5	regular issue	1971	4	1	
+38	Parti Gazetesi	6	regular issue	1971	4	15	
+38	Parti Gazetesi	7	regular issue	1971	5	15	
+38	Parti Gazetesi	8	regular issue	1971	6	15	
+38	Parti Gazetesi	9	regular issue	1971	7	1	
+39	Partizan	1	regular issue	1970	5	1	
+39	Partizan	2	regular issue	1970	5	15	
+39	Partizan	3-4	regular issue	1970	6	1	
+39	Partizan	5	regular issue	1970	8		
+39	Partizan	6	regular issue	1970	9		
+39	Partizan	7	regular issue	1970	12		
+40	Sosyalist Parti	1	regular issue	1971	1		
+40	Sosyalist Parti	2	regular issue	1971	2		
+40	Sosyalist Parti	3	regular issue	1971	3		
+40	Sosyalist Parti	4	regular issue	1971	4		
+40	Sosyalist Parti	0	regular issue	1970	12		
+41	Türkiye Defteri	1	regular issue	1971	4		
+41	Türkiye Defteri	2	regular issue	1971			
+41	Türkiye Defteri	3	regular issue	1971			
+41	Türkiye Defteri	4	regular issue	1974	2		
+41	Türkiye Defteri	5	regular issue	1974	3		
+41	Türkiye Defteri	6	regular issue	1974	4		
+41	Türkiye Defteri	7	regular issue	1974	5		
+41	Türkiye Defteri	8	regular issue	1974	6		
+41	Türkiye Defteri	9	regular issue	1974	7		
+41	Türkiye Defteri	10	regular issue	1974	8		
+41	Türkiye Defteri	11	regular issue	1974	9		
+41	Türkiye Defteri	12	regular issue	1974	10		
+41	Türkiye Defteri	13	regular issue	1974	11		
+41	Türkiye Defteri	14	regular issue	1974	12		
+41	Türkiye Defteri	15	regular issue	1975	1		
+41	Türkiye Defteri	16	regular issue	1975	2		
+41	Türkiye Defteri	17	regular issue	1975	3		
+41	Türkiye Defteri	18	regular issue	1975	4		
+41	Türkiye Defteri	19	regular issue				
+41	Türkiye Defteri	20	regular issue				
+42	Türkiye Solu	1	regular issue	1971	4	5	
+42	Türkiye Solu	2	regular issue	1971	4	19	
 43	Emek (2)	1	regular issue	1970	6		
-43	Emek (2)	10	regular issue	1971	3		
-43	Emek (2)	11	regular issue	1971	4		
-43	Emek (2)	12	regular issue	1971	5		
 43	Emek (2)	2	regular issue	1970	7		
 43	Emek (2)	3	regular issue	1970	8		
 43	Emek (2)	4	regular issue	1970	9		
@@ -1078,3 +1136,6 @@ publication_id	publication_title	issue_number	issue_type	issue_year	issue_month	
 43	Emek (2)	7	regular issue	1970	12		
 43	Emek (2)	8	regular issue	1971	1		
 43	Emek (2)	9	regular issue	1971	2		
+43	Emek (2)	10	regular issue	1971	3		
+43	Emek (2)	11	regular issue	1971	4		
+43	Emek (2)	12	regular issue	1971	5		
