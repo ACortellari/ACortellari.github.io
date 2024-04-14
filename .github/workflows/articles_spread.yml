@@ -19,4 +19,4 @@ jobs:
           python-version: '3.x'  # Choose Python version
 
       - name: Run Python Script
-        run: python data_jobs\articles_distribution.py  # Replace 'your_script.py' with your Python script name
+        run: python tpc\data_jobs\articles_distribution.py
