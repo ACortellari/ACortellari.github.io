@@ -19,4 +19,4 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run script
-        run: python tpc/Scripts/articles_distribution.py
+        run: python tpc/articles_distribution.py
