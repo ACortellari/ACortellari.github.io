@@ -7,6 +7,7 @@ Aylık Ant Dergisi was a monthly publication. It published 13 issues in İstanbu
 | article_title                                       | author_type   | author                |   issue_number | issue_date   | pages   |
 |:----------------------------------------------------|:--------------|:----------------------|---------------:|:-------------|:--------|
 | Filistin Devrimi'nin Sorunları ve Eylül Dersleri    | Author        | Nayif Havatme         |             13 | 1971-05      | 77-82   |
+| Filistin’de Halk Savaşı Zafere Ulaşacaktır!         | nan           | nan                   |              6 | 1970-10      | 2-5     |
 | Küçük Burjuvazinin Hezimeti ve Filistin Halk Savaşı | Translator    | Mehmet Emin Bozarslan |              2 | 1970-06      | 75-84   |
 | Küçük Burjuvazinin Hezimeti ve Filistin Halk Savaşı | Author        | Nayif Havatme         |              2 | 1970-06      | 75-84   |
 
