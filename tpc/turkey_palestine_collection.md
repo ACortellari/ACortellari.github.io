@@ -2,7 +2,7 @@
 
 # [ARTICLES](firstlevel_articles.md) // [ISSUES](firstlevel_issues.md) // [PRINTING](firstlevel_printing.md) // [PUBLICATIONS](firstlevel_publications.md)
 ```
-Last Update: 2024-04-15
+Last Update: 2024-04-16
 ```
 
 
@@ -26,4 +26,4 @@ The database includes the following:
 ## Ongoing Work:
 
 * Add additional publications from the period in scope to the **43** unique publications already in the database.
-* Add additional sources to the **37** articles already in the database.
+* Add additional sources to the **38** articles already in the database.

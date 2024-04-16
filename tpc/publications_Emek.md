@@ -4,8 +4,9 @@ Emek was a weekly publication. It published 0 issues in Ankara between  and .
 
 ## Articles in Scope
 
-| article_title   | author_type   | author   | issue_number   | issue_date   | pages   |
-|-----------------|---------------|----------|----------------|--------------|---------|
+| article_title                     |   author_type |   author |   issue_number |   issue_date |   pages |
+|:----------------------------------|--------------:|---------:|---------------:|-------------:|--------:|
+| Lübnan Dar Boğazlara Sürükleniyor |           nan |      nan |             16 |          nan |      14 |
 
 ## Issues Summary
 

@@ -2,7 +2,7 @@
 
 
 ```
-Last Update: 2024-04-15
+Last Update: 2024-04-16
 ```
 
 
@@ -45,6 +45,7 @@ In our dataset, we have 43 unique publication names. The earliest publication st
 | Haziran 1967 den Sonra                                                                          | Gérard Chaliand       | Türk Solu                  | 83             | 1969-06      | 14      | nan                          |
 | Küçük Burjuvazinin Hezimeti ve Filistin Halk Savaşı                                             | Mehmet Emin Bozarslan | Aylık Ant Dergisi          | 2              | 1970-06      | 75-84   | nan                          |
 | Küçük Burjuvazinin Hezimeti ve Filistin Halk Savaşı                                             | Nayif Havatme         | Aylık Ant Dergisi          | 2              | 1970-06      | 75-84   | nan                          |
+| Lübnan Dar Boğazlara Sürükleniyor                                                               | nan                   | Emek                       | 16             | nan          | 14      | nan                          |
 | Milli şahsiyetiçin savaş                                                                        | Gérard Chaliand       | Türk Solu                  | 84             | 1969-06      | 14      | nan                          |
 | Mısırda Karışıklık                                                                              | nan                   | Kurtuluş Yolu              | 2              | 1968-12      | 2       | nan                          |
 | Nayif Havatmeh Kimdir?                                                                          | nan                   | Haftalık Ant Dergisi       | 164            | 1970-02      | 12      | nan                          |
