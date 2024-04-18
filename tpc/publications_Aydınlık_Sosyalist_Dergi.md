@@ -4,16 +4,16 @@ Aydınlık Sosyalist Dergi was a monthly publication. It published 29 issues in 
 
 ## Articles in Scope
 
-| article_title                                                            | author_type   | author            |   issue_number | issue_date   | pages   |
-|:-------------------------------------------------------------------------|:--------------|:------------------|---------------:|:-------------|:--------|
-| Aydınlık'ta Dünya ve Türkiye                                             | nan           | nan               |              1 | 1968-11      | 33-44   |
-| Aydınlık'ta Dünya ve Türkiye                                             | nan           | nan               |              3 | 1969-01      | 177-186 |
-| Aydınlık'ta Dünya ve Türkiye                                             | nan           | nan               |              4 | 1969-02      | 261-278 |
-| Aydınlık'ta Dünya ve Türkiye                                             | nan           | nan               |              6 | 1969-04      | 417-437 |
-| Aydınlık'ta Dünya ve Türkiye                                             | nan           | nan               |             24 | 1970-10      | 504-525 |
-| El Fetihe Katılan Gençlerin Bildirisi                                    | nan           | nan               |             17 | 1970-03      | 394-406 |
-| Filistin Araplarının Millî Kurtuluş Savaşı                               | Author        | Erdoğan Güçbilmez |              3 | 1969-01      | 227-244 |
-| Orta Doğuda Fedayi Harekatı ve Filistin Demokratik Halk Kurtuluş Cephesi | Author        | A. Kerim          |             19 | 1970-05      | 86-96   |
+| article_title                                                            | author            |   issue_number | issue_date   |
+|:-------------------------------------------------------------------------|:------------------|---------------:|:-------------|
+| Aydınlık'ta Dünya ve Türkiye                                             | nan               |              1 | 1968-11      |
+| Aydınlık'ta Dünya ve Türkiye                                             | nan               |              3 | 1969-01      |
+| Aydınlık'ta Dünya ve Türkiye                                             | nan               |              4 | 1969-02      |
+| Aydınlık'ta Dünya ve Türkiye                                             | nan               |              6 | 1969-04      |
+| Aydınlık'ta Dünya ve Türkiye                                             | nan               |             24 | 1970-10      |
+| El Fetihe Katılan Gençlerin Bildirisi                                    | nan               |             17 | 1970-03      |
+| Filistin Araplarının Millî Kurtuluş Savaşı                               | Erdoğan Güçbilmez |              3 | 1969-01      |
+| Orta Doğuda Fedayi Harekatı ve Filistin Demokratik Halk Kurtuluş Cephesi | A. Kerim          |             19 | 1970-05      |
 
 ## Issues Summary
 

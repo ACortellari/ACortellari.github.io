@@ -4,11 +4,11 @@ Kurtuluş was a monthly publication. It published 9 issues in Ankara between 197
 
 ## Articles in Scope
 
-| article_title                        |   author_type |   author |   issue_number | issue_date   |   pages |
-|:-------------------------------------|--------------:|---------:|---------------:|:-------------|--------:|
-| Arap Halklarının Savaşı Devam Edecek |           nan |      nan |              5 | 1970-10      |       1 |
-| Halk Savaşı                          |           nan |      nan |              4 | 1970-08      |       2 |
-| Ya İstiklal Ya Ölüm!                 |           nan |      nan |              5 | 1970-10      |       2 |
+| article_title                        |   author |   issue_number | issue_date   |
+|:-------------------------------------|---------:|---------------:|:-------------|
+| Arap Halklarının Savaşı Devam Edecek |      nan |              5 | 1970-10      |
+| Halk Savaşı                          |      nan |              4 | 1970-08      |
+| Ya İstiklal Ya Ölüm!                 |      nan |              5 | 1970-10      |
 
 ## Issues Summary
 

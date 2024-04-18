@@ -4,8 +4,8 @@ Tüm was a weekly publication. It published 4 issues in Ankara between 1968 and 
 
 ## Articles in Scope
 
-| article_title   | author_type   | author   | issue_number   | issue_date   | pages   |
-|-----------------|---------------|----------|----------------|--------------|---------|
+| article_title   | author   | issue_number   | issue_date   |
+|-----------------|----------|----------------|--------------|
 
 ## Issues Summary
 

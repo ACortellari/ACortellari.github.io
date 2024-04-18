@@ -4,8 +4,8 @@ FKF Mektubu was a weekly publication. It published 2 issues in Ankara between 19
 
 ## Articles in Scope
 
-| article_title   | author_type   | author   | issue_number   | issue_date   | pages   |
-|-----------------|---------------|----------|----------------|--------------|---------|
+| article_title   | author   | issue_number   | issue_date   |
+|-----------------|----------|----------------|--------------|
 
 ## Issues Summary
 

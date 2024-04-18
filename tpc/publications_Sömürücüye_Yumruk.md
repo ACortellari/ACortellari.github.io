@@ -4,8 +4,8 @@ Sömürücüye Yumruk was a bi-weekly publication. It published 34 issues in Zon
 
 ## Articles in Scope
 
-| article_title   | author_type   | author   | issue_number   | issue_date   | pages   |
-|-----------------|---------------|----------|----------------|--------------|---------|
+| article_title   | author   | issue_number   | issue_date   |
+|-----------------|----------|----------------|--------------|
 
 ## Issues Summary
 

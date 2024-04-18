@@ -4,8 +4,8 @@ Sosyalist Parti was a monthly publication. It published 5 issues in Ankara betwe
 
 ## Articles in Scope
 
-| article_title   | author_type   | author   | issue_number   | issue_date   | pages   |
-|-----------------|---------------|----------|----------------|--------------|---------|
+| article_title   | author   | issue_number   | issue_date   |
+|-----------------|----------|----------------|--------------|
 
 ## Issues Summary
 

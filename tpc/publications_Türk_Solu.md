@@ -4,18 +4,18 @@ Türk Solu was a weekly publication. It published 126 issues in Ankara between 1
 
 ## Articles in Scope
 
-| article_title                                                   | author_type   | author            |   issue_number | issue_date   | pages   |
-|:----------------------------------------------------------------|:--------------|:------------------|---------------:|:-------------|:--------|
-| El Feth ve Göçmenler                                            | Author        | Gérard Chaliand   |             86 | 1969-07      | 15      |
-| El Feth ve Göçmenler                                            | Author        | Gérard Chaliand   |             87 | 1969-07      | 15      |
-| El Feth’in Zaferi                                               | Author        | Gérard Chaliand   |             82 | 1969-06      | 12      |
-| Filistin Demokratik Halk Kurtuluş Cephesi                       | Author        | Mehmet Ali Cehşan |             97 | 1969-09      | 8-10    |
-| Filistin Demokratik Halk Kurtuluş Cephesi Görüşlerini Açıklıyor | nan           | nan               |            126 | 1970-04      | 15-16   |
-| Filistin Halk Kurtuluş Cephesinde bölünmeler                    | Author        | Gérard Chaliand   |             85 | 1969-07      | 13      |
-| Filistin Mukavemeti                                             | Author        | Gérard Chaliand   |             81 | 1969-06      | 10-11   |
-| Haziran 1967 den Sonra                                          | Author        | Gérard Chaliand   |             83 | 1969-06      | 14      |
-| Milli şahsiyetiçin savaş                                        | Author        | Gérard Chaliand   |             84 | 1969-06      | 14      |
-| Tartışmanın Özü                                                 | Author        | Gérard Chaliand   |             89 | 1969-07      | 13      |
+| article_title                                                   | author            |   issue_number | issue_date   |
+|:----------------------------------------------------------------|:------------------|---------------:|:-------------|
+| El Feth ve Göçmenler                                            | Gérard Chaliand   |             86 | 1969-07      |
+| El Feth ve Göçmenler                                            | Gérard Chaliand   |             87 | 1969-07      |
+| El Feth’in Zaferi                                               | Gérard Chaliand   |             82 | 1969-06      |
+| Filistin Demokratik Halk Kurtuluş Cephesi                       | Mehmet Ali Cehşan |             97 | 1969-09      |
+| Filistin Demokratik Halk Kurtuluş Cephesi Görüşlerini Açıklıyor | nan               |            126 | 1970-04      |
+| Filistin Halk Kurtuluş Cephesinde bölünmeler                    | Gérard Chaliand   |             85 | 1969-07      |
+| Filistin Mukavemeti                                             | Gérard Chaliand   |             81 | 1969-06      |
+| Haziran 1967 den Sonra                                          | Gérard Chaliand   |             83 | 1969-06      |
+| Milli şahsiyetiçin savaş                                        | Gérard Chaliand   |             84 | 1969-06      |
+| Tartışmanın Özü                                                 | Gérard Chaliand   |             89 | 1969-07      |
 
 ## Issues Summary
 

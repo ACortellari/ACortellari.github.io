@@ -4,9 +4,9 @@ DİSK Gazetesi (2) was a monthly publication. It published 4 issues in Ankara be
 
 ## Articles in Scope
 
-| article_title        |   author_type |   author |   issue_number | issue_date   | pages   |
-|:---------------------|--------------:|---------:|---------------:|:-------------|:--------|
-| Ürdün'de Halk Savaşı |           nan |      nan |              3 | 1970-10      | 1-3     |
+| article_title        |   author |   issue_number | issue_date   |
+|:---------------------|---------:|---------------:|:-------------|
+| Ürdün'de Halk Savaşı |      nan |              3 | 1970-10      |
 
 ## Issues Summary
 

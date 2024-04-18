@@ -4,8 +4,8 @@ Fakirin Dostu was a bi-weekly publication. It published 4 issues in İstanbul be
 
 ## Articles in Scope
 
-| article_title   | author_type   | author   | issue_number   | issue_date   | pages   |
-|-----------------|---------------|----------|----------------|--------------|---------|
+| article_title   | author   | issue_number   | issue_date   |
+|-----------------|----------|----------------|--------------|
 
 ## Issues Summary
 

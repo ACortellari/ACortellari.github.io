@@ -4,13 +4,13 @@ Kurtuluş Yolu was a bi-weekly publication. It published 17 issues in İstanbul 
 
 ## Articles in Scope
 
-| article_title                                       | author_type   | author      |   issue_number | issue_date   |   pages |
-|:----------------------------------------------------|:--------------|:------------|---------------:|:-------------|--------:|
-| Arap-İsrail Çatışması                               | Author        | Minu İnkaya |              1 | 1968-12      |       2 |
-| Emperyalizmin ve Kapitalizm Mutlaka Yok Edilecektir | nan           | nan         |              9 | 1970-06      |       3 |
-| Mısırda Karışıklık                                  | nan           | nan         |              2 | 1968-12      |       2 |
-| Ürdün                                               | nan           | nan         |              2 | 1968-12      |       2 |
-| Ürdün                                               | nan           | nan         |              3 | 1969-01      |       2 |
+| article_title                                       | author      |   issue_number | issue_date   |
+|:----------------------------------------------------|:------------|---------------:|:-------------|
+| Arap-İsrail Çatışması                               | Minu İnkaya |              1 | 1968-12      |
+| Emperyalizmin ve Kapitalizm Mutlaka Yok Edilecektir | nan         |              9 | 1970-06      |
+| Mısırda Karışıklık                                  | nan         |              2 | 1968-12      |
+| Ürdün                                               | nan         |              2 | 1968-12      |
+| Ürdün                                               | nan         |              3 | 1969-01      |
 
 ## Issues Summary
 

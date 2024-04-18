@@ -4,17 +4,17 @@ Haftalık Ant Dergisi was a weekly publication. It published 174 issues in İsta
 
 ## Articles in Scope
 
-| article_title                                  | author_type   | author      |   issue_number | issue_date   | pages   |
-|:-----------------------------------------------|:--------------|:------------|---------------:|:-------------|:--------|
-| 11 Genç Tutuklandı                             | nan           | nan         |            164 | 1970-02      | 3       |
-| El Feth Gönüllüleri                            | nan           | nan         |            173 | 1970-04      | 3       |
-| El Feth'e Niye Gittim?                         | Author        | Yusuf Aslan |            165 | 1970-02      | 6       |
-| El Feth’in Açıklaması                          | nan           | nan         |            164 | 1970-02      | 2       |
-| Filistin Demokratik Halk Kurtuluş Cephesi      | nan           | nan         |            158 | 1970-01      | 13      |
-| Filistinde Emperyalizme Karşı Savaşan Örgütler | nan           | nan         |            164 | 1970-02      | 12-13   |
-| Filistin’de Marksist-Leninist Cephe!           | nan           | nan         |            138 | 1969-08      | 8-9     |
-| Filistin’de Savaşın Öncülüğü Halka Geçiyor!    | nan           | nan         |            127 | 1969-06      | 12-13   |
-| Nayif Havatmeh Kimdir?                         | nan           | nan         |            164 | 1970-02      | 12      |
+| article_title                                  | author      |   issue_number | issue_date   |
+|:-----------------------------------------------|:------------|---------------:|:-------------|
+| 11 Genç Tutuklandı                             | nan         |            164 | 1970-02      |
+| El Feth Gönüllüleri                            | nan         |            173 | 1970-04      |
+| El Feth'e Niye Gittim?                         | Yusuf Aslan |            165 | 1970-02      |
+| El Feth’in Açıklaması                          | nan         |            164 | 1970-02      |
+| Filistin Demokratik Halk Kurtuluş Cephesi      | nan         |            158 | 1970-01      |
+| Filistinde Emperyalizme Karşı Savaşan Örgütler | nan         |            164 | 1970-02      |
+| Filistin’de Marksist-Leninist Cephe!           | nan         |            138 | 1969-08      |
+| Filistin’de Savaşın Öncülüğü Halka Geçiyor!    | nan         |            127 | 1969-06      |
+| Nayif Havatmeh Kimdir?                         | nan         |            164 | 1970-02      |
 
 ## Issues Summary
 

@@ -4,13 +4,13 @@ Proleter Devrimci Aydınlık was a monthly publication. It published 26 issues i
 
 ## Articles in Scope
 
-| article_title                                                                                   |   author_type |   author | issue_number   | issue_date   | pages   |
-|:------------------------------------------------------------------------------------------------|--------------:|---------:|:---------------|:-------------|:--------|
-| Arap Halklarının Kurtuluş Mücadelesini Hiçbir Güç Durduramıyacaktır                             |           nan |      nan | 9-23           | 1970-09      | 369-376 |
-| Fateh Bazı 'Büyük' Devletlerin Filistin Devrimini Boğma Tertibini Lanetliyor                    |           nan |      nan | 10-24          | 1970-10      | 425-426 |
-| Filistin İhtilalini Kimse Durduramaz!                                                           |           nan |      nan | 10-24          | 1970-10      | 417-423 |
-| Filistin İkinci Dünya Kongresi                                                                  |           nan |      nan | 10-24          | 1970-10      | 423-425 |
-| Proletaryanın Devrimci Partilerinin Önderliğinde Dünya Halklarının Mücadeleleri Hızla Gelişiyor |           nan |      nan | 3-17           | 1970-03      | 347-352 |
+| article_title                                                                                   |   author | issue_number   | issue_date   |
+|:------------------------------------------------------------------------------------------------|---------:|:---------------|:-------------|
+| Arap Halklarının Kurtuluş Mücadelesini Hiçbir Güç Durduramıyacaktır                             |      nan | 9-23           | 1970-09      |
+| Fateh Bazı 'Büyük' Devletlerin Filistin Devrimini Boğma Tertibini Lanetliyor                    |      nan | 10-24          | 1970-10      |
+| Filistin İhtilalini Kimse Durduramaz!                                                           |      nan | 10-24          | 1970-10      |
+| Filistin İkinci Dünya Kongresi                                                                  |      nan | 10-24          | 1970-10      |
+| Proletaryanın Devrimci Partilerinin Önderliğinde Dünya Halklarının Mücadeleleri Hızla Gelişiyor |      nan | 3-17           | 1970-03      |
 
 ## Issues Summary
 
